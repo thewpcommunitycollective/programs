@@ -38,13 +38,11 @@ Short-term support and fast-tracked action to respond to urgent needs in The WPC
 
 ## Contributing
 
-The WP Community Collective supports open participation in its programs. To get involved of learn more:
+The WPCC welcomes and encourages collaboration from individuals and organizations aligned with our mission and values. Contribution to the public repositories of The WP Community Collective are open to the public. All engagement with and contributions to these respositories are subject to the policies outlined in [The WPCC Code of Conduct](https://www.thewpcommunitycollective.com/about/code-of-conduct/).
+
+To get involved or learn more:
 
 - [Visit our website] (https://www.thewpcommunitycollective.com/)
 - [Join The WPCC] (https://www.thewpcommunitycollective.com/join/)
-
-Contribution to the public repositories of The WP Community Collective are open to the public. All engagement with and contributions to these respositories are subject to the policies outlined in [The WPCC Code of Conduct](https://www.thewpcommunitycollective.com/about/code-of-conduct/).
-
----
 
 For questions or inquiries, contact [info@thewpcommunitycollective.com](mailto:info@thewpcommunitycollective.com).
