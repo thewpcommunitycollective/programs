@@ -42,7 +42,7 @@ The WPCC welcomes and encourages collaboration from individuals and organization
 
 To get involved or learn more:
 
-- [Visit our website] (https://www.thewpcommunitycollective.com/)
-- [Join The WPCC] (https://www.thewpcommunitycollective.com/join/)
+- [Visit our website](https://www.thewpcommunitycollective.com/)
+- [Join The WPCC](https://www.thewpcommunitycollective.com/join/)
 
 For questions or inquiries, contact [info@thewpcommunitycollective.com](mailto:info@thewpcommunitycollective.com).
