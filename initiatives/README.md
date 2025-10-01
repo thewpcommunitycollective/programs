@@ -18,6 +18,8 @@ Initiatives are community-building programs and strategic actions that support T
 
 Initiatives will be added here as their repositories are created.
 
+- [Contributor Appreciation](https://github.com/thewpcommunitycollective/initiatives-contributor-appreciation)
+
 ---
 
 ## Contributing
