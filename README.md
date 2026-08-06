@@ -1,5 +1,5 @@
-# The WPCC Programs Repository
-This repository serves as the main directory for The WP Community Collective's active programming. These programs represent the core work of The WPCC, including projects, initiatives, fellowships, rapid response efforts, and special projects.
+# The WPOCC Programs Repository
+This repository serves as the main directory for The WP Open Community Collective's active programming. These programs represent the core work of The WPOCC, including projects, initiatives, fellowships, rapid response efforts, and special projects.
 
 Each program area is supported by one or more dedicated repositories linked below.
 
@@ -8,9 +8,9 @@ Each program area is supported by one or more dedicated repositories linked belo
 ## Active Programs
 
 ### Projects
-Active projects managed by The WPCC.
+Active projects managed by The WPOCC.
 
-- [`projects`](https://github.com/thewpcommunitycollective/projects) — Primary repository for managing active projects developed, funded, or otherwise supported by The WPCC.
+- [`projects`](https://github.com/thewpcommunitycollective/projects) — Primary repository for managing active projects developed, funded, or otherwise supported by The WPOCC.
   
 ---
 
@@ -22,7 +22,7 @@ Programs that provide financial and structural support to Fellows working in ded
 ---
 
 ### Initiatives
-Community-building programs supporting our organizational values of The WPCC.
+Community-building programs supporting our organizational values of The WPOCC.
 
 - [`initiatives`](https://github.com/thewpcommunitycollective/initiatives) — Primary repository for managing initiatives
 
@@ -30,7 +30,7 @@ Community-building programs supporting our organizational values of The WPCC.
 ---
 
 ### Rapid Response
-Short-term support and fast-tracked action to respond to urgent needs in The WPCC community and open source ecosystem.
+Short-term support and fast-tracked action to respond to urgent needs in The WPOCC community and open source ecosystem.
 
 - [`rapid-response`](https://github.com/thewpcommunitycollective/rapid-response) — Primary repository for managing the Rapid Response program, including application forms
 
@@ -38,11 +38,11 @@ Short-term support and fast-tracked action to respond to urgent needs in The WPC
 
 ## Contributing
 
-The WPCC welcomes and encourages collaboration from individuals and organizations aligned with our mission and values. Contribution to the public repositories of The WP Community Collective are open to the public. All engagement with and contributions to these respositories are subject to the policies outlined in [The WPCC Code of Conduct](https://www.thewpcommunitycollective.com/about/code-of-conduct/).
+The WPOCC welcomes and encourages collaboration from individuals and organizations aligned with our mission and values. Contribution to the public repositories of The WP Open Community Collective are open to the public. All engagement with and contributions to these respositories are subject to the policies outlined in [The WPOCC Code of Conduct](https://www.thewpocc.org/about/code-of-conduct/).
 
 To get involved or learn more:
 
-- [Visit our website](https://www.thewpcommunitycollective.com/)
-- [Join The WPCC](https://www.thewpcommunitycollective.com/join/)
+- [Visit our website](https://www.thewpocc.org/)
+- [Join The WPOCC](https://www.thewpocc.org/join/)
 
-For questions or inquiries, contact [info@thewpcommunitycollective.com](mailto:info@thewpcommunitycollective.com).
+For questions or inquiries, contact [info@thewpocc.org](mailto:info@thewpocc.org).
