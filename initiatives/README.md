@@ -1,8 +1,8 @@
-# The WP Community Collective Initiatives Program
+# The WP Open Community Collective Initiatives Program
 
-This repository folder manages The WP Community Collective’s Initiatives.
+This repository folder manages The WP Open Community Collective’s Initiatives.
 
-Initiatives are community-building programs and strategic actions that support The WPCC’s mission and values. Focuses include accessibility, inclusion, governance, transparency, mentorship, and other long-term open source community priorities. These efforts are designed to complement our direct funding programs by investing in systems, relationships, and practices that strengthen open source communities and support open source contributors.
+Initiatives are community-building programs and strategic actions that support The WPOCC’s mission and values. Focuses include accessibility, inclusion, governance, transparency, mentorship, and other long-term open source community priorities. These efforts are designed to complement our direct funding programs by investing in systems, relationships, and practices that strengthen open source communities and support open source contributors.
 
 ---
 
@@ -24,11 +24,11 @@ Initiatives will be added here as their repositories are created.
 
 ## Contributing
 
-The WPCC welcomes and encourages collaboration from individuals and organizations aligned with our mission and values. Contribution to the public repositories of The WP Community Collective are open to the public. All engagement with and contributions to these respositories are subject to the policies outlined in [The WPCC Code of Conduct](https://www.thewpcommunitycollective.com/about/code-of-conduct/).
+The WPOCC welcomes and encourages collaboration from individuals and organizations aligned with our mission and values. Contribution to the public repositories of The WP Open Community Collective are open to the public. All engagement with and contributions to these respositories are subject to the policies outlined in [The WPOCC Code of Conduct](https://www.thewpocc.org/about/code-of-conduct/).
 
 To get involved or learn more:
 
-- [Visit our website](https://www.thewpcommunitycollective.com/)
-- [Join The WPCC](https://www.thewpcommunitycollective.com/join/)
+- [Visit our website](https://www.thewpocc.org/)
+- [Join The WPOCC](https://www.thewpocc.org/join/)
 
-For questions or inquiries, contact [info@thewpcommunitycollective.com](mailto:info@thewpcommunitycollective.com).
+For questions or inquiries, contact [info@thewpocc.org](mailto:info@thewpocc.org).
