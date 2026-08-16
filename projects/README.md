@@ -21,6 +21,8 @@ Each active project is maintained in its own dedicated repository.
 
 Projects will be added here as their repositories are created.
 
+- [State of the Community Survey](https://github.com/thewpcommunitycollective/projects/tree/144e5b53a122eaffafef33e3a0e0c27e4838d99c/state-of-the-community)
+
 ---
 
 ## Contributing
