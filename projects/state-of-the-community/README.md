@@ -13,13 +13,13 @@ The WP Open Community Collective is a member-based organization supporting open 
 
 | Path | Contents |
 |---|---|
-| [`2026/SURVEY-INSTRUMENT.md`](https://github.com/thewpcommunitycollective/projects/blob/144e5b53a122eaffafef33e3a0e0c27e4838d99c/state-of-the-community/2026/LIMITATIONS.md) | All survey questions, including response options and per-option counts  for the 2026 survey |
-| [`2026/METHODOLOGY.md`](https://github.com/thewpcommunitycollective/projects/blob/144e5b53a122eaffafef33e3a0e0c27e4838d99c/state-of-the-community/2026/METHODOLOGY.md) | How the survey was run, coded and analyzed for the 2026 survey |
-| [`2026/LIMITATIONS.md`](https://github.com/thewpcommunitycollective/projects/blob/144e5b53a122eaffafef33e3a0e0c27e4838d99c/state-of-the-community/2026/LIMITATIONS.md) | Known issues with the instrument and analysis  for the 2026 survey |
-| `2026/data/` | Aggregate data for the 2026 survey |
-| [`DESIGN-PRINCIPLES.md`](https://github.com/thewpcommunitycollective/projects/blob/144e5b53a122eaffafef33e3a0e0c27e4838d99c/state-of-the-community/DESIGN-PRINCIPLES.md) | The principles the instrument is built on |
-| `CHANGELOG.md` | Changelog for survey instrument instances |
-| [`LICENSE.md`](https://github.com/thewpcommunitycollective/projects/blob/144e5b53a122eaffafef33e3a0e0c27e4838d99c/state-of-the-community/LICENSE.md) | Specific license details for survey instrument and respondent data, and supporting items |
+| [`2026/SURVEY-INSTRUMENT.md`](https://github.com/thewpcommunitycollective/programs/blob/3258c2f2c46661721f49edfa2fdb524dd24a632e/projects/state-of-the-community/2026/SURVEY-INSTRUMENT.md) | All survey questions, including response options and per-option counts for the 2026 survey |
+| [`2026/METHODOLOGY.md`](https://github.com/thewpcommunitycollective/programs/blob/3258c2f2c46661721f49edfa2fdb524dd24a632e/projects/state-of-the-community/2026/METHODOLOGY.md) | How the survey was run, coded and analyzed for the 2026 survey |
+| [`2026/LIMITATIONS.md`](https://github.com/thewpcommunitycollective/programs/blob/3258c2f2c46661721f49edfa2fdb524dd24a632e/projects/state-of-the-community/2026/LIMITATIONS.md) | Known issues with the instrument and analysis  for the 2026 survey |
+| [`2026/data/`](https://github.com/thewpcommunitycollective/programs/blob/cc0f40e41cebef69d0e420b69984a054a38bde21/projects/state-of-the-community/2026/data/README.md) | Aggregate data for the 2026 survey |
+| [`DESIGN-PRINCIPLES.md`](https://github.com/thewpcommunitycollective/programs/blob/3258c2f2c46661721f49edfa2fdb524dd24a632e/projects/state-of-the-community/DESIGN-PRINCIPLES.md) | The principles the instrument is built on |
+| [`CHANGELOG.md`](https://github.com/thewpcommunitycollective/programs/blob/3258c2f2c46661721f49edfa2fdb524dd24a632e/projects/state-of-the-community/CHANGELOG.md) | Changelog for survey instrument instances |
+| [`LICENSE.md`](https://github.com/thewpcommunitycollective/programs/blob/3258c2f2c46661721f49edfa2fdb524dd24a632e/projects/state-of-the-community/LICENSE.md) | Specific license details for survey instrument and respondent data, and supporting items |
 
 
 ## Not In This Repository
