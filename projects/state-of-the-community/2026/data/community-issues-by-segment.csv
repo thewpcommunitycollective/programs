@@ -1,0 +1,456 @@
+question_number,issue,group,n,pct_experienced_personally,pct_experienced_or_witnessed
+46,Hostility or rudeness,All respondents,431,27.4,62.4
+46,Hostility or rudeness,Gender: Male,300,25.0,60.3
+46,Hostility or rudeness,Gender: Female,80,33.8,67.5
+46,Hostility or rudeness,Gender: Prefer not to answer,35,28.6,62.9
+46,Hostility or rudeness,Gender: Non-binary,15,40.0,73.3
+46,Hostility or rudeness,Age: 35-44,161,30.4,71.4
+46,Hostility or rudeness,Age: 45-54,135,23.7,57.0
+46,Hostility or rudeness,Age: 55-64,65,26.2,61.5
+46,Hostility or rudeness,Age: 25-34,39,25.6,53.8
+46,Hostility or rudeness,Age: 65-74,20,35.0,50.0
+46,Hostility or rudeness,Location: Non-US,246,24.0,54.9
+46,Hostility or rudeness,Location: US,174,32.8,73.0
+46,Hostility or rudeness,Work role: Employee only,150,26.7,60.0
+46,Hostility or rudeness,Work role: Owner/Exec,120,34.2,64.2
+46,Hostility or rudeness,Work role: Freelancer only,79,21.5,62.0
+46,Hostility or rudeness,Work role: Employee+Freelance,40,25.0,67.5
+46,Hostility or rudeness,Work role: Other/Non-working,22,27.3,63.6
+46,Hostility or rudeness,Work role: Employee+Owner,20,20.0,60.0
+46,Hostility or rudeness,Pay status: Unpaid,248,23.8,56.0
+46,Hostility or rudeness,Pay status: Paid directly,116,33.6,69.8
+46,Hostility or rudeness,Pay status: Paid indirectly,67,29.9,73.1
+46,Hostility or rudeness,Tenure (combined): 15+ years,135,34.1,66.7
+46,Hostility or rudeness,Tenure (combined): 10-15 years,122,30.3,73.0
+46,Hostility or rudeness,Tenure (combined): 6-10 years,56,26.8,55.4
+46,Hostility or rudeness,Tenure (combined): 3-6 years,29,20.7,55.2
+46,Hostility or rudeness,Tenure (combined): 1-2 years,15,20.0,53.3
+46,Hostility or rudeness,Participation level: Occasional participation,144,25.0,65.3
+46,Hostility or rudeness,Participation level: Observational only,97,23.7,57.7
+46,Hostility or rudeness,Participation level: Moderately active participation,76,38.2,64.5
+46,Hostility or rudeness,Participation level: Very active participation,44,31.8,79.5
+46,Hostility or rudeness,Participation level: Inactive,35,25.7,57.1
+46,Hostility or rudeness,Participation level: Do not participate / Not applicable,35,20.0,42.9
+46,Hostility or rudeness,Participation change: No change / About the same,199,17.6,47.2
+46,Hostility or rudeness,Participation change: Decreased,94,35.1,77.7
+46,Hostility or rudeness,Participation change: Significantly decreased,73,43.8,82.2
+46,Hostility or rudeness,Participation change: Increased,48,27.1,64.6
+46,Hostility or rudeness,Participation change: Significantly increased,17,29.4,64.7
+46,Hostility or rudeness,"Event relationship: Never attended, not interested",120,24.2,55.0
+46,Hostility or rudeness,Event relationship: Stopped attending,94,29.8,75.5
+46,Hostility or rudeness,"Event relationship: Attend, multiple times a year",91,37.4,65.9
+46,Hostility or rudeness,"Event relationship: Attend, annually or occasionally",90,22.2,56.7
+46,Hostility or rudeness,"Event relationship: Never attended, would like to",28,10.7,53.6
+46,Hostility or rudeness,Contribution type: No contribution work,197,22.3,55.3
+46,Hostility or rudeness,Contribution type: Community and code work,112,39.3,74.1
+46,Hostility or rudeness,Contribution type: Community work only,87,25.3,65.5
+46,Hostility or rudeness,Contribution type: Code / project work only,35,22.9,57.1
+46,Hostility or rudeness,Contributor identity: Agree,105,28.6,65.7
+46,Hostility or rudeness,Contributor identity: Neutral,90,28.9,60.0
+46,Hostility or rudeness,Contributor identity: Disagree,81,22.2,59.3
+46,Hostility or rudeness,Contributor identity: Strongly disagree,79,19.0,51.9
+46,Hostility or rudeness,Contributor identity: Strongly agree,76,38.2,75.0
+46,Hostility or rudeness,Community membership: Agree,166,26.5,59.0
+46,Hostility or rudeness,Community membership: Strongly agree,142,34.5,72.5
+46,Hostility or rudeness,Community membership: Neutral,70,22.9,57.1
+46,Hostility or rudeness,Community membership: Disagree,36,16.7,52.8
+46,Hostility or rudeness,Community membership: Strongly disagree,17,17.6,52.9
+46,Hostility or rudeness,Uses AI at work: Uses AI,308,28.6,64.3
+46,Hostility or rudeness,Uses AI at work: Does not use AI,123,24.4,57.7
+46,Hostility or rudeness,Contributes to open source elsewhere: Yes,228,30.7,69.3
+46,Hostility or rudeness,Contributes to open source elsewhere: No,203,23.6,54.7
+46,Hostility or rudeness,Volunteers outside WordPress and open source: Yes,251,30.7,67.3
+46,Hostility or rudeness,Volunteers outside WordPress and open source: No,180,22.8,55.6
+46,Hostility or rudeness,Income depends on WordPress: Yes,205,31.7,71.7
+46,Hostility or rudeness,Income depends on WordPress: No,138,17.4,44.9
+46,Hostility or rudeness,Income depends on WordPress: Partially,82,31.7,67.1
+46,Dismissive or condescending responses to contributions or questions,All respondents,431,31.8,67.3
+46,Dismissive or condescending responses to contributions or questions,Gender: Male,300,29.0,64.7
+46,Dismissive or condescending responses to contributions or questions,Gender: Female,80,40.0,72.5
+46,Dismissive or condescending responses to contributions or questions,Gender: Prefer not to answer,35,28.6,71.4
+46,Dismissive or condescending responses to contributions or questions,Gender: Non-binary,15,53.3,80.0
+46,Dismissive or condescending responses to contributions or questions,Age: 35-44,161,33.5,73.3
+46,Dismissive or condescending responses to contributions or questions,Age: 45-54,135,29.6,63.7
+46,Dismissive or condescending responses to contributions or questions,Age: 55-64,65,29.2,66.2
+46,Dismissive or condescending responses to contributions or questions,Age: 25-34,39,28.2,59.0
+46,Dismissive or condescending responses to contributions or questions,Age: 65-74,20,45.0,60.0
+46,Dismissive or condescending responses to contributions or questions,Location: Non-US,246,29.3,61.4
+46,Dismissive or condescending responses to contributions or questions,Location: US,174,36.2,75.3
+46,Dismissive or condescending responses to contributions or questions,Work role: Employee only,150,28.0,65.3
+46,Dismissive or condescending responses to contributions or questions,Work role: Owner/Exec,120,35.8,65.8
+46,Dismissive or condescending responses to contributions or questions,Work role: Freelancer only,79,35.4,70.9
+46,Dismissive or condescending responses to contributions or questions,Work role: Employee+Freelance,40,25.0,65.0
+46,Dismissive or condescending responses to contributions or questions,Work role: Other/Non-working,22,45.5,72.7
+46,Dismissive or condescending responses to contributions or questions,Work role: Employee+Owner,20,20.0,75.0
+46,Dismissive or condescending responses to contributions or questions,Pay status: Unpaid,248,30.6,63.7
+46,Dismissive or condescending responses to contributions or questions,Pay status: Paid directly,116,31.0,71.6
+46,Dismissive or condescending responses to contributions or questions,Pay status: Paid indirectly,67,37.3,73.1
+46,Dismissive or condescending responses to contributions or questions,Tenure (combined): 15+ years,135,35.6,71.9
+46,Dismissive or condescending responses to contributions or questions,Tenure (combined): 10-15 years,122,32.8,73.8
+46,Dismissive or condescending responses to contributions or questions,Tenure (combined): 6-10 years,56,35.7,62.5
+46,Dismissive or condescending responses to contributions or questions,Tenure (combined): 3-6 years,29,31.0,55.2
+46,Dismissive or condescending responses to contributions or questions,Tenure (combined): 1-2 years,15,26.7,66.7
+46,Dismissive or condescending responses to contributions or questions,Participation level: Occasional participation,144,34.7,68.8
+46,Dismissive or condescending responses to contributions or questions,Participation level: Observational only,97,27.8,63.9
+46,Dismissive or condescending responses to contributions or questions,Participation level: Moderately active participation,76,39.5,75.0
+46,Dismissive or condescending responses to contributions or questions,Participation level: Very active participation,44,29.5,72.7
+46,Dismissive or condescending responses to contributions or questions,Participation level: Inactive,35,31.4,60.0
+46,Dismissive or condescending responses to contributions or questions,Participation level: Do not participate / Not applicable,35,17.1,54.3
+46,Dismissive or condescending responses to contributions or questions,Participation change: No change / About the same,199,23.1,54.8
+46,Dismissive or condescending responses to contributions or questions,Participation change: Decreased,94,37.2,83.0
+46,Dismissive or condescending responses to contributions or questions,Participation change: Significantly decreased,73,47.9,84.9
+46,Dismissive or condescending responses to contributions or questions,Participation change: Increased,48,39.6,68.8
+46,Dismissive or condescending responses to contributions or questions,Participation change: Significantly increased,17,11.8,47.1
+46,Dismissive or condescending responses to contributions or questions,"Event relationship: Never attended, not interested",120,22.5,55.8
+46,Dismissive or condescending responses to contributions or questions,Event relationship: Stopped attending,94,44.7,90.4
+46,Dismissive or condescending responses to contributions or questions,"Event relationship: Attend, multiple times a year",91,34.1,68.1
+46,Dismissive or condescending responses to contributions or questions,"Event relationship: Attend, annually or occasionally",90,34.4,62.2
+46,Dismissive or condescending responses to contributions or questions,"Event relationship: Never attended, would like to",28,10.7,53.6
+46,Dismissive or condescending responses to contributions or questions,Contribution type: No contribution work,197,25.9,60.4
+46,Dismissive or condescending responses to contributions or questions,Contribution type: Community and code work,112,36.6,74.1
+46,Dismissive or condescending responses to contributions or questions,Contribution type: Community work only,87,35.6,74.7
+46,Dismissive or condescending responses to contributions or questions,Contribution type: Code / project work only,35,40.0,65.7
+46,Dismissive or condescending responses to contributions or questions,Contributor identity: Agree,105,32.4,72.4
+46,Dismissive or condescending responses to contributions or questions,Contributor identity: Neutral,90,35.6,63.3
+46,Dismissive or condescending responses to contributions or questions,Contributor identity: Disagree,81,30.9,67.9
+46,Dismissive or condescending responses to contributions or questions,Contributor identity: Strongly disagree,79,21.5,57.0
+46,Dismissive or condescending responses to contributions or questions,Contributor identity: Strongly agree,76,38.2,75.0
+46,Dismissive or condescending responses to contributions or questions,Community membership: Agree,166,32.5,62.7
+46,Dismissive or condescending responses to contributions or questions,Community membership: Strongly agree,142,34.5,73.9
+46,Dismissive or condescending responses to contributions or questions,Community membership: Neutral,70,31.4,70.0
+46,Dismissive or condescending responses to contributions or questions,Community membership: Disagree,36,22.2,58.3
+46,Dismissive or condescending responses to contributions or questions,Community membership: Strongly disagree,17,23.5,64.7
+46,Dismissive or condescending responses to contributions or questions,Uses AI at work: Uses AI,308,33.8,69.2
+46,Dismissive or condescending responses to contributions or questions,Uses AI at work: Does not use AI,123,26.8,62.6
+46,Dismissive or condescending responses to contributions or questions,Contributes to open source elsewhere: Yes,228,31.6,70.2
+46,Dismissive or condescending responses to contributions or questions,Contributes to open source elsewhere: No,203,32.0,64.0
+46,Dismissive or condescending responses to contributions or questions,Volunteers outside WordPress and open source: Yes,251,33.1,71.3
+46,Dismissive or condescending responses to contributions or questions,Volunteers outside WordPress and open source: No,180,30.0,61.7
+46,Dismissive or condescending responses to contributions or questions,Income depends on WordPress: Yes,205,34.6,74.6
+46,Dismissive or condescending responses to contributions or questions,Income depends on WordPress: No,138,24.6,54.3
+46,Dismissive or condescending responses to contributions or questions,Income depends on WordPress: Partially,82,32.9,69.5
+46,Name-calling or personal attacks,All respondents,431,13.5,50.6
+46,Name-calling or personal attacks,Gender: Male,300,13.3,51.0
+46,Name-calling or personal attacks,Gender: Female,80,17.5,50.0
+46,Name-calling or personal attacks,Gender: Prefer not to answer,35,8.6,45.7
+46,Name-calling or personal attacks,Gender: Non-binary,15,6.7,53.3
+46,Name-calling or personal attacks,Age: 35-44,161,12.4,54.0
+46,Name-calling or personal attacks,Age: 45-54,135,14.1,50.4
+46,Name-calling or personal attacks,Age: 55-64,65,12.3,47.7
+46,Name-calling or personal attacks,Age: 25-34,39,17.9,53.8
+46,Name-calling or personal attacks,Age: 65-74,20,15.0,30.0
+46,Name-calling or personal attacks,Location: Non-US,246,11.8,45.5
+46,Name-calling or personal attacks,Location: US,174,16.1,57.5
+46,Name-calling or personal attacks,Work role: Employee only,150,10.0,46.7
+46,Name-calling or personal attacks,Work role: Owner/Exec,120,20.8,54.2
+46,Name-calling or personal attacks,Work role: Freelancer only,79,12.7,46.8
+46,Name-calling or personal attacks,Work role: Employee+Freelance,40,2.5,57.5
+46,Name-calling or personal attacks,Work role: Other/Non-working,22,18.2,54.5
+46,Name-calling or personal attacks,Work role: Employee+Owner,20,15.0,55.0
+46,Name-calling or personal attacks,Pay status: Unpaid,248,13.3,45.2
+46,Name-calling or personal attacks,Pay status: Paid directly,116,15.5,60.3
+46,Name-calling or personal attacks,Pay status: Paid indirectly,67,10.4,53.7
+46,Name-calling or personal attacks,Tenure (combined): 15+ years,135,12.6,57.0
+46,Name-calling or personal attacks,Tenure (combined): 10-15 years,122,22.1,57.4
+46,Name-calling or personal attacks,Tenure (combined): 6-10 years,56,12.5,48.2
+46,Name-calling or personal attacks,Tenure (combined): 3-6 years,29,10.3,31.0
+46,Name-calling or personal attacks,Tenure (combined): 1-2 years,15,13.3,40.0
+46,Name-calling or personal attacks,Participation level: Occasional participation,144,7.6,47.9
+46,Name-calling or personal attacks,Participation level: Observational only,97,11.3,38.1
+46,Name-calling or personal attacks,Participation level: Moderately active participation,76,21.1,60.5
+46,Name-calling or personal attacks,Participation level: Very active participation,44,22.7,72.7
+46,Name-calling or personal attacks,Participation level: Inactive,35,17.1,48.6
+46,Name-calling or personal attacks,Participation level: Do not participate / Not applicable,35,11.4,48.6
+46,Name-calling or personal attacks,Participation change: No change / About the same,199,6.0,34.2
+46,Name-calling or personal attacks,Participation change: Decreased,94,17.0,67.0
+46,Name-calling or personal attacks,Participation change: Significantly decreased,73,24.7,74.0
+46,Name-calling or personal attacks,Participation change: Increased,48,18.8,52.1
+46,Name-calling or personal attacks,Participation change: Significantly increased,17,17.6,47.1
+46,Name-calling or personal attacks,"Event relationship: Never attended, not interested",120,9.2,40.8
+46,Name-calling or personal attacks,Event relationship: Stopped attending,94,17.0,59.6
+46,Name-calling or personal attacks,"Event relationship: Attend, multiple times a year",91,18.7,58.2
+46,Name-calling or personal attacks,"Event relationship: Attend, annually or occasionally",90,13.3,46.7
+46,Name-calling or personal attacks,"Event relationship: Never attended, would like to",28,7.1,50.0
+46,Name-calling or personal attacks,Contribution type: No contribution work,197,8.1,41.1
+46,Name-calling or personal attacks,Contribution type: Community and code work,112,22.3,62.5
+46,Name-calling or personal attacks,Contribution type: Community work only,87,17.2,56.3
+46,Name-calling or personal attacks,Contribution type: Code / project work only,35,5.7,51.4
+46,Name-calling or personal attacks,Contributor identity: Agree,105,15.2,57.1
+46,Name-calling or personal attacks,Contributor identity: Neutral,90,13.3,53.3
+46,Name-calling or personal attacks,Contributor identity: Disagree,81,13.6,39.5
+46,Name-calling or personal attacks,Contributor identity: Strongly disagree,79,5.1,40.5
+46,Name-calling or personal attacks,Contributor identity: Strongly agree,76,19.7,60.5
+46,Name-calling or personal attacks,Community membership: Agree,166,13.9,47.6
+46,Name-calling or personal attacks,Community membership: Strongly agree,142,17.6,58.5
+46,Name-calling or personal attacks,Community membership: Neutral,70,8.6,40.0
+46,Name-calling or personal attacks,Community membership: Disagree,36,8.3,55.6
+46,Name-calling or personal attacks,Community membership: Strongly disagree,17,5.9,47.1
+46,Name-calling or personal attacks,Uses AI at work: Uses AI,308,14.6,53.9
+46,Name-calling or personal attacks,Uses AI at work: Does not use AI,123,10.6,42.3
+46,Name-calling or personal attacks,Contributes to open source elsewhere: Yes,228,14.0,55.3
+46,Name-calling or personal attacks,Contributes to open source elsewhere: No,203,12.8,45.3
+46,Name-calling or personal attacks,Volunteers outside WordPress and open source: Yes,251,14.3,55.8
+46,Name-calling or personal attacks,Volunteers outside WordPress and open source: No,180,12.2,43.3
+46,Name-calling or personal attacks,Income depends on WordPress: Yes,205,14.1,59.5
+46,Name-calling or personal attacks,Income depends on WordPress: No,138,9.4,34.8
+46,Name-calling or personal attacks,Income depends on WordPress: Partially,82,15.9,52.4
+46,Harassment or targeted negative behavior,All respondents,431,13.9,51.5
+46,Harassment or targeted negative behavior,Gender: Male,300,12.7,50.3
+46,Harassment or targeted negative behavior,Gender: Female,80,20.0,53.8
+46,Harassment or targeted negative behavior,Gender: Prefer not to answer,35,14.3,54.3
+46,Harassment or targeted negative behavior,Gender: Non-binary,15,6.7,53.3
+46,Harassment or targeted negative behavior,Age: 35-44,161,16.8,54.0
+46,Harassment or targeted negative behavior,Age: 45-54,135,13.3,51.9
+46,Harassment or targeted negative behavior,Age: 55-64,65,7.7,52.3
+46,Harassment or targeted negative behavior,Age: 25-34,39,15.4,51.3
+46,Harassment or targeted negative behavior,Age: 65-74,20,15.0,35.0
+46,Harassment or targeted negative behavior,Location: Non-US,246,10.6,44.3
+46,Harassment or targeted negative behavior,Location: US,174,18.4,61.5
+46,Harassment or targeted negative behavior,Work role: Employee only,150,12.0,47.3
+46,Harassment or targeted negative behavior,Work role: Owner/Exec,120,18.3,59.2
+46,Harassment or targeted negative behavior,Work role: Freelancer only,79,12.7,44.3
+46,Harassment or targeted negative behavior,Work role: Employee+Freelance,40,7.5,52.5
+46,Harassment or targeted negative behavior,Work role: Other/Non-working,22,18.2,59.1
+46,Harassment or targeted negative behavior,Work role: Employee+Owner,20,15.0,55.0
+46,Harassment or targeted negative behavior,Pay status: Unpaid,248,12.5,47.2
+46,Harassment or targeted negative behavior,Pay status: Paid directly,116,18.1,56.0
+46,Harassment or targeted negative behavior,Pay status: Paid indirectly,67,11.9,59.7
+46,Harassment or targeted negative behavior,Tenure (combined): 15+ years,135,13.3,56.3
+46,Harassment or targeted negative behavior,Tenure (combined): 10-15 years,122,23.8,59.0
+46,Harassment or targeted negative behavior,Tenure (combined): 6-10 years,56,10.7,50.0
+46,Harassment or targeted negative behavior,Tenure (combined): 3-6 years,29,6.9,31.0
+46,Harassment or targeted negative behavior,Tenure (combined): 1-2 years,15,6.7,33.3
+46,Harassment or targeted negative behavior,Participation level: Occasional participation,144,9.0,49.3
+46,Harassment or targeted negative behavior,Participation level: Observational only,97,12.4,50.5
+46,Harassment or targeted negative behavior,Participation level: Moderately active participation,76,25.0,56.6
+46,Harassment or targeted negative behavior,Participation level: Very active participation,44,13.6,63.6
+46,Harassment or targeted negative behavior,Participation level: Inactive,35,14.3,48.6
+46,Harassment or targeted negative behavior,Participation level: Do not participate / Not applicable,35,14.3,40.0
+46,Harassment or targeted negative behavior,Participation change: No change / About the same,199,6.0,35.7
+46,Harassment or targeted negative behavior,Participation change: Decreased,94,20.2,71.3
+46,Harassment or targeted negative behavior,Participation change: Significantly decreased,73,24.7,76.7
+46,Harassment or targeted negative behavior,Participation change: Increased,48,18.8,43.8
+46,Harassment or targeted negative behavior,Participation change: Significantly increased,17,11.8,41.2
+46,Harassment or targeted negative behavior,"Event relationship: Never attended, not interested",120,10.0,44.2
+46,Harassment or targeted negative behavior,Event relationship: Stopped attending,94,18.1,66.0
+46,Harassment or targeted negative behavior,"Event relationship: Attend, multiple times a year",91,19.8,57.1
+46,Harassment or targeted negative behavior,"Event relationship: Attend, annually or occasionally",90,12.2,43.3
+46,Harassment or targeted negative behavior,"Event relationship: Never attended, would like to",28,3.6,39.3
+46,Harassment or targeted negative behavior,Contribution type: No contribution work,197,8.6,44.2
+46,Harassment or targeted negative behavior,Contribution type: Community and code work,112,23.2,65.2
+46,Harassment or targeted negative behavior,Contribution type: Community work only,87,16.1,52.9
+46,Harassment or targeted negative behavior,Contribution type: Code / project work only,35,8.6,45.7
+46,Harassment or targeted negative behavior,Contributor identity: Agree,105,15.2,57.1
+46,Harassment or targeted negative behavior,Contributor identity: Neutral,90,12.2,55.6
+46,Harassment or targeted negative behavior,Contributor identity: Disagree,81,13.6,44.4
+46,Harassment or targeted negative behavior,Contributor identity: Strongly disagree,79,7.6,43.0
+46,Harassment or targeted negative behavior,Contributor identity: Strongly agree,76,21.1,55.3
+46,Harassment or targeted negative behavior,Community membership: Agree,166,13.9,50.6
+46,Harassment or targeted negative behavior,Community membership: Strongly agree,142,19.0,57.0
+46,Harassment or targeted negative behavior,Community membership: Neutral,70,10.0,41.4
+46,Harassment or targeted negative behavior,Community membership: Disagree,36,5.6,52.8
+46,Harassment or targeted negative behavior,Community membership: Strongly disagree,17,5.9,52.9
+46,Harassment or targeted negative behavior,Uses AI at work: Uses AI,308,14.6,52.9
+46,Harassment or targeted negative behavior,Uses AI at work: Does not use AI,123,12.2,48.0
+46,Harassment or targeted negative behavior,Contributes to open source elsewhere: Yes,228,14.9,54.8
+46,Harassment or targeted negative behavior,Contributes to open source elsewhere: No,203,12.8,47.8
+46,Harassment or targeted negative behavior,Volunteers outside WordPress and open source: Yes,251,15.9,55.0
+46,Harassment or targeted negative behavior,Volunteers outside WordPress and open source: No,180,11.1,46.7
+46,Harassment or targeted negative behavior,Income depends on WordPress: Yes,205,15.6,59.5
+46,Harassment or targeted negative behavior,Income depends on WordPress: No,138,8.7,38.4
+46,Harassment or targeted negative behavior,Income depends on WordPress: Partially,82,15.9,52.4
+46,Conflict or ongoing interpersonal tension between community members,All respondents,431,17.4,68.2
+46,Conflict or ongoing interpersonal tension between community members,Gender: Male,300,15.3,67.0
+46,Conflict or ongoing interpersonal tension between community members,Gender: Female,80,23.8,71.2
+46,Conflict or ongoing interpersonal tension between community members,Gender: Prefer not to answer,35,17.1,68.6
+46,Conflict or ongoing interpersonal tension between community members,Gender: Non-binary,15,26.7,73.3
+46,Conflict or ongoing interpersonal tension between community members,Age: 35-44,161,16.1,72.0
+46,Conflict or ongoing interpersonal tension between community members,Age: 45-54,135,17.8,68.9
+46,Conflict or ongoing interpersonal tension between community members,Age: 55-64,65,16.9,67.7
+46,Conflict or ongoing interpersonal tension between community members,Age: 25-34,39,23.1,61.5
+46,Conflict or ongoing interpersonal tension between community members,Age: 65-74,20,15.0,50.0
+46,Conflict or ongoing interpersonal tension between community members,Location: Non-US,246,15.9,63.4
+46,Conflict or ongoing interpersonal tension between community members,Location: US,174,19.5,75.3
+46,Conflict or ongoing interpersonal tension between community members,Work role: Employee only,150,14.7,64.0
+46,Conflict or ongoing interpersonal tension between community members,Work role: Owner/Exec,120,21.7,72.5
+46,Conflict or ongoing interpersonal tension between community members,Work role: Freelancer only,79,20.3,69.6
+46,Conflict or ongoing interpersonal tension between community members,Work role: Employee+Freelance,40,12.5,70.0
+46,Conflict or ongoing interpersonal tension between community members,Work role: Other/Non-working,22,18.2,63.6
+46,Conflict or ongoing interpersonal tension between community members,Work role: Employee+Owner,20,10.0,70.0
+46,Conflict or ongoing interpersonal tension between community members,Pay status: Unpaid,248,16.1,65.3
+46,Conflict or ongoing interpersonal tension between community members,Pay status: Paid directly,116,24.1,73.3
+46,Conflict or ongoing interpersonal tension between community members,Pay status: Paid indirectly,67,10.4,70.1
+46,Conflict or ongoing interpersonal tension between community members,Tenure (combined): 15+ years,135,20.7,74.8
+46,Conflict or ongoing interpersonal tension between community members,Tenure (combined): 10-15 years,122,23.0,73.8
+46,Conflict or ongoing interpersonal tension between community members,Tenure (combined): 6-10 years,56,17.9,69.6
+46,Conflict or ongoing interpersonal tension between community members,Tenure (combined): 3-6 years,29,10.3,48.3
+46,Conflict or ongoing interpersonal tension between community members,Tenure (combined): 1-2 years,15,13.3,60.0
+46,Conflict or ongoing interpersonal tension between community members,Participation level: Occasional participation,144,11.1,67.4
+46,Conflict or ongoing interpersonal tension between community members,Participation level: Observational only,97,15.5,66.0
+46,Conflict or ongoing interpersonal tension between community members,Participation level: Moderately active participation,76,27.6,76.3
+46,Conflict or ongoing interpersonal tension between community members,Participation level: Very active participation,44,27.3,84.1
+46,Conflict or ongoing interpersonal tension between community members,Participation level: Inactive,35,20.0,60.0
+46,Conflict or ongoing interpersonal tension between community members,Participation level: Do not participate / Not applicable,35,11.4,48.6
+46,Conflict or ongoing interpersonal tension between community members,Participation change: No change / About the same,199,9.0,57.8
+46,Conflict or ongoing interpersonal tension between community members,Participation change: Decreased,94,22.3,77.7
+46,Conflict or ongoing interpersonal tension between community members,Participation change: Significantly decreased,73,34.2,86.3
+46,Conflict or ongoing interpersonal tension between community members,Participation change: Increased,48,18.8,66.7
+46,Conflict or ongoing interpersonal tension between community members,Participation change: Significantly increased,17,11.8,64.7
+46,Conflict or ongoing interpersonal tension between community members,"Event relationship: Never attended, not interested",120,10.8,55.8
+46,Conflict or ongoing interpersonal tension between community members,Event relationship: Stopped attending,94,22.3,79.8
+46,Conflict or ongoing interpersonal tension between community members,"Event relationship: Attend, multiple times a year",91,23.1,76.9
+46,Conflict or ongoing interpersonal tension between community members,"Event relationship: Attend, annually or occasionally",90,18.9,68.9
+46,Conflict or ongoing interpersonal tension between community members,"Event relationship: Never attended, would like to",28,3.6,50.0
+46,Conflict or ongoing interpersonal tension between community members,Contribution type: No contribution work,197,9.6,57.9
+46,Conflict or ongoing interpersonal tension between community members,Contribution type: Community and code work,112,29.5,83.9
+46,Conflict or ongoing interpersonal tension between community members,Contribution type: Community work only,87,20.7,72.4
+46,Conflict or ongoing interpersonal tension between community members,Contribution type: Code / project work only,35,14.3,65.7
+46,Conflict or ongoing interpersonal tension between community members,Contributor identity: Agree,105,20.0,76.2
+46,Conflict or ongoing interpersonal tension between community members,Contributor identity: Neutral,90,14.4,67.8
+46,Conflict or ongoing interpersonal tension between community members,Contributor identity: Disagree,81,12.3,63.0
+46,Conflict or ongoing interpersonal tension between community members,Contributor identity: Strongly disagree,79,12.7,55.7
+46,Conflict or ongoing interpersonal tension between community members,Contributor identity: Strongly agree,76,27.6,76.3
+46,Conflict or ongoing interpersonal tension between community members,Community membership: Agree,166,15.7,65.7
+46,Conflict or ongoing interpersonal tension between community members,Community membership: Strongly agree,142,24.6,74.6
+46,Conflict or ongoing interpersonal tension between community members,Community membership: Neutral,70,12.9,64.3
+46,Conflict or ongoing interpersonal tension between community members,Community membership: Disagree,36,8.3,61.1
+46,Conflict or ongoing interpersonal tension between community members,Community membership: Strongly disagree,17,11.8,70.6
+46,Conflict or ongoing interpersonal tension between community members,Uses AI at work: Uses AI,308,18.8,71.4
+46,Conflict or ongoing interpersonal tension between community members,Uses AI at work: Does not use AI,123,13.8,60.2
+46,Conflict or ongoing interpersonal tension between community members,Contributes to open source elsewhere: Yes,228,18.9,69.7
+46,Conflict or ongoing interpersonal tension between community members,Contributes to open source elsewhere: No,203,15.8,66.5
+46,Conflict or ongoing interpersonal tension between community members,Volunteers outside WordPress and open source: Yes,251,19.1,70.1
+46,Conflict or ongoing interpersonal tension between community members,Volunteers outside WordPress and open source: No,180,15.0,65.6
+46,Conflict or ongoing interpersonal tension between community members,Income depends on WordPress: Yes,205,20.0,76.1
+46,Conflict or ongoing interpersonal tension between community members,Income depends on WordPress: No,138,10.9,52.9
+46,Conflict or ongoing interpersonal tension between community members,Income depends on WordPress: Partially,82,18.3,73.2
+46,Language or content that made me or others feel unwelcome or excluded,All respondents,431,22.7,49.4
+46,Language or content that made me or others feel unwelcome or excluded,Gender: Male,300,18.3,45.7
+46,Language or content that made me or others feel unwelcome or excluded,Gender: Female,80,31.2,56.2
+46,Language or content that made me or others feel unwelcome or excluded,Gender: Prefer not to answer,35,34.3,62.9
+46,Language or content that made me or others feel unwelcome or excluded,Gender: Non-binary,15,40.0,53.3
+46,Language or content that made me or others feel unwelcome or excluded,Age: 35-44,161,27.3,52.2
+46,Language or content that made me or others feel unwelcome or excluded,Age: 45-54,135,20.7,49.6
+46,Language or content that made me or others feel unwelcome or excluded,Age: 55-64,65,15.4,41.5
+46,Language or content that made me or others feel unwelcome or excluded,Age: 25-34,39,28.2,51.3
+46,Language or content that made me or others feel unwelcome or excluded,Age: 65-74,20,5.0,45.0
+46,Language or content that made me or others feel unwelcome or excluded,Location: Non-US,246,17.9,40.7
+46,Language or content that made me or others feel unwelcome or excluded,Location: US,174,29.3,61.5
+46,Language or content that made me or others feel unwelcome or excluded,Work role: Employee only,150,22.7,49.3
+46,Language or content that made me or others feel unwelcome or excluded,Work role: Owner/Exec,120,23.3,49.2
+46,Language or content that made me or others feel unwelcome or excluded,Work role: Freelancer only,79,22.8,45.6
+46,Language or content that made me or others feel unwelcome or excluded,Work role: Employee+Freelance,40,25.0,55.0
+46,Language or content that made me or others feel unwelcome or excluded,Work role: Other/Non-working,22,13.6,45.5
+46,Language or content that made me or others feel unwelcome or excluded,Work role: Employee+Owner,20,25.0,60.0
+46,Language or content that made me or others feel unwelcome or excluded,Pay status: Unpaid,248,21.8,46.8
+46,Language or content that made me or others feel unwelcome or excluded,Pay status: Paid directly,116,23.3,50.0
+46,Language or content that made me or others feel unwelcome or excluded,Pay status: Paid indirectly,67,25.4,58.2
+46,Language or content that made me or others feel unwelcome or excluded,Tenure (combined): 15+ years,135,25.2,53.3
+46,Language or content that made me or others feel unwelcome or excluded,Tenure (combined): 10-15 years,122,27.0,57.4
+46,Language or content that made me or others feel unwelcome or excluded,Tenure (combined): 6-10 years,56,19.6,48.2
+46,Language or content that made me or others feel unwelcome or excluded,Tenure (combined): 3-6 years,29,17.2,31.0
+46,Language or content that made me or others feel unwelcome or excluded,Tenure (combined): 1-2 years,15,13.3,26.7
+46,Language or content that made me or others feel unwelcome or excluded,Participation level: Occasional participation,144,19.4,47.2
+46,Language or content that made me or others feel unwelcome or excluded,Participation level: Observational only,97,23.7,49.5
+46,Language or content that made me or others feel unwelcome or excluded,Participation level: Moderately active participation,76,28.9,53.9
+46,Language or content that made me or others feel unwelcome or excluded,Participation level: Very active participation,44,20.5,47.7
+46,Language or content that made me or others feel unwelcome or excluded,Participation level: Inactive,35,28.6,54.3
+46,Language or content that made me or others feel unwelcome or excluded,Participation level: Do not participate / Not applicable,35,17.1,45.7
+46,Language or content that made me or others feel unwelcome or excluded,Participation change: No change / About the same,199,15.6,37.7
+46,Language or content that made me or others feel unwelcome or excluded,Participation change: Decreased,94,27.7,61.7
+46,Language or content that made me or others feel unwelcome or excluded,Participation change: Significantly decreased,73,37.0,78.1
+46,Language or content that made me or others feel unwelcome or excluded,Participation change: Increased,48,20.8,31.2
+46,Language or content that made me or others feel unwelcome or excluded,Participation change: Significantly increased,17,23.5,47.1
+46,Language or content that made me or others feel unwelcome or excluded,"Event relationship: Never attended, not interested",120,19.2,42.5
+46,Language or content that made me or others feel unwelcome or excluded,Event relationship: Stopped attending,94,24.5,62.8
+46,Language or content that made me or others feel unwelcome or excluded,"Event relationship: Attend, multiple times a year",91,25.3,48.4
+46,Language or content that made me or others feel unwelcome or excluded,"Event relationship: Attend, annually or occasionally",90,23.3,42.2
+46,Language or content that made me or others feel unwelcome or excluded,"Event relationship: Never attended, would like to",28,21.4,57.1
+46,Language or content that made me or others feel unwelcome or excluded,Contribution type: No contribution work,197,18.3,46.7
+46,Language or content that made me or others feel unwelcome or excluded,Contribution type: Community and code work,112,29.5,54.5
+46,Language or content that made me or others feel unwelcome or excluded,Contribution type: Community work only,87,26.4,51.7
+46,Language or content that made me or others feel unwelcome or excluded,Contribution type: Code / project work only,35,17.1,42.9
+46,Language or content that made me or others feel unwelcome or excluded,Contributor identity: Agree,105,22.9,49.5
+46,Language or content that made me or others feel unwelcome or excluded,Contributor identity: Neutral,90,23.3,54.4
+46,Language or content that made me or others feel unwelcome or excluded,Contributor identity: Disagree,81,22.2,43.2
+46,Language or content that made me or others feel unwelcome or excluded,Contributor identity: Strongly disagree,79,17.7,45.6
+46,Language or content that made me or others feel unwelcome or excluded,Contributor identity: Strongly agree,76,27.6,53.9
+46,Language or content that made me or others feel unwelcome or excluded,Community membership: Agree,166,23.5,49.4
+46,Language or content that made me or others feel unwelcome or excluded,Community membership: Strongly agree,142,23.2,50.0
+46,Language or content that made me or others feel unwelcome or excluded,Community membership: Neutral,70,24.3,45.7
+46,Language or content that made me or others feel unwelcome or excluded,Community membership: Disagree,36,22.2,50.0
+46,Language or content that made me or others feel unwelcome or excluded,Community membership: Strongly disagree,17,5.9,58.8
+46,Language or content that made me or others feel unwelcome or excluded,Uses AI at work: Uses AI,308,22.1,48.7
+46,Language or content that made me or others feel unwelcome or excluded,Uses AI at work: Does not use AI,123,24.4,51.2
+46,Language or content that made me or others feel unwelcome or excluded,Contributes to open source elsewhere: Yes,228,25.4,54.4
+46,Language or content that made me or others feel unwelcome or excluded,Contributes to open source elsewhere: No,203,19.7,43.8
+46,Language or content that made me or others feel unwelcome or excluded,Volunteers outside WordPress and open source: Yes,251,23.9,52.2
+46,Language or content that made me or others feel unwelcome or excluded,Volunteers outside WordPress and open source: No,180,21.1,45.6
+46,Language or content that made me or others feel unwelcome or excluded,Income depends on WordPress: Yes,205,25.4,56.6
+46,Language or content that made me or others feel unwelcome or excluded,Income depends on WordPress: No,138,14.5,37.7
+46,Language or content that made me or others feel unwelcome or excluded,Income depends on WordPress: Partially,82,26.8,50.0
+46,Problems with project leadership or governance,All respondents,431,37.4,73.3
+46,Problems with project leadership or governance,Gender: Male,300,34.7,73.7
+46,Problems with project leadership or governance,Gender: Female,80,41.2,73.8
+46,Problems with project leadership or governance,Gender: Prefer not to answer,35,48.6,68.6
+46,Problems with project leadership or governance,Gender: Non-binary,15,46.7,73.3
+46,Problems with project leadership or governance,Age: 35-44,161,39.8,77.0
+46,Problems with project leadership or governance,Age: 45-54,135,35.6,73.3
+46,Problems with project leadership or governance,Age: 55-64,65,36.9,73.8
+46,Problems with project leadership or governance,Age: 25-34,39,38.5,74.4
+46,Problems with project leadership or governance,Age: 65-74,20,20.0,45.0
+46,Problems with project leadership or governance,Location: Non-US,246,33.7,69.1
+46,Problems with project leadership or governance,Location: US,174,43.1,79.3
+46,Problems with project leadership or governance,Work role: Employee only,150,33.3,72.0
+46,Problems with project leadership or governance,Work role: Owner/Exec,120,43.3,78.3
+46,Problems with project leadership or governance,Work role: Freelancer only,79,41.8,70.9
+46,Problems with project leadership or governance,Work role: Employee+Freelance,40,30.0,77.5
+46,Problems with project leadership or governance,Work role: Other/Non-working,22,22.7,50.0
+46,Problems with project leadership or governance,Work role: Employee+Owner,20,45.0,80.0
+46,Problems with project leadership or governance,Pay status: Unpaid,248,37.1,71.8
+46,Problems with project leadership or governance,Pay status: Paid directly,116,37.9,74.1
+46,Problems with project leadership or governance,Pay status: Paid indirectly,67,37.3,77.6
+46,Problems with project leadership or governance,Tenure (combined): 15+ years,135,43.7,78.5
+46,Problems with project leadership or governance,Tenure (combined): 10-15 years,122,41.0,77.9
+46,Problems with project leadership or governance,Tenure (combined): 6-10 years,56,37.5,75.0
+46,Problems with project leadership or governance,Tenure (combined): 3-6 years,29,37.9,75.9
+46,Problems with project leadership or governance,Tenure (combined): 1-2 years,15,33.3,53.3
+46,Problems with project leadership or governance,Participation level: Occasional participation,144,41.0,76.4
+46,Problems with project leadership or governance,Participation level: Observational only,97,37.1,75.3
+46,Problems with project leadership or governance,Participation level: Moderately active participation,76,50.0,76.3
+46,Problems with project leadership or governance,Participation level: Very active participation,44,25.0,72.7
+46,Problems with project leadership or governance,Participation level: Inactive,35,31.4,71.4
+46,Problems with project leadership or governance,Participation level: Do not participate / Not applicable,35,17.1,51.4
+46,Problems with project leadership or governance,Participation change: No change / About the same,199,25.1,60.3
+46,Problems with project leadership or governance,Participation change: Decreased,94,46.8,87.2
+46,Problems with project leadership or governance,Participation change: Significantly decreased,73,61.6,94.5
+46,Problems with project leadership or governance,Participation change: Increased,48,29.2,68.8
+46,Problems with project leadership or governance,Participation change: Significantly increased,17,47.1,70.6
+46,Problems with project leadership or governance,"Event relationship: Never attended, not interested",120,34.2,62.5
+46,Problems with project leadership or governance,Event relationship: Stopped attending,94,40.4,87.2
+46,Problems with project leadership or governance,"Event relationship: Attend, multiple times a year",91,45.1,76.9
+46,Problems with project leadership or governance,"Event relationship: Attend, annually or occasionally",90,32.2,71.1
+46,Problems with project leadership or governance,"Event relationship: Never attended, would like to",28,25.0,64.3
+46,Problems with project leadership or governance,Contribution type: No contribution work,197,31.5,68.5
+46,Problems with project leadership or governance,Contribution type: Community and code work,112,44.6,79.5
+46,Problems with project leadership or governance,Contribution type: Community work only,87,41.4,75.9
+46,Problems with project leadership or governance,Contribution type: Code / project work only,35,37.1,74.3
+46,Problems with project leadership or governance,Contributor identity: Agree,105,42.9,78.1
+46,Problems with project leadership or governance,Contributor identity: Neutral,90,33.3,66.7
+46,Problems with project leadership or governance,Contributor identity: Disagree,81,35.8,76.5
+46,Problems with project leadership or governance,Contributor identity: Strongly disagree,79,30.4,67.1
+46,Problems with project leadership or governance,Contributor identity: Strongly agree,76,43.4,77.6
+46,Problems with project leadership or governance,Community membership: Agree,166,39.2,72.3
+46,Problems with project leadership or governance,Community membership: Strongly agree,142,42.3,80.3
+46,Problems with project leadership or governance,Community membership: Neutral,70,32.9,68.6
+46,Problems with project leadership or governance,Community membership: Disagree,36,25.0,63.9
+46,Problems with project leadership or governance,Community membership: Strongly disagree,17,23.5,64.7
+46,Problems with project leadership or governance,Uses AI at work: Uses AI,308,36.0,74.0
+46,Problems with project leadership or governance,Uses AI at work: Does not use AI,123,40.7,71.5
+46,Problems with project leadership or governance,Contributes to open source elsewhere: Yes,228,42.5,75.9
+46,Problems with project leadership or governance,Contributes to open source elsewhere: No,203,31.5,70.4
+46,Problems with project leadership or governance,Volunteers outside WordPress and open source: Yes,251,43.0,74.5
+46,Problems with project leadership or governance,Volunteers outside WordPress and open source: No,180,29.4,71.7
+46,Problems with project leadership or governance,Income depends on WordPress: Yes,205,40.5,82.0
+46,Problems with project leadership or governance,Income depends on WordPress: No,138,27.5,58.7
+46,Problems with project leadership or governance,Income depends on WordPress: Partially,82,42.7,75.6

@@ -1,0 +1,115 @@
+variable,group,count,pct_of_431,pct_of_answered,base,derived,used_in_significance_register
+Gender,Male,300,69.6,69.6,431,no,yes
+Gender,Female,80,18.6,18.6,431,no,yes
+Gender,Prefer not to answer,35,8.1,8.1,431,no,yes
+Gender,Non-binary,15,3.5,3.5,431,no,yes
+Gender,Other,1,0.2,0.2,431,no,yes
+Gender,(no answer),0,0.0,,431,,yes
+Age,35-44,161,37.4,37.4,431,no,yes
+Age,45-54,135,31.3,31.3,431,no,yes
+Age,55-64,65,15.1,15.1,431,no,yes
+Age,25-34,39,9.0,9.0,431,no,yes
+Age,65-74,20,4.6,4.6,431,no,yes
+Age,Prefer not to answer,11,2.6,2.6,431,no,yes
+Age,(no answer),0,0.0,,431,,yes
+Location,Non-US,246,57.1,57.1,431,no,yes
+Location,US,174,40.4,40.4,431,no,yes
+Location,Unknown,11,2.6,2.6,431,no,yes
+Location,(no answer),0,0.0,,431,,yes
+Work role,Employee only,150,34.8,34.8,431,yes,yes
+Work role,Owner/Exec,120,27.8,27.8,431,yes,yes
+Work role,Freelancer only,79,18.3,18.3,431,yes,yes
+Work role,Employee+Freelance,40,9.3,9.3,431,yes,yes
+Work role,Other/Non-working,22,5.1,5.1,431,yes,yes
+Work role,Employee+Owner,20,4.6,4.6,431,yes,yes
+Work role,(no answer),0,0.0,,431,,yes
+Pay status,Unpaid,248,57.5,57.5,431,no,yes
+Pay status,Paid directly,116,26.9,26.9,431,no,yes
+Pay status,Paid indirectly,67,15.5,15.5,431,no,yes
+Pay status,(no answer),0,0.0,,431,,yes
+Tenure (combined),15+ years,135,31.3,37.1,364,yes,yes
+Tenure (combined),10-15 years,122,28.3,33.5,364,yes,yes
+Tenure (combined),6-10 years,56,13.0,15.4,364,yes,yes
+Tenure (combined),3-6 years,29,6.7,8.0,364,yes,yes
+Tenure (combined),1-2 years,15,3.5,4.1,364,yes,yes
+Tenure (combined),Less than 1 year,7,1.6,1.9,364,yes,yes
+Tenure (combined),(no answer),67,15.5,,364,,yes
+Participation level,Occasional participation,144,33.4,33.4,431,no,yes
+Participation level,Observational only,97,22.5,22.5,431,no,yes
+Participation level,Moderately active participation,76,17.6,17.6,431,no,yes
+Participation level,Very active participation,44,10.2,10.2,431,no,yes
+Participation level,Inactive,35,8.1,8.1,431,no,yes
+Participation level,Do not participate / Not applicable,35,8.1,8.1,431,no,yes
+Participation level,(no answer),0,0.0,,431,,yes
+Participation change,No change / About the same,199,46.2,46.2,431,no,yes
+Participation change,Decreased,94,21.8,21.8,431,no,yes
+Participation change,Significantly decreased,73,16.9,16.9,431,no,yes
+Participation change,Increased,48,11.1,11.1,431,no,yes
+Participation change,Significantly increased,17,3.9,3.9,431,no,yes
+Participation change,(no answer),0,0.0,,431,,yes
+Event relationship,"Never attended, not interested",120,27.8,28.4,423,no,yes
+Event relationship,Stopped attending,94,21.8,22.2,423,no,yes
+Event relationship,"Attend, multiple times a year",91,21.1,21.5,423,no,yes
+Event relationship,"Attend, annually or occasionally",90,20.9,21.3,423,no,yes
+Event relationship,"Never attended, would like to",28,6.5,6.6,423,no,yes
+Event relationship,(no answer),8,1.9,,423,,yes
+Contribution type,No contribution work,197,45.7,45.7,431,yes,yes
+Contribution type,Community and code work,112,26.0,26.0,431,yes,yes
+Contribution type,Community work only,87,20.2,20.2,431,yes,yes
+Contribution type,Code / project work only,35,8.1,8.1,431,yes,yes
+Contribution type,(no answer),0,0.0,,431,,yes
+Contributor identity,Agree,105,24.4,24.4,431,no,yes
+Contributor identity,Neutral,90,20.9,20.9,431,no,yes
+Contributor identity,Disagree,81,18.8,18.8,431,no,yes
+Contributor identity,Strongly disagree,79,18.3,18.3,431,no,yes
+Contributor identity,Strongly agree,76,17.6,17.6,431,no,yes
+Contributor identity,(no answer),0,0.0,,431,,yes
+Community membership,Agree,166,38.5,38.5,431,no,yes
+Community membership,Strongly agree,142,32.9,32.9,431,no,yes
+Community membership,Neutral,70,16.2,16.2,431,no,yes
+Community membership,Disagree,36,8.4,8.4,431,no,yes
+Community membership,Strongly disagree,17,3.9,3.9,431,no,yes
+Community membership,(no answer),0,0.0,,431,,yes
+Uses AI at work,Uses AI,308,71.5,71.5,431,no,yes
+Uses AI at work,Does not use AI,123,28.5,28.5,431,no,yes
+Uses AI at work,(no answer),0,0.0,,431,,yes
+Contributes to open source elsewhere,Yes,228,52.9,52.9,431,no,yes
+Contributes to open source elsewhere,No,203,47.1,47.1,431,no,yes
+Contributes to open source elsewhere,(no answer),0,0.0,,431,,yes
+Volunteers outside WordPress and open source,Yes,251,58.2,58.2,431,no,yes
+Volunteers outside WordPress and open source,No,180,41.8,41.8,431,no,yes
+Volunteers outside WordPress and open source,(no answer),0,0.0,,431,,yes
+Income depends on WordPress,Yes,205,47.6,47.6,431,no,yes
+Income depends on WordPress,No,138,32.0,32.0,431,no,yes
+Income depends on WordPress,Partially,82,19.0,19.0,431,no,yes
+Income depends on WordPress,Other,6,1.4,1.4,431,no,yes
+Income depends on WordPress,(no answer),0,0.0,,431,,yes
+Experienced hostility personally,Experienced,238,55.2,55.2,431,yes,yes
+Experienced hostility personally,Did not experience,193,44.8,44.8,431,yes,yes
+Experienced hostility personally,(no answer),0,0.0,,431,,yes
+Sentiment toward WordPress now,Neutral / Unsure,126,29.2,29.2,431,no,no
+Sentiment toward WordPress now,Positive,121,28.1,28.1,431,no,no
+Sentiment toward WordPress now,Negative,111,25.8,25.8,431,no,no
+Sentiment toward WordPress now,Very negative,53,12.3,12.3,431,no,no
+Sentiment toward WordPress now,Very positive,20,4.6,4.6,431,no,no
+Sentiment toward WordPress now,(no answer),0,0.0,,431,,no
+Sentiment toward WordPress now (grouped),Negative,164,38.1,38.1,431,no,no
+Sentiment toward WordPress now (grouped),Positive,141,32.7,32.7,431,no,no
+Sentiment toward WordPress now (grouped),Neutral / unsure,126,29.2,29.2,431,no,no
+Sentiment toward WordPress now (grouped),(no answer),0,0.0,,431,,no
+Sentiment toward the future (grouped),Negative,168,39.0,39.0,431,no,no
+Sentiment toward the future (grouped),Neutral / unsure,158,36.7,36.7,431,no,no
+Sentiment toward the future (grouped),Positive,105,24.4,24.4,431,no,no
+Sentiment toward the future (grouped),(no answer),0,0.0,,431,,no
+Change in feeling over 24 months,Feels worse than 24 months ago,318,73.8,73.8,431,yes,no
+Change in feeling over 24 months,No change,98,22.7,22.7,431,yes,no
+Change in feeling over 24 months,Feels better than 24 months ago,15,3.5,3.5,431,yes,no
+Change in feeling over 24 months,(no answer),0,0.0,,431,,no
+Community membership (ever),Current member,308,71.5,71.5,431,yes,no
+Community membership (ever),Never a member,67,15.5,15.5,431,yes,no
+Community membership (ever),Former member,56,13.0,13.0,431,yes,no
+Community membership (ever),(no answer),0,0.0,,431,,no
+Change in feeling toward WordPress (gate-consistent),Feelings changed,333,77.3,100.0,333,yes,
+Change in feeling toward WordPress (gate-consistent),"- of those, changed for the worse",318,73.8,95.5,333,yes,
+Change in feeling toward WordPress (gate-consistent),"- of those, changed for the better",15,3.5,4.5,333,yes,
+Change in feeling toward WordPress (gate-consistent),(excluded: gave a direction after saying nothing changed),23,5.3,,333,yes,

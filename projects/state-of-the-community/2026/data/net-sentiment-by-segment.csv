@@ -1,0 +1,499 @@
+segment_variable,group,n,question_number,measure,pct_negative,pct_neutral,pct_positive,net,mean,kruskal_H,p,significant_p05
+Gender,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,15.35,0.00154,yes
+Gender,Male,300,28,WordPress now,36.0,28.0,36.0,0.0,2.93,15.35,0.00154,yes
+Gender,Female,80,28,WordPress now,37.5,35.0,27.5,-10.0,2.88,15.35,0.00154,yes
+Gender,Prefer not to answer,35,28,WordPress now,62.9,25.7,11.4,-51.4,2.2,15.35,0.00154,yes
+Gender,Non-binary,15,28,WordPress now,26.7,26.7,46.7,20.0,3.27,15.35,0.00154,yes
+Gender,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,18.87,0.00029,yes
+Gender,Male,300,31,WordPress future,37.3,36.0,26.7,-10.7,2.85,18.87,0.00029,yes
+Gender,Female,80,31,WordPress future,35.0,42.5,22.5,-12.5,2.8,18.87,0.00029,yes
+Gender,Prefer not to answer,35,31,WordPress future,71.4,22.9,5.7,-65.7,2.11,18.87,0.00029,yes
+Gender,Non-binary,15,31,WordPress future,20.0,46.7,33.3,13.3,3.2,18.87,0.00029,yes
+Gender,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,11.28,0.01032,yes
+Gender,Male,300,59,Open source software,4.7,13.3,82.0,77.3,4.21,11.28,0.01032,yes
+Gender,Female,80,59,Open source software,2.5,20.0,77.5,75.0,3.96,11.28,0.01032,yes
+Gender,Prefer not to answer,35,59,Open source software,2.9,11.4,85.7,82.9,4.11,11.28,0.01032,yes
+Gender,Non-binary,15,59,Open source software,0.0,13.3,86.7,86.7,4.4,11.28,0.01032,yes
+Gender,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,24.49,2e-05,yes
+Gender,Male,300,68,AI in WordPress,48.3,32.3,19.3,-29.0,2.43,24.49,2e-05,yes
+Gender,Female,80,68,AI in WordPress,38.8,46.2,15.0,-23.8,2.51,24.49,2e-05,yes
+Gender,Prefer not to answer,35,68,AI in WordPress,77.1,17.1,5.7,-71.4,1.57,24.49,2e-05,yes
+Gender,Non-binary,15,68,AI in WordPress,73.3,20.0,6.7,-66.7,1.6,24.49,2e-05,yes
+Gender,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,23.98,3e-05,yes
+Gender,Male,300,69,AI in web development,42.0,19.3,38.7,-3.3,2.83,23.98,3e-05,yes
+Gender,Female,80,69,AI in web development,37.5,27.5,35.0,-2.5,2.79,23.98,3e-05,yes
+Gender,Prefer not to answer,35,69,AI in web development,71.4,20.0,8.6,-62.9,1.77,23.98,3e-05,yes
+Gender,Non-binary,15,69,AI in web development,73.3,13.3,13.3,-60.0,1.8,23.98,3e-05,yes
+Gender,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,29.09,0.0,yes
+Gender,Male,300,67,AI in tech industry,43.7,19.7,36.7,-7.0,2.76,29.09,0.0,yes
+Gender,Female,80,67,AI in tech industry,33.8,42.5,23.8,-10.0,2.66,29.09,0.0,yes
+Gender,Prefer not to answer,35,67,AI in tech industry,77.1,11.4,11.4,-65.7,1.66,29.09,0.0,yes
+Gender,Non-binary,15,67,AI in tech industry,86.7,6.7,6.7,-80.0,1.53,29.09,0.0,yes
+Age,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,6.11,0.19102,no
+Age,35-44,161,28,WordPress now,34.2,35.4,30.4,-3.7,2.88,6.11,0.19102,no
+Age,45-54,135,28,WordPress now,45.9,22.2,31.9,-14.1,2.77,6.11,0.19102,no
+Age,55-64,65,28,WordPress now,27.7,40.0,32.3,4.6,2.98,6.11,0.19102,no
+Age,25-34,39,28,WordPress now,48.7,12.8,38.5,-10.3,2.85,6.11,0.19102,no
+Age,65-74,20,28,WordPress now,20.0,25.0,55.0,35.0,3.35,6.11,0.19102,no
+Age,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,5.95,0.20313,no
+Age,35-44,161,31,WordPress future,39.1,36.6,24.2,-14.9,2.76,5.95,0.20313,no
+Age,45-54,135,31,WordPress future,43.7,36.3,20.0,-23.7,2.73,5.95,0.20313,no
+Age,55-64,65,31,WordPress future,30.8,41.5,27.7,-3.1,2.94,5.95,0.20313,no
+Age,25-34,39,31,WordPress future,33.3,33.3,33.3,0.0,3.03,5.95,0.20313,no
+Age,65-74,20,31,WordPress future,20.0,45.0,35.0,15.0,3.05,5.95,0.20313,no
+Age,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,3.65,0.4549,no
+Age,35-44,161,59,Open source software,3.1,17.4,79.5,76.4,4.13,3.65,0.4549,no
+Age,45-54,135,59,Open source software,5.2,15.6,79.3,74.1,4.12,3.65,0.4549,no
+Age,55-64,65,59,Open source software,3.1,13.8,83.1,80.0,4.2,3.65,0.4549,no
+Age,25-34,39,59,Open source software,7.7,7.7,84.6,76.9,4.13,3.65,0.4549,no
+Age,65-74,20,59,Open source software,0.0,5.0,95.0,95.0,4.5,3.65,0.4549,no
+Age,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,1.66,0.79728,no
+Age,35-44,161,68,AI in WordPress,47.8,32.3,19.9,-28.0,2.46,1.66,0.79728,no
+Age,45-54,135,68,AI in WordPress,53.3,30.4,16.3,-37.0,2.27,1.66,0.79728,no
+Age,55-64,65,68,AI in WordPress,46.2,38.5,15.4,-30.8,2.37,1.66,0.79728,no
+Age,25-34,39,68,AI in WordPress,43.6,41.0,15.4,-28.2,2.36,1.66,0.79728,no
+Age,65-74,20,68,AI in WordPress,50.0,40.0,10.0,-40.0,2.25,1.66,0.79728,no
+Age,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,1.72,0.78668,no
+Age,35-44,161,69,AI in web development,42.9,20.5,36.6,-6.2,2.76,1.72,0.78668,no
+Age,45-54,135,69,AI in web development,46.7,17.0,36.3,-10.4,2.72,1.72,0.78668,no
+Age,55-64,65,69,AI in web development,43.1,27.7,29.2,-13.8,2.62,1.72,0.78668,no
+Age,25-34,39,69,AI in web development,41.0,17.9,41.0,0.0,2.9,1.72,0.78668,no
+Age,65-74,20,69,AI in web development,45.0,35.0,20.0,-25.0,2.45,1.72,0.78668,no
+Age,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,0.91,0.92371,no
+Age,35-44,161,67,AI in tech industry,44.7,26.1,29.2,-15.5,2.62,0.91,0.92371,no
+Age,45-54,135,67,AI in tech industry,48.9,18.5,32.6,-16.3,2.59,0.91,0.92371,no
+Age,55-64,65,67,AI in tech industry,40.0,26.2,33.8,-6.2,2.66,0.91,0.92371,no
+Age,25-34,39,67,AI in tech industry,46.2,12.8,41.0,-5.1,2.79,0.91,0.92371,no
+Age,65-74,20,67,AI in tech industry,40.0,45.0,15.0,-25.0,2.5,0.91,0.92371,no
+Location,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,5.87,0.01537,yes
+Location,Non-US,246,28,WordPress now,32.9,30.5,36.6,3.7,2.99,5.87,0.01537,yes
+Location,US,174,28,WordPress now,44.8,26.4,28.7,-16.1,2.72,5.87,0.01537,yes
+Location,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,2.09,0.1483,no
+Location,Non-US,246,31,WordPress future,36.2,37.4,26.4,-9.8,2.87,2.09,0.1483,no
+Location,US,174,31,WordPress future,42.0,35.1,23.0,-19.0,2.72,2.09,0.1483,no
+Location,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,8.88,0.00288,yes
+Location,Non-US,246,59,Open source software,2.8,12.6,84.6,81.7,4.27,8.88,0.00288,yes
+Location,US,174,59,Open source software,5.7,16.1,78.2,72.4,4.03,8.88,0.00288,yes
+Location,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,0.08,0.77638,no
+Location,Non-US,246,68,AI in WordPress,49.2,34.6,16.3,-32.9,2.35,0.08,0.77638,no
+Location,US,174,68,AI in WordPress,49.4,31.6,19.0,-30.5,2.39,0.08,0.77638,no
+Location,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,0.13,0.72054,no
+Location,Non-US,246,69,AI in web development,44.7,21.1,34.1,-10.6,2.7,0.13,0.72054,no
+Location,US,174,69,AI in web development,43.7,19.5,36.8,-6.9,2.75,0.13,0.72054,no
+Location,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,0.38,0.53815,no
+Location,Non-US,246,67,AI in tech industry,44.7,22.8,32.5,-12.2,2.66,0.38,0.53815,no
+Location,US,174,67,AI in tech industry,46.6,22.4,31.0,-15.5,2.59,0.38,0.53815,no
+Work role,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,2.26,0.81275,no
+Work role,Employee only,150,28,WordPress now,38.0,30.0,32.0,-6.0,2.85,2.26,0.81275,no
+Work role,Owner/Exec,120,28,WordPress now,40.0,23.3,36.7,-3.3,2.88,2.26,0.81275,no
+Work role,Freelancer only,79,28,WordPress now,38.0,35.4,26.6,-11.4,2.84,2.26,0.81275,no
+Work role,Employee+Freelance,40,28,WordPress now,32.5,32.5,35.0,2.5,3.0,2.26,0.81275,no
+Work role,Other/Non-working,22,28,WordPress now,45.5,31.8,22.7,-22.7,2.68,2.26,0.81275,no
+Work role,Employee+Owner,20,28,WordPress now,30.0,25.0,45.0,15.0,3.05,2.26,0.81275,no
+Work role,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,4.84,0.43571,no
+Work role,Employee only,150,31,WordPress future,40.7,31.3,28.0,-12.7,2.79,4.84,0.43571,no
+Work role,Owner/Exec,120,31,WordPress future,39.2,36.7,24.2,-15.0,2.82,4.84,0.43571,no
+Work role,Freelancer only,79,31,WordPress future,36.7,44.3,19.0,-17.7,2.75,4.84,0.43571,no
+Work role,Employee+Freelance,40,31,WordPress future,30.0,42.5,27.5,-2.5,2.98,4.84,0.43571,no
+Work role,Other/Non-working,22,31,WordPress future,54.5,31.8,13.6,-40.9,2.41,4.84,0.43571,no
+Work role,Employee+Owner,20,31,WordPress future,35.0,40.0,25.0,-10.0,2.95,4.84,0.43571,no
+Work role,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,1.8,0.87553,no
+Work role,Employee only,150,59,Open source software,6.7,14.0,79.3,72.7,4.09,1.8,0.87553,no
+Work role,Owner/Exec,120,59,Open source software,2.5,14.2,83.3,80.8,4.22,1.8,0.87553,no
+Work role,Freelancer only,79,59,Open source software,2.5,20.3,77.2,74.7,4.11,1.8,0.87553,no
+Work role,Employee+Freelance,40,59,Open source software,2.5,5.0,92.5,90.0,4.25,1.8,0.87553,no
+Work role,Other/Non-working,22,59,Open source software,4.5,4.5,90.9,86.4,4.27,1.8,0.87553,no
+Work role,Employee+Owner,20,59,Open source software,0.0,25.0,75.0,75.0,4.2,1.8,0.87553,no
+Work role,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,12.02,0.03452,yes
+Work role,Employee only,150,68,AI in WordPress,54.7,26.7,18.7,-36.0,2.27,12.02,0.03452,yes
+Work role,Owner/Exec,120,68,AI in WordPress,45.0,35.0,20.0,-25.0,2.56,12.02,0.03452,yes
+Work role,Freelancer only,79,68,AI in WordPress,43.0,46.8,10.1,-32.9,2.34,12.02,0.03452,yes
+Work role,Employee+Freelance,40,68,AI in WordPress,45.0,40.0,15.0,-30.0,2.4,12.02,0.03452,yes
+Work role,Other/Non-working,22,68,AI in WordPress,77.3,13.6,9.1,-68.2,1.68,12.02,0.03452,yes
+Work role,Employee+Owner,20,68,AI in WordPress,50.0,25.0,25.0,-25.0,2.3,12.02,0.03452,yes
+Work role,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,26.66,7e-05,yes
+Work role,Employee only,150,69,AI in web development,52.7,15.3,32.0,-20.7,2.47,26.66,7e-05,yes
+Work role,Owner/Exec,120,69,AI in web development,32.5,19.2,48.3,15.8,3.22,26.66,7e-05,yes
+Work role,Freelancer only,79,69,AI in web development,44.3,29.1,26.6,-17.7,2.54,26.66,7e-05,yes
+Work role,Employee+Freelance,40,69,AI in web development,42.5,27.5,30.0,-12.5,2.68,26.66,7e-05,yes
+Work role,Other/Non-working,22,69,AI in web development,68.2,18.2,13.6,-54.5,1.91,26.66,7e-05,yes
+Work role,Employee+Owner,20,69,AI in web development,40.0,25.0,35.0,-5.0,2.8,26.66,7e-05,yes
+Work role,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,24.09,0.00021,yes
+Work role,Employee only,150,67,AI in tech industry,56.0,17.3,26.7,-29.3,2.37,24.09,0.00021,yes
+Work role,Owner/Exec,120,67,AI in tech industry,31.7,24.2,44.2,12.5,3.09,24.09,0.00021,yes
+Work role,Freelancer only,79,67,AI in tech industry,38.0,39.2,22.8,-15.2,2.56,24.09,0.00021,yes
+Work role,Employee+Freelance,40,67,AI in tech industry,50.0,17.5,32.5,-17.5,2.58,24.09,0.00021,yes
+Work role,Other/Non-working,22,67,AI in tech industry,77.3,4.5,18.2,-59.1,1.91,24.09,0.00021,yes
+Work role,Employee+Owner,20,67,AI in tech industry,50.0,20.0,30.0,-20.0,2.45,24.09,0.00021,yes
+Pay status,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,1.8,0.40709,no
+Pay status,Unpaid,248,28,WordPress now,38.7,30.6,30.6,-8.1,2.8,1.8,0.40709,no
+Pay status,Paid directly,116,28,WordPress now,37.9,24.1,37.9,0.0,2.97,1.8,0.40709,no
+Pay status,Paid indirectly,67,28,WordPress now,35.8,32.8,31.3,-4.5,2.94,1.8,0.40709,no
+Pay status,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,5.38,0.06783,no
+Pay status,Unpaid,248,31,WordPress future,42.7,35.1,22.2,-20.6,2.71,5.38,0.06783,no
+Pay status,Paid directly,116,31,WordPress future,31.9,38.8,29.3,-2.6,2.98,5.38,0.06783,no
+Pay status,Paid indirectly,67,31,WordPress future,37.3,38.8,23.9,-13.4,2.81,5.38,0.06783,no
+Pay status,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,0.09,0.95482,no
+Pay status,Unpaid,248,59,Open source software,5.2,12.1,82.7,77.4,4.15,0.09,0.95482,no
+Pay status,Paid directly,116,59,Open source software,2.6,13.8,83.6,81.0,4.17,0.09,0.95482,no
+Pay status,Paid indirectly,67,59,Open source software,1.5,23.9,74.6,73.1,4.18,0.09,0.95482,no
+Pay status,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,8.32,0.01562,yes
+Pay status,Unpaid,248,68,AI in WordPress,53.6,33.9,12.5,-41.1,2.2,8.32,0.01562,yes
+Pay status,Paid directly,116,68,AI in WordPress,44.8,29.3,25.9,-19.0,2.57,8.32,0.01562,yes
+Pay status,Paid indirectly,67,68,AI in WordPress,44.8,37.3,17.9,-26.9,2.49,8.32,0.01562,yes
+Pay status,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,13.8,0.00101,yes
+Pay status,Unpaid,248,69,AI in web development,48.0,23.8,28.2,-19.8,2.5,13.8,0.00101,yes
+Pay status,Paid directly,116,69,AI in web development,37.1,17.2,45.7,8.6,3.09,13.8,0.00101,yes
+Pay status,Paid indirectly,67,69,AI in web development,46.3,14.9,38.8,-7.5,2.76,13.8,0.00101,yes
+Pay status,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,7.15,0.02803,yes
+Pay status,Unpaid,248,67,AI in tech industry,48.8,24.6,26.6,-22.2,2.47,7.15,0.02803,yes
+Pay status,Paid directly,116,67,AI in tech industry,40.5,19.8,39.7,-0.9,2.89,7.15,0.02803,yes
+Pay status,Paid indirectly,67,67,AI in tech industry,46.3,20.9,32.8,-13.4,2.6,7.15,0.02803,yes
+Tenure (combined),All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,0.45,0.97782,no
+Tenure (combined),15+ years,135,28,WordPress now,34.1,31.1,34.8,0.7,2.93,0.45,0.97782,no
+Tenure (combined),10-15 years,122,28,WordPress now,37.7,30.3,32.0,-5.7,2.89,0.45,0.97782,no
+Tenure (combined),6-10 years,56,28,WordPress now,39.3,21.4,39.3,0.0,2.89,0.45,0.97782,no
+Tenure (combined),3-6 years,29,28,WordPress now,34.5,31.0,34.5,0.0,3.03,0.45,0.97782,no
+Tenure (combined),1-2 years,15,28,WordPress now,33.3,26.7,40.0,6.7,2.73,0.45,0.97782,no
+Tenure (combined),All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,5.13,0.27427,no
+Tenure (combined),15+ years,135,31,WordPress future,35.6,34.8,29.6,-5.9,2.89,5.13,0.27427,no
+Tenure (combined),10-15 years,122,31,WordPress future,36.9,38.5,24.6,-12.3,2.81,5.13,0.27427,no
+Tenure (combined),6-10 years,56,31,WordPress future,30.4,37.5,32.1,1.8,3.02,5.13,0.27427,no
+Tenure (combined),3-6 years,29,31,WordPress future,44.8,37.9,17.2,-27.6,2.72,5.13,0.27427,no
+Tenure (combined),1-2 years,15,31,WordPress future,40.0,53.3,6.7,-33.3,2.33,5.13,0.27427,no
+Tenure (combined),All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,2.64,0.61919,no
+Tenure (combined),15+ years,135,59,Open source software,3.7,12.6,83.7,80.0,4.23,2.64,0.61919,no
+Tenure (combined),10-15 years,122,59,Open source software,3.3,13.9,82.8,79.5,4.14,2.64,0.61919,no
+Tenure (combined),6-10 years,56,59,Open source software,1.8,16.1,82.1,80.4,4.18,2.64,0.61919,no
+Tenure (combined),3-6 years,29,59,Open source software,3.4,13.8,82.8,79.3,4.17,2.64,0.61919,no
+Tenure (combined),1-2 years,15,59,Open source software,0.0,20.0,80.0,80.0,4.4,2.64,0.61919,no
+Tenure (combined),All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,13.79,0.00801,yes
+Tenure (combined),15+ years,135,68,AI in WordPress,39.3,35.6,25.2,-14.1,2.69,13.79,0.00801,yes
+Tenure (combined),10-15 years,122,68,AI in WordPress,43.4,40.2,16.4,-27.0,2.5,13.79,0.00801,yes
+Tenure (combined),6-10 years,56,68,AI in WordPress,39.3,37.5,23.2,-16.1,2.59,13.79,0.00801,yes
+Tenure (combined),3-6 years,29,68,AI in WordPress,55.2,27.6,17.2,-37.9,2.21,13.79,0.00801,yes
+Tenure (combined),1-2 years,15,68,AI in WordPress,80.0,20.0,0.0,-80.0,1.6,13.79,0.00801,yes
+Tenure (combined),All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,7.36,0.11813,no
+Tenure (combined),15+ years,135,69,AI in web development,36.3,23.7,40.0,3.7,3.01,7.36,0.11813,no
+Tenure (combined),10-15 years,122,69,AI in web development,42.6,23.0,34.4,-8.2,2.75,7.36,0.11813,no
+Tenure (combined),6-10 years,56,69,AI in web development,26.8,23.2,50.0,23.2,3.21,7.36,0.11813,no
+Tenure (combined),3-6 years,29,69,AI in web development,41.4,17.2,41.4,0.0,2.76,7.36,0.11813,no
+Tenure (combined),1-2 years,15,69,AI in web development,53.3,20.0,26.7,-26.7,2.4,7.36,0.11813,no
+Tenure (combined),All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,13.49,0.00912,yes
+Tenure (combined),15+ years,135,67,AI in tech industry,36.3,20.0,43.7,7.4,2.97,13.49,0.00912,yes
+Tenure (combined),10-15 years,122,67,AI in tech industry,42.6,31.1,26.2,-16.4,2.59,13.49,0.00912,yes
+Tenure (combined),6-10 years,56,67,AI in tech industry,33.9,25.0,41.1,7.1,3.09,13.49,0.00912,yes
+Tenure (combined),3-6 years,29,67,AI in tech industry,51.7,20.7,27.6,-24.1,2.48,13.49,0.00912,yes
+Tenure (combined),1-2 years,15,67,AI in tech industry,60.0,20.0,20.0,-40.0,2.07,13.49,0.00912,yes
+Participation level,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,39.6,0.0,yes
+Participation level,Occasional participation,144,28,WordPress now,37.5,29.2,33.3,-4.2,2.9,39.6,0.0,yes
+Participation level,Observational only,97,28,WordPress now,47.4,25.8,26.8,-20.6,2.72,39.6,0.0,yes
+Participation level,Moderately active participation,76,28,WordPress now,26.3,40.8,32.9,6.6,3.03,39.6,0.0,yes
+Participation level,Very active participation,44,28,WordPress now,11.4,22.7,65.9,54.5,3.64,39.6,0.0,yes
+Participation level,Inactive,35,28,WordPress now,60.0,20.0,20.0,-40.0,2.34,39.6,0.0,yes
+Participation level,Do not participate / Not applicable,35,28,WordPress now,51.4,31.4,17.1,-34.3,2.4,39.6,0.0,yes
+Participation level,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,51.47,0.0,yes
+Participation level,Occasional participation,144,31,WordPress future,37.5,38.9,23.6,-13.9,2.83,51.47,0.0,yes
+Participation level,Observational only,97,31,WordPress future,54.6,29.9,15.5,-39.2,2.51,51.47,0.0,yes
+Participation level,Moderately active participation,76,31,WordPress future,25.0,42.1,32.9,7.9,3.08,51.47,0.0,yes
+Participation level,Very active participation,44,31,WordPress future,11.4,31.8,56.8,45.5,3.57,51.47,0.0,yes
+Participation level,Inactive,35,31,WordPress future,51.4,40.0,8.6,-42.9,2.34,51.47,0.0,yes
+Participation level,Do not participate / Not applicable,35,31,WordPress future,54.3,37.1,8.6,-45.7,2.34,51.47,0.0,yes
+Participation level,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,9.99,0.0754,no
+Participation level,Occasional participation,144,59,Open source software,6.9,13.2,79.9,72.9,4.1,9.99,0.0754,no
+Participation level,Observational only,97,59,Open source software,1.0,14.4,84.5,83.5,4.22,9.99,0.0754,no
+Participation level,Moderately active participation,76,59,Open source software,1.3,17.1,81.6,80.3,4.18,9.99,0.0754,no
+Participation level,Very active participation,44,59,Open source software,0.0,9.1,90.9,90.9,4.5,9.99,0.0754,no
+Participation level,Inactive,35,59,Open source software,2.9,20.0,77.1,74.3,4.09,9.99,0.0754,no
+Participation level,Do not participate / Not applicable,35,59,Open source software,11.4,14.3,74.3,62.9,3.89,9.99,0.0754,no
+Participation level,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,92.48,0.0,yes
+Participation level,Occasional participation,144,68,AI in WordPress,48.6,32.6,18.8,-29.9,2.42,92.48,0.0,yes
+Participation level,Observational only,97,68,AI in WordPress,64.9,32.0,3.1,-61.9,1.84,92.48,0.0,yes
+Participation level,Moderately active participation,76,68,AI in WordPress,27.6,42.1,30.3,2.6,2.99,92.48,0.0,yes
+Participation level,Very active participation,44,68,AI in WordPress,18.2,40.9,40.9,22.7,3.27,92.48,0.0,yes
+Participation level,Inactive,35,68,AI in WordPress,74.3,20.0,5.7,-68.6,1.77,92.48,0.0,yes
+Participation level,Do not participate / Not applicable,35,68,AI in WordPress,77.1,22.9,0.0,-77.1,1.49,92.48,0.0,yes
+Participation level,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,71.73,0.0,yes
+Participation level,Occasional participation,144,69,AI in web development,47.2,16.0,36.8,-10.4,2.76,71.73,0.0,yes
+Participation level,Observational only,97,69,AI in web development,54.6,25.8,19.6,-35.1,2.2,71.73,0.0,yes
+Participation level,Moderately active participation,76,69,AI in web development,21.1,26.3,52.6,31.6,3.43,71.73,0.0,yes
+Participation level,Very active participation,44,69,AI in web development,15.9,27.3,56.8,40.9,3.57,71.73,0.0,yes
+Participation level,Inactive,35,69,AI in web development,62.9,17.1,20.0,-42.9,2.06,71.73,0.0,yes
+Participation level,Do not participate / Not applicable,35,69,AI in web development,77.1,8.6,14.3,-62.9,1.77,71.73,0.0,yes
+Participation level,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,76.61,0.0,yes
+Participation level,Occasional participation,144,67,AI in tech industry,47.9,23.6,28.5,-19.4,2.6,76.61,0.0,yes
+Participation level,Observational only,97,67,AI in tech industry,58.8,21.6,19.6,-39.2,2.13,76.61,0.0,yes
+Participation level,Moderately active participation,76,67,AI in tech industry,19.7,23.7,56.6,36.8,3.47,76.61,0.0,yes
+Participation level,Very active participation,44,67,AI in tech industry,18.2,34.1,47.7,29.5,3.34,76.61,0.0,yes
+Participation level,Inactive,35,67,AI in tech industry,62.9,22.9,14.3,-48.6,1.97,76.61,0.0,yes
+Participation level,Do not participate / Not applicable,35,67,AI in tech industry,80.0,5.7,14.3,-65.7,1.71,76.61,0.0,yes
+Participation change,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,84.22,0.0,yes
+Participation change,No change / About the same,199,28,WordPress now,28.1,25.6,46.2,18.1,3.16,84.22,0.0,yes
+Participation change,Decreased,94,28,WordPress now,53.2,36.2,10.6,-42.6,2.48,84.22,0.0,yes
+Participation change,Significantly decreased,73,28,WordPress now,69.9,21.9,8.2,-61.6,2.1,84.22,0.0,yes
+Participation change,Increased,48,28,WordPress now,14.6,39.6,45.8,31.2,3.33,84.22,0.0,yes
+Participation change,Significantly increased,17,28,WordPress now,0.0,35.3,64.7,64.7,3.71,84.22,0.0,yes
+Participation change,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,67.92,0.0,yes
+Participation change,No change / About the same,199,31,WordPress future,31.2,37.7,31.2,0.0,2.99,67.92,0.0,yes
+Participation change,Decreased,94,31,WordPress future,51.1,41.5,7.4,-43.6,2.47,67.92,0.0,yes
+Participation change,Significantly decreased,73,31,WordPress future,64.4,27.4,8.2,-56.2,2.16,67.92,0.0,yes
+Participation change,Increased,48,31,WordPress future,22.9,37.5,39.6,16.7,3.25,67.92,0.0,yes
+Participation change,Significantly increased,17,31,WordPress future,0.0,35.3,64.7,64.7,3.76,67.92,0.0,yes
+Participation change,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,7.64,0.1056,no
+Participation change,No change / About the same,199,59,Open source software,3.5,11.6,84.9,81.4,4.26,7.64,0.1056,no
+Participation change,Decreased,94,59,Open source software,5.3,20.2,74.5,69.1,4.01,7.64,0.1056,no
+Participation change,Significantly decreased,73,59,Open source software,6.8,15.1,78.1,71.2,4.01,7.64,0.1056,no
+Participation change,Increased,48,59,Open source software,0.0,10.4,89.6,89.6,4.27,7.64,0.1056,no
+Participation change,Significantly increased,17,59,Open source software,0.0,23.5,76.5,76.5,4.24,7.64,0.1056,no
+Participation change,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,26.51,3e-05,yes
+Participation change,No change / About the same,199,68,AI in WordPress,53.3,29.1,17.6,-35.7,2.26,26.51,3e-05,yes
+Participation change,Decreased,94,68,AI in WordPress,53.2,31.9,14.9,-38.3,2.28,26.51,3e-05,yes
+Participation change,Significantly decreased,73,68,AI in WordPress,57.5,37.0,5.5,-52.1,2.11,26.51,3e-05,yes
+Participation change,Increased,48,68,AI in WordPress,31.2,43.8,25.0,-6.2,2.83,26.51,3e-05,yes
+Participation change,Significantly increased,17,68,AI in WordPress,11.8,41.2,47.1,35.3,3.35,26.51,3e-05,yes
+Participation change,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,23.38,0.00011,yes
+Participation change,No change / About the same,199,69,AI in web development,49.7,18.6,31.7,-18.1,2.5,23.38,0.00011,yes
+Participation change,Decreased,94,69,AI in web development,48.9,24.5,26.6,-22.3,2.63,23.38,0.00011,yes
+Participation change,Significantly decreased,73,69,AI in web development,43.8,21.9,34.2,-9.6,2.73,23.38,0.00011,yes
+Participation change,Increased,48,69,AI in web development,31.2,16.7,52.1,20.8,3.17,23.38,0.00011,yes
+Participation change,Significantly increased,17,69,AI in web development,5.9,29.4,64.7,58.8,4.0,23.38,0.00011,yes
+Participation change,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,19.94,0.00051,yes
+Participation change,No change / About the same,199,67,AI in tech industry,51.3,21.1,27.6,-23.6,2.41,19.94,0.00051,yes
+Participation change,Decreased,94,67,AI in tech industry,51.1,21.3,27.7,-23.4,2.53,19.94,0.00051,yes
+Participation change,Significantly decreased,73,67,AI in tech industry,43.8,23.3,32.9,-11.0,2.68,19.94,0.00051,yes
+Participation change,Increased,48,67,AI in tech industry,31.2,31.2,37.5,6.2,3.02,19.94,0.00051,yes
+Participation change,Significantly increased,17,67,AI in tech industry,11.8,23.5,64.7,52.9,3.71,19.94,0.00051,yes
+Event relationship,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,40.59,0.0,yes
+Event relationship,"Never attended, not interested",120,28,WordPress now,47.5,25.8,26.7,-20.8,2.63,40.59,0.0,yes
+Event relationship,Stopped attending,94,28,WordPress now,55.3,26.6,18.1,-37.2,2.43,40.59,0.0,yes
+Event relationship,"Attend, multiple times a year",91,28,WordPress now,20.9,33.0,46.2,25.3,3.31,40.59,0.0,yes
+Event relationship,"Attend, annually or occasionally",90,28,WordPress now,26.7,33.3,40.0,13.3,3.13,40.59,0.0,yes
+Event relationship,"Never attended, would like to",28,28,WordPress now,32.1,28.6,39.3,7.1,3.11,40.59,0.0,yes
+Event relationship,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,73.98,0.0,yes
+Event relationship,"Never attended, not interested",120,31,WordPress future,55.8,33.3,10.8,-45.0,2.41,73.98,0.0,yes
+Event relationship,Stopped attending,94,31,WordPress future,58.5,29.8,11.7,-46.8,2.34,73.98,0.0,yes
+Event relationship,"Attend, multiple times a year",91,31,WordPress future,16.5,41.8,41.8,25.3,3.34,73.98,0.0,yes
+Event relationship,"Attend, annually or occasionally",90,31,WordPress future,23.3,41.1,35.6,12.2,3.14,73.98,0.0,yes
+Event relationship,"Never attended, would like to",28,31,WordPress future,25.0,42.9,32.1,7.1,3.11,73.98,0.0,yes
+Event relationship,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,9.79,0.04409,yes
+Event relationship,"Never attended, not interested",120,59,Open source software,6.7,10.8,82.5,75.8,4.15,9.79,0.04409,yes
+Event relationship,Stopped attending,94,59,Open source software,3.2,20.2,76.6,73.4,4.02,9.79,0.04409,yes
+Event relationship,"Attend, multiple times a year",91,59,Open source software,1.1,13.2,85.7,84.6,4.35,9.79,0.04409,yes
+Event relationship,"Attend, annually or occasionally",90,59,Open source software,4.4,15.6,80.0,75.6,4.12,9.79,0.04409,yes
+Event relationship,"Never attended, would like to",28,59,Open source software,3.6,7.1,89.3,85.7,4.29,9.79,0.04409,yes
+Event relationship,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,132.64,0.0,yes
+Event relationship,"Never attended, not interested",120,68,AI in WordPress,84.2,13.3,2.5,-81.7,1.41,132.64,0.0,yes
+Event relationship,Stopped attending,94,68,AI in WordPress,54.3,35.1,10.6,-43.6,2.24,132.64,0.0,yes
+Event relationship,"Attend, multiple times a year",91,68,AI in WordPress,23.1,46.2,30.8,7.7,3.05,132.64,0.0,yes
+Event relationship,"Attend, annually or occasionally",90,68,AI in WordPress,26.7,43.3,30.0,3.3,2.96,132.64,0.0,yes
+Event relationship,"Never attended, would like to",28,68,AI in WordPress,50.0,35.7,14.3,-35.7,2.39,132.64,0.0,yes
+Event relationship,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,110.42,0.0,yes
+Event relationship,"Never attended, not interested",120,69,AI in web development,78.3,8.3,13.3,-65.0,1.66,110.42,0.0,yes
+Event relationship,Stopped attending,94,69,AI in web development,46.8,22.3,30.9,-16.0,2.64,110.42,0.0,yes
+Event relationship,"Attend, multiple times a year",91,69,AI in web development,22.0,24.2,53.8,31.9,3.47,110.42,0.0,yes
+Event relationship,"Attend, annually or occasionally",90,69,AI in web development,21.1,31.1,47.8,26.7,3.36,110.42,0.0,yes
+Event relationship,"Never attended, would like to",28,69,AI in web development,46.4,21.4,32.1,-14.3,2.64,110.42,0.0,yes
+Event relationship,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,104.43,0.0,yes
+Event relationship,"Never attended, not interested",120,67,AI in tech industry,80.0,6.7,13.3,-66.7,1.64,104.43,0.0,yes
+Event relationship,Stopped attending,94,67,AI in tech industry,45.7,28.7,25.5,-20.2,2.53,104.43,0.0,yes
+Event relationship,"Attend, multiple times a year",91,67,AI in tech industry,19.8,31.9,48.4,28.6,3.38,104.43,0.0,yes
+Event relationship,"Attend, annually or occasionally",90,67,AI in tech industry,25.6,32.2,42.2,16.7,3.19,104.43,0.0,yes
+Event relationship,"Never attended, would like to",28,67,AI in tech industry,53.6,10.7,35.7,-17.9,2.54,104.43,0.0,yes
+Contribution type,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,11.71,0.00843,yes
+Contribution type,No contribution work,197,28,WordPress now,46.2,26.4,27.4,-18.8,2.68,11.71,0.00843,yes
+Contribution type,Community and code work,112,28,WordPress now,28.6,30.4,41.1,12.5,3.1,11.71,0.00843,yes
+Contribution type,Community work only,87,28,WordPress now,34.5,32.2,33.3,-1.1,2.99,11.71,0.00843,yes
+Contribution type,Code / project work only,35,28,WordPress now,31.4,34.3,34.3,2.9,2.91,11.71,0.00843,yes
+Contribution type,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,24.88,2e-05,yes
+Contribution type,No contribution work,197,31,WordPress future,48.7,36.5,14.7,-34.0,2.54,24.88,2e-05,yes
+Contribution type,Community and code work,112,31,WordPress future,25.9,35.7,38.4,12.5,3.1,24.88,2e-05,yes
+Contribution type,Community work only,87,31,WordPress future,35.6,39.1,25.3,-10.3,2.93,24.88,2e-05,yes
+Contribution type,Code / project work only,35,31,WordPress future,34.3,34.3,31.4,-2.9,2.94,24.88,2e-05,yes
+Contribution type,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,1.8,0.61418,no
+Contribution type,No contribution work,197,59,Open source software,4.6,14.2,81.2,76.6,4.15,1.8,0.61418,no
+Contribution type,Community and code work,112,59,Open source software,3.6,12.5,83.9,80.4,4.21,1.8,0.61418,no
+Contribution type,Community work only,87,59,Open source software,1.1,16.1,82.8,81.6,4.21,1.8,0.61418,no
+Contribution type,Code / project work only,35,59,Open source software,8.6,17.1,74.3,65.7,3.97,1.8,0.61418,no
+Contribution type,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,70.94,0.0,yes
+Contribution type,No contribution work,197,68,AI in WordPress,68.5,25.4,6.1,-62.4,1.83,70.94,0.0,yes
+Contribution type,Community and code work,112,68,AI in WordPress,31.2,42.0,26.8,-4.5,2.84,70.94,0.0,yes
+Contribution type,Community work only,87,68,AI in WordPress,34.5,39.1,26.4,-8.0,2.78,70.94,0.0,yes
+Contribution type,Code / project work only,35,68,AI in WordPress,42.9,34.3,22.9,-20.0,2.6,70.94,0.0,yes
+Contribution type,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,55.68,0.0,yes
+Contribution type,No contribution work,197,69,AI in web development,60.4,18.8,20.8,-39.6,2.16,55.68,0.0,yes
+Contribution type,Community and code work,112,69,AI in web development,27.7,22.3,50.0,22.3,3.27,55.68,0.0,yes
+Contribution type,Community work only,87,69,AI in web development,33.3,19.5,47.1,13.8,3.14,55.68,0.0,yes
+Contribution type,Code / project work only,35,69,AI in web development,40.0,28.6,31.4,-8.6,2.83,55.68,0.0,yes
+Contribution type,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,45.63,0.0,yes
+Contribution type,No contribution work,197,67,AI in tech industry,62.4,16.2,21.3,-41.1,2.13,45.63,0.0,yes
+Contribution type,Community and code work,112,67,AI in tech industry,29.5,28.6,42.0,12.5,3.07,45.63,0.0,yes
+Contribution type,Community work only,87,67,AI in tech industry,29.9,27.6,42.5,12.6,3.05,45.63,0.0,yes
+Contribution type,Code / project work only,35,67,AI in tech industry,48.6,28.6,22.9,-25.7,2.66,45.63,0.0,yes
+Contributor identity,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,18.88,0.00083,yes
+Contributor identity,Agree,105,28,WordPress now,31.4,36.2,32.4,1.0,2.98,18.88,0.00083,yes
+Contributor identity,Neutral,90,28,WordPress now,34.4,30.0,35.6,1.1,3.0,18.88,0.00083,yes
+Contributor identity,Disagree,81,28,WordPress now,45.7,24.7,29.6,-16.0,2.68,18.88,0.00083,yes
+Contributor identity,Strongly disagree,79,28,WordPress now,51.9,26.6,21.5,-30.4,2.48,18.88,0.00083,yes
+Contributor identity,Strongly agree,76,28,WordPress now,28.9,26.3,44.7,15.8,3.17,18.88,0.00083,yes
+Contributor identity,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,40.83,0.0,yes
+Contributor identity,Agree,105,31,WordPress future,32.4,39.0,28.6,-3.8,2.93,40.83,0.0,yes
+Contributor identity,Neutral,90,31,WordPress future,34.4,38.9,26.7,-7.8,2.94,40.83,0.0,yes
+Contributor identity,Disagree,81,31,WordPress future,54.3,35.8,9.9,-44.4,2.42,40.83,0.0,yes
+Contributor identity,Strongly disagree,79,31,WordPress future,53.2,35.4,11.4,-41.8,2.39,40.83,0.0,yes
+Contributor identity,Strongly agree,76,31,WordPress future,22.4,32.9,44.7,22.4,3.25,40.83,0.0,yes
+Contributor identity,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,5.86,0.2099,no
+Contributor identity,Agree,105,59,Open source software,2.9,19.0,78.1,75.2,4.1,5.86,0.2099,no
+Contributor identity,Neutral,90,59,Open source software,4.4,17.8,77.8,73.3,4.11,5.86,0.2099,no
+Contributor identity,Disagree,81,59,Open source software,4.9,13.6,81.5,76.5,4.11,5.86,0.2099,no
+Contributor identity,Strongly disagree,79,59,Open source software,3.8,8.9,87.3,83.5,4.2,5.86,0.2099,no
+Contributor identity,Strongly agree,76,59,Open source software,3.9,10.5,85.5,81.6,4.33,5.86,0.2099,no
+Contributor identity,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,78.82,0.0,yes
+Contributor identity,Agree,105,68,AI in WordPress,40.0,37.1,22.9,-17.1,2.68,78.82,0.0,yes
+Contributor identity,Neutral,90,68,AI in WordPress,42.2,36.7,21.1,-21.1,2.51,78.82,0.0,yes
+Contributor identity,Disagree,81,68,AI in WordPress,70.4,25.9,3.7,-66.7,1.78,78.82,0.0,yes
+Contributor identity,Strongly disagree,79,68,AI in WordPress,73.4,24.1,2.5,-70.9,1.65,78.82,0.0,yes
+Contributor identity,Strongly agree,76,68,AI in WordPress,26.3,40.8,32.9,6.6,3.03,78.82,0.0,yes
+Contributor identity,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,60.98,0.0,yes
+Contributor identity,Agree,105,69,AI in web development,33.3,19.0,47.6,14.3,3.17,60.98,0.0,yes
+Contributor identity,Neutral,90,69,AI in web development,38.9,27.8,33.3,-5.6,2.83,60.98,0.0,yes
+Contributor identity,Disagree,81,69,AI in web development,56.8,23.5,19.8,-37.0,2.15,60.98,0.0,yes
+Contributor identity,Strongly disagree,79,69,AI in web development,70.9,10.1,19.0,-51.9,1.92,60.98,0.0,yes
+Contributor identity,Strongly agree,76,69,AI in web development,27.6,22.4,50.0,22.4,3.28,60.98,0.0,yes
+Contributor identity,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,59.57,0.0,yes
+Contributor identity,Agree,105,67,AI in tech industry,32.4,27.6,40.0,7.6,2.97,59.57,0.0,yes
+Contributor identity,Neutral,90,67,AI in tech industry,41.1,28.9,30.0,-11.1,2.73,59.57,0.0,yes
+Contributor identity,Disagree,81,67,AI in tech industry,64.2,17.3,18.5,-45.7,2.01,59.57,0.0,yes
+Contributor identity,Strongly disagree,79,67,AI in tech industry,70.9,11.4,17.7,-53.2,1.92,59.57,0.0,yes
+Contributor identity,Strongly agree,76,67,AI in tech industry,26.3,26.3,47.4,21.1,3.28,59.57,0.0,yes
+Community membership,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,38.21,0.0,yes
+Community membership,Agree,166,28,WordPress now,39.2,28.9,31.9,-7.2,2.86,38.21,0.0,yes
+Community membership,Strongly agree,142,28,WordPress now,22.5,31.0,46.5,23.9,3.25,38.21,0.0,yes
+Community membership,Neutral,70,28,WordPress now,52.9,27.1,20.0,-32.9,2.51,38.21,0.0,yes
+Community membership,Disagree,36,28,WordPress now,50.0,30.6,19.4,-30.6,2.5,38.21,0.0,yes
+Community membership,Strongly disagree,17,28,WordPress now,70.6,23.5,5.9,-64.7,2.06,38.21,0.0,yes
+Community membership,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,49.37,0.0,yes
+Community membership,Agree,166,31,WordPress future,41.0,40.4,18.7,-22.3,2.71,49.37,0.0,yes
+Community membership,Strongly agree,142,31,WordPress future,22.5,35.2,42.3,19.7,3.23,49.37,0.0,yes
+Community membership,Neutral,70,31,WordPress future,50.0,34.3,15.7,-34.3,2.53,49.37,0.0,yes
+Community membership,Disagree,36,31,WordPress future,55.6,36.1,8.3,-47.2,2.44,49.37,0.0,yes
+Community membership,Strongly disagree,17,31,WordPress future,76.5,23.5,0.0,-76.5,1.88,49.37,0.0,yes
+Community membership,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,14.18,0.00674,yes
+Community membership,Agree,166,59,Open source software,5.4,14.5,80.1,74.7,4.07,14.18,0.00674,yes
+Community membership,Strongly agree,142,59,Open source software,0.7,11.3,88.0,87.3,4.37,14.18,0.00674,yes
+Community membership,Neutral,70,59,Open source software,4.3,22.9,72.9,68.6,3.97,14.18,0.00674,yes
+Community membership,Disagree,36,59,Open source software,5.6,11.1,83.3,77.8,4.19,14.18,0.00674,yes
+Community membership,Strongly disagree,17,59,Open source software,11.8,11.8,76.5,64.7,4.0,14.18,0.00674,yes
+Community membership,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,94.35,0.0,yes
+Community membership,Agree,166,68,AI in WordPress,53.6,33.1,13.3,-40.4,2.24,94.35,0.0,yes
+Community membership,Strongly agree,142,68,AI in WordPress,26.1,40.1,33.8,7.7,3.06,94.35,0.0,yes
+Community membership,Neutral,70,68,AI in WordPress,67.1,28.6,4.3,-62.9,1.76,94.35,0.0,yes
+Community membership,Disagree,36,68,AI in WordPress,77.8,22.2,0.0,-77.8,1.58,94.35,0.0,yes
+Community membership,Strongly disagree,17,68,AI in WordPress,82.4,17.6,0.0,-82.4,1.41,94.35,0.0,yes
+Community membership,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,71.43,0.0,yes
+Community membership,Agree,166,69,AI in web development,47.0,21.7,31.3,-15.7,2.57,71.43,0.0,yes
+Community membership,Strongly agree,142,69,AI in web development,21.8,25.4,52.8,31.0,3.45,71.43,0.0,yes
+Community membership,Neutral,70,69,AI in web development,67.1,14.3,18.6,-48.6,2.04,71.43,0.0,yes
+Community membership,Disagree,36,69,AI in web development,69.4,8.3,22.2,-47.2,2.06,71.43,0.0,yes
+Community membership,Strongly disagree,17,69,AI in web development,70.6,23.5,5.9,-64.7,1.71,71.43,0.0,yes
+Community membership,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,76.23,0.0,yes
+Community membership,Agree,166,67,AI in tech industry,51.2,24.1,24.7,-26.5,2.4,76.23,0.0,yes
+Community membership,Strongly agree,142,67,AI in tech industry,21.8,26.8,51.4,29.6,3.39,76.23,0.0,yes
+Community membership,Neutral,70,67,AI in tech industry,65.7,21.4,12.9,-52.9,1.96,76.23,0.0,yes
+Community membership,Disagree,36,67,AI in tech industry,69.4,8.3,22.2,-47.2,2.03,76.23,0.0,yes
+Community membership,Strongly disagree,17,67,AI in tech industry,70.6,11.8,17.6,-52.9,1.88,76.23,0.0,yes
+Uses AI at work,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,20.75,1e-05,yes
+Uses AI at work,Uses AI,308,28,WordPress now,31.5,31.2,37.3,5.8,3.02,20.75,1e-05,yes
+Uses AI at work,Does not use AI,123,28,WordPress now,54.5,24.4,21.1,-33.3,2.49,20.75,1e-05,yes
+Uses AI at work,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,38.78,0.0,yes
+Uses AI at work,Uses AI,308,31,WordPress future,31.2,38.3,30.5,-0.6,2.99,38.78,0.0,yes
+Uses AI at work,Does not use AI,123,31,WordPress future,58.5,32.5,8.9,-49.6,2.3,38.78,0.0,yes
+Uses AI at work,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,0.59,0.44298,no
+Uses AI at work,Uses AI,308,59,Open source software,1.9,16.2,81.8,79.9,4.17,0.59,0.44298,no
+Uses AI at work,Does not use AI,123,59,Open source software,8.9,9.8,81.3,72.4,4.14,0.59,0.44298,no
+Uses AI at work,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,165.15,0.0,yes
+Uses AI at work,Uses AI,308,68,AI in WordPress,32.1,44.2,23.7,-8.4,2.81,165.15,0.0,yes
+Uses AI at work,Does not use AI,123,68,AI in WordPress,94.3,5.7,0.0,-94.3,1.2,165.15,0.0,yes
+Uses AI at work,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,194.97,0.0,yes
+Uses AI at work,Uses AI,308,69,AI in web development,24.7,26.9,48.4,23.7,3.3,194.97,0.0,yes
+Uses AI at work,Does not use AI,123,69,AI in web development,95.1,4.9,0.0,-95.1,1.19,194.97,0.0,yes
+Uses AI at work,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,183.75,0.0,yes
+Uses AI at work,Uses AI,308,67,AI in tech industry,26.6,29.9,43.5,16.9,3.17,183.75,0.0,yes
+Uses AI at work,Does not use AI,123,67,AI in tech industry,95.1,4.9,0.0,-95.1,1.18,183.75,0.0,yes
+Contributes to open source elsewhere,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,13.52,0.00024,yes
+Contributes to open source elsewhere,Yes,228,28,WordPress now,46.5,25.4,28.1,-18.4,2.68,13.52,0.00024,yes
+Contributes to open source elsewhere,No,203,28,WordPress now,28.6,33.5,37.9,9.4,3.08,13.52,0.00024,yes
+Contributes to open source elsewhere,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,15.72,7e-05,yes
+Contributes to open source elsewhere,Yes,228,31,WordPress future,48.2,31.6,20.2,-28.1,2.62,15.72,7e-05,yes
+Contributes to open source elsewhere,No,203,31,WordPress future,28.6,42.4,29.1,0.5,2.99,15.72,7e-05,yes
+Contributes to open source elsewhere,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,6.85,0.00888,yes
+Contributes to open source elsewhere,Yes,228,59,Open source software,5.7,11.0,83.3,77.6,4.23,6.85,0.00888,yes
+Contributes to open source elsewhere,No,203,59,Open source software,2.0,18.2,79.8,77.8,4.09,6.85,0.00888,yes
+Contributes to open source elsewhere,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,6.79,0.00918,yes
+Contributes to open source elsewhere,Yes,228,68,AI in WordPress,57.0,25.4,17.5,-39.5,2.22,6.79,0.00918,yes
+Contributes to open source elsewhere,No,203,68,AI in WordPress,41.9,41.9,16.3,-25.6,2.49,6.79,0.00918,yes
+Contributes to open source elsewhere,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,5.62,0.01772,yes
+Contributes to open source elsewhere,Yes,228,69,AI in web development,53.1,14.5,32.5,-20.6,2.54,5.62,0.01772,yes
+Contributes to open source elsewhere,No,203,69,AI in web development,35.5,27.6,36.9,1.5,2.87,5.62,0.01772,yes
+Contributes to open source elsewhere,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,8.38,0.00379,yes
+Contributes to open source elsewhere,Yes,228,67,AI in tech industry,53.5,18.4,28.1,-25.4,2.43,8.38,0.00379,yes
+Contributes to open source elsewhere,No,203,67,AI in tech industry,37.9,27.6,34.5,-3.4,2.8,8.38,0.00379,yes
+Volunteers outside WordPress and open source,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,4.91,0.0267,yes
+Volunteers outside WordPress and open source,Yes,251,28,WordPress now,43.0,26.3,30.7,-12.4,2.77,4.91,0.0267,yes
+Volunteers outside WordPress and open source,No,180,28,WordPress now,31.1,33.3,35.6,4.4,3.01,4.91,0.0267,yes
+Volunteers outside WordPress and open source,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,8.53,0.0035,yes
+Volunteers outside WordPress and open source,Yes,251,31,WordPress future,44.6,34.7,20.7,-23.9,2.68,8.53,0.0035,yes
+Volunteers outside WordPress and open source,No,180,31,WordPress future,31.1,39.4,29.4,-1.7,2.96,8.53,0.0035,yes
+Volunteers outside WordPress and open source,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,2.39,0.12217,no
+Volunteers outside WordPress and open source,Yes,251,59,Open source software,5.2,12.0,82.9,77.7,4.2,2.39,0.12217,no
+Volunteers outside WordPress and open source,No,180,59,Open source software,2.2,17.8,80.0,77.8,4.12,2.39,0.12217,no
+Volunteers outside WordPress and open source,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,20.46,1e-05,yes
+Volunteers outside WordPress and open source,Yes,251,68,AI in WordPress,59.0,26.7,14.3,-44.6,2.13,20.46,1e-05,yes
+Volunteers outside WordPress and open source,No,180,68,AI in WordPress,37.2,42.2,20.6,-16.7,2.64,20.46,1e-05,yes
+Volunteers outside WordPress and open source,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,10.84,0.00099,yes
+Volunteers outside WordPress and open source,Yes,251,69,AI in web development,51.0,19.5,29.5,-21.5,2.51,10.84,0.00099,yes
+Volunteers outside WordPress and open source,No,180,69,AI in web development,36.1,22.2,41.7,5.6,2.96,10.84,0.00099,yes
+Volunteers outside WordPress and open source,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,13.11,0.00029,yes
+Volunteers outside WordPress and open source,Yes,251,67,AI in tech industry,53.4,19.9,26.7,-26.7,2.4,13.11,0.00029,yes
+Volunteers outside WordPress and open source,No,180,67,AI in tech industry,36.1,26.7,37.2,1.1,2.88,13.11,0.00029,yes
+Income depends on WordPress,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,7.62,0.02216,yes
+Income depends on WordPress,Yes,205,28,WordPress now,32.2,30.2,37.6,5.4,3.01,7.62,0.02216,yes
+Income depends on WordPress,No,138,28,WordPress now,40.6,26.8,32.6,-8.0,2.83,7.62,0.02216,yes
+Income depends on WordPress,Partially,82,28,WordPress now,46.3,31.7,22.0,-24.4,2.63,7.62,0.02216,yes
+Income depends on WordPress,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,8.65,0.01323,yes
+Income depends on WordPress,Yes,205,31,WordPress future,33.2,36.6,30.2,-2.9,2.95,8.65,0.01323,yes
+Income depends on WordPress,No,138,31,WordPress future,42.8,37.0,20.3,-22.5,2.7,8.65,0.01323,yes
+Income depends on WordPress,Partially,82,31,WordPress future,46.3,36.6,17.1,-29.3,2.61,8.65,0.01323,yes
+Income depends on WordPress,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,0.81,0.66626,no
+Income depends on WordPress,Yes,205,59,Open source software,2.0,17.6,80.5,78.5,4.15,0.81,0.66626,no
+Income depends on WordPress,No,138,59,Open source software,8.0,9.4,82.6,74.6,4.16,0.81,0.66626,no
+Income depends on WordPress,Partially,82,59,Open source software,2.4,14.6,82.9,80.5,4.18,0.81,0.66626,no
+Income depends on WordPress,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,30.77,0.0,yes
+Income depends on WordPress,Yes,205,68,AI in WordPress,39.5,34.6,25.9,-13.7,2.68,30.77,0.0,yes
+Income depends on WordPress,No,138,68,AI in WordPress,62.3,29.7,8.0,-54.3,1.96,30.77,0.0,yes
+Income depends on WordPress,Partially,82,68,AI in WordPress,54.9,34.1,11.0,-43.9,2.15,30.77,0.0,yes
+Income depends on WordPress,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,30.69,0.0,yes
+Income depends on WordPress,Yes,205,69,AI in web development,34.1,21.0,44.9,10.7,3.08,30.69,0.0,yes
+Income depends on WordPress,No,138,69,AI in web development,56.5,20.3,23.2,-33.3,2.24,30.69,0.0,yes
+Income depends on WordPress,Partially,82,69,AI in web development,52.4,18.3,29.3,-23.2,2.52,30.69,0.0,yes
+Income depends on WordPress,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,25.08,0.0,yes
+Income depends on WordPress,Yes,205,67,AI in tech industry,35.1,27.3,37.6,2.4,2.93,25.08,0.0,yes
+Income depends on WordPress,No,138,67,AI in tech industry,60.1,18.1,21.7,-38.4,2.19,25.08,0.0,yes
+Income depends on WordPress,Partially,82,67,AI in tech industry,51.2,17.1,31.7,-19.5,2.46,25.08,0.0,yes
+Experienced hostility personally,All respondents,431,28,WordPress now,38.1,29.2,32.7,-5.3,2.87,15.38,9e-05,yes
+Experienced hostility personally,Experienced,238,28,WordPress now,45.4,27.7,26.9,-18.5,2.68,15.38,9e-05,yes
+Experienced hostility personally,Did not experience,193,28,WordPress now,29.0,31.1,39.9,10.9,3.1,15.38,9e-05,yes
+Experienced hostility personally,All respondents,431,31,WordPress future,39.0,36.7,24.4,-14.6,2.8,13.44,0.00025,yes
+Experienced hostility personally,Experienced,238,31,WordPress future,45.0,35.7,19.3,-25.6,2.63,13.44,0.00025,yes
+Experienced hostility personally,Did not experience,193,31,WordPress future,31.6,37.8,30.6,-1.0,3.01,13.44,0.00025,yes
+Experienced hostility personally,All respondents,431,59,Open source software,3.9,14.4,81.7,77.7,4.16,2.51,0.11316,no
+Experienced hostility personally,Experienced,238,59,Open source software,3.8,15.1,81.1,77.3,4.12,2.51,0.11316,no
+Experienced hostility personally,Did not experience,193,59,Open source software,4.1,13.5,82.4,78.2,4.22,2.51,0.11316,no
+Experienced hostility personally,All respondents,431,68,AI in WordPress,49.9,33.2,16.9,-32.9,2.35,0.06,0.80369,no
+Experienced hostility personally,Experienced,238,68,AI in WordPress,51.7,32.8,15.5,-36.1,2.33,0.06,0.80369,no
+Experienced hostility personally,Did not experience,193,68,AI in WordPress,47.7,33.7,18.7,-29.0,2.37,0.06,0.80369,no
+Experienced hostility personally,All respondents,431,69,AI in web development,44.8,20.6,34.6,-10.2,2.7,0.01,0.92056,no
+Experienced hostility personally,Experienced,238,69,AI in web development,44.5,22.3,33.2,-11.3,2.71,0.01,0.92056,no
+Experienced hostility personally,Did not experience,193,69,AI in web development,45.1,18.7,36.3,-8.8,2.69,0.01,0.92056,no
+Experienced hostility personally,All respondents,431,67,AI in tech industry,46.2,22.7,31.1,-15.1,2.6,0.22,0.63715,no
+Experienced hostility personally,Experienced,238,67,AI in tech industry,44.1,26.1,29.8,-14.3,2.63,0.22,0.63715,no
+Experienced hostility personally,Did not experience,193,67,AI in tech industry,48.7,18.7,32.6,-16.1,2.57,0.22,0.63715,no
