@@ -16,9 +16,9 @@ Every free-written response from every respondent who granted full permission to
 
 **Excluded questions.**
 
-- **Q3. Please indicate your gender identification:** — Only one respondent answered this question. Publishing it would risk identifying them. See LIMITATIONS §6.
+- **Q3. Please indicate your gender identification:** — Only one respondent answered this question. Publishing it would risk identifying them. 
 
-See [`../2026/SURVEY-INSTRUMENT.md`](../2026/SURVEY-INSTRUMENT.md) for the full instrument and [`../2026/LIMITATIONS.md`](../2026/LIMITATIONS.md) for known issues.
+See [SURVEY-INSTRUMENT.md](https://github.com/thewpcommunitycollective/programs/blob/main/projects/state-of-the-community/2026/SURVEY-INSTRUMENT.md) for the full instrument and [LIMITATIONS.md](https://github.com/thewpcommunitycollective/programs/blob/main/projects/state-of-the-community/2026/LIMITATIONS.md) for known issues.
 
 ---
 
