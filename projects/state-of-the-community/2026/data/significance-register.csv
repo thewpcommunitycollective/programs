@@ -1,0 +1,500 @@
+test_type,segment_variable,outcome_measure,question_number,groups_compared,statistic,p,significance,lowest_scoring_group,highest_scoring_group,spread_in_group_means
+ordinal (Kruskal-Wallis),Event relationship,Attending in-person WordPress-related events is important to me.,50,5,289.8,1.716631996462587e-61,***,"Never attended, not interested","Attend, multiple times a year",3.12
+ordinal (Kruskal-Wallis),Event relationship,WordPress events and meetups,34,5,232.83,3.2515727364957065e-49,***,"Never attended, not interested","Attend, multiple times a year",2.58
+ordinal (Kruskal-Wallis),Contribution type,I consider myself to be a contributor to the WordPress open source project.,19,4,219.38,2.7299217049487076e-47,***,No contribution work,Community and code work,2.24
+ordinal (Kruskal-Wallis),Participation level,I consider myself to be a member of the WordPress community.,22,6,219.04,2.386494021394983e-45,***,Do not participate / Not applicable,Very active participation,2.47
+categorical (chi-square),Contributor identity,How would you describe your current level of community participation in the WordPress open,36,5,265.84,7.167106276297117e-45,***,,,
+ordinal (Kruskal-Wallis),Uses AI at work,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,2,194.97,2.6130622748802897e-44,***,Does not use AI,Uses AI,2.11
+ordinal (Kruskal-Wallis),Uses AI at work,"Right now, how do you generally feel about AI in the tech industry?",67,2,183.75,7.358881777089799e-42,***,Does not use AI,Uses AI,1.99
+ordinal (Kruskal-Wallis),Participation level,I consider myself to be a contributor to the WordPress open source project.,19,6,189.75,4.420267938570608e-39,***,Do not participate / Not applicable,Very active participation,2.96
+ordinal (Kruskal-Wallis),Uses AI at work,"Right now, how do you generally feel about AI in WordPress?",68,2,165.15,8.497019412461959e-38,***,Does not use AI,Uses AI,1.61
+ordinal (Kruskal-Wallis),Community membership,I consider myself to be a contributor to the WordPress open source project.,19,5,173.36,1.990844176855191e-36,***,Strongly disagree,Strongly agree,3.04
+categorical (chi-square),Contribution type,How would you describe your current level of community participation in the WordPress open,36,4,208.73,3.558882603892399e-36,***,,,
+ordinal (Kruskal-Wallis),Contributor identity,I consider myself to be a member of the WordPress community.,22,5,171.53,4.919913700330177e-36,***,Strongly disagree,Strongly agree,2.07
+categorical (chi-square),Event relationship,How would you describe your current level of community participation in the WordPress open,36,5,220.41,9.881921649088468e-36,***,,,
+ordinal (Kruskal-Wallis),Community membership,Attending in-person WordPress-related events is important to me.,50,5,159.92,1.5220053139862475e-33,***,Strongly disagree,Strongly agree,2.58
+ordinal (Kruskal-Wallis),Event relationship,I consider myself to be a member of the WordPress community.,22,5,158.72,2.756975055335288e-33,***,"Never attended, not interested","Attend, multiple times a year",1.64
+ordinal (Kruskal-Wallis),Community membership,WordPress events and meetups,34,5,154.31,2.4279646416067117e-32,***,Strongly disagree,Strongly agree,2.59
+ordinal (Kruskal-Wallis),Participation level,Attending in-person WordPress-related events is important to me.,50,6,157.18,3.958164322322812e-32,***,Do not participate / Not applicable,Very active participation,3.05
+ordinal (Kruskal-Wallis),Contribution type,I consider myself to be a member of the WordPress community.,22,4,147.6,8.676619153867911e-32,***,No contribution work,Community and code work,1.3
+ordinal (Kruskal-Wallis),Event relationship,I consider myself to be a contributor to the WordPress open source project.,19,5,150.37,1.6979735750146025e-31,***,"Never attended, not interested","Attend, multiple times a year",2.13
+ordinal (Kruskal-Wallis),Contributor identity,Contributing to WordPress,34,5,149.32,2.8499599397754264e-31,***,Strongly disagree,Strongly agree,1.89
+ordinal (Kruskal-Wallis),Participation level,WordPress events and meetups,34,6,140.45,1.4340097184095366e-28,***,Do not participate / Not applicable,Very active participation,2.72
+categorical (chi-square),Contributor identity,Which best describes your participation in official WordPress open source project events (,51,5,183.97,1.6161588768139787e-28,***,,,
+ordinal (Kruskal-Wallis),Event relationship,"Right now, how do you generally feel about AI in WordPress?",68,5,132.64,1.0601468233783717e-27,***,"Never attended, not interested","Attend, multiple times a year",1.65
+ordinal (Kruskal-Wallis),Contributor identity,WordPress events and meetups,34,5,129.23,5.693531116664906e-27,***,Strongly disagree,Strongly agree,2.0
+ordinal (Kruskal-Wallis),Community membership,Participation in the WordPress community,38,5,125.84,3.0132184287984296e-26,***,Strongly disagree,Strongly agree,1.65
+ordinal (Kruskal-Wallis),Contributor identity,Attending in-person WordPress-related events is important to me.,50,5,124.79,5.062467872681522e-26,***,Strongly disagree,Strongly agree,2.08
+ordinal (Kruskal-Wallis),Contribution type,Attending in-person WordPress-related events is important to me.,50,4,118.37,1.7337555327481606e-25,***,No contribution work,Community and code work,1.67
+ordinal (Kruskal-Wallis),Uses AI at work,Open source in AI,62,2,107.09,4.255368308047447e-25,***,Does not use AI,Uses AI,1.81
+ordinal (Kruskal-Wallis),Participation level,Contributing to WordPress,34,6,116.77,1.5172901850648508e-23,***,Do not participate / Not applicable,Very active participation,2.43
+ordinal (Kruskal-Wallis),Community membership,Contributing to WordPress,34,5,113.15,1.545474622823212e-23,***,Strongly disagree,Strongly agree,2.01
+ordinal (Kruskal-Wallis),Participation level,Participation in the WordPress community,38,6,116.46,1.7640982016058355e-23,***,Do not participate / Not applicable,Very active participation,1.9
+ordinal (Kruskal-Wallis),Event relationship,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,5,110.42,5.908735579731255e-23,***,"Never attended, not interested","Attend, multiple times a year",1.81
+ordinal (Kruskal-Wallis),Community membership,The WordPress community,34,5,109.53,9.161667696522604e-23,***,Strongly disagree,Strongly agree,1.82
+ordinal (Kruskal-Wallis),Participation level,The WordPress community,34,6,112.13,1.45548356525956e-22,***,Do not participate / Not applicable,Very active participation,2.01
+categorical (chi-square),Uses AI at work,"With regard to AI's current impact on your work or income, which of the following are true",71,2,104.47,1.6969038892378305e-22,***,,,
+ordinal (Kruskal-Wallis),Event relationship,"Right now, how do you generally feel about AI in the tech industry?",67,5,104.43,1.1216393436225822e-21,***,"Never attended, not interested","Attend, multiple times a year",1.74
+ordinal (Kruskal-Wallis),Event relationship,Participation in the WordPress community,38,5,102.91,2.3665940746113756e-21,***,"Never attended, not interested","Attend, multiple times a year",1.25
+ordinal (Kruskal-Wallis),Contribution type,WordPress events and meetups,34,4,97.77,4.681619256353553e-21,***,No contribution work,Community and code work,1.39
+categorical (chi-square),Event relationship,Are you currently using AI in your work?,65,5,100.56,7.484472063023792e-21,***,,,
+categorical (chi-square),Uses AI at work,Which best describes your participation in official WordPress open source project events (,51,2,102.22,1.796298806859284e-20,***,,,
+ordinal (Kruskal-Wallis),Event relationship,Networking opportunities,57,5,95.51,8.873046841664248e-20,***,"Never attended, not interested","Attend, multiple times a year",1.33
+categorical (chi-square),Volunteers outside WordPress and open source,Do you contribute to open source projects other than the WordPress open source project?,63,2,95.43,9.249916469940831e-20,***,,,
+ordinal (Kruskal-Wallis),Event relationship,Community development/engagement,57,5,95.02,1.130720741978218e-19,***,"Never attended, not interested","Attend, multiple times a year",1.19
+ordinal (Kruskal-Wallis),Contribution type,Contributing to WordPress,34,4,91.31,1.1460452831758133e-19,***,No contribution work,Community and code work,1.18
+categorical (chi-square),Uses AI at work,"With regard to AI's future impact on your work or income, which of the following are true ",73,2,91.18,1.2232035433231193e-19,***,,,
+ordinal (Kruskal-Wallis),Community membership,"Right now, how do you generally feel about AI in WordPress?",68,5,94.35,1.5639399724420818e-19,***,Strongly disagree,Strongly agree,1.65
+ordinal (Kruskal-Wallis),Uses AI at work,AI in WordPress,34,2,81.51,1.744253966016202e-19,***,Does not use AI,Uses AI,1.33
+ordinal (Kruskal-Wallis),Participation level,"Right now, how do you generally feel about AI in WordPress?",68,6,92.48,2.020523830237417e-18,***,Do not participate / Not applicable,Very active participation,1.79
+ordinal (Kruskal-Wallis),Contributor identity,Participation in the WordPress community,38,5,88.98,2.1650402768477943e-18,***,Strongly disagree,Strongly agree,1.2
+ordinal (Kruskal-Wallis),Uses AI at work,Attending in-person WordPress-related events is important to me.,50,2,76.33,2.3982408131425e-18,***,Does not use AI,Uses AI,1.33
+ordinal (Kruskal-Wallis),Event relationship,The WordPress community,34,5,88.31,3.0058178729748097e-18,***,"Never attended, not interested","Attend, multiple times a year",1.11
+categorical (chi-square),Contributes to open source elsewhere,"Do you contribute to or volunteer for organizations, projects or causes other than WordPre",64,2,85.91,9.739222931804564e-18,***,,,
+ordinal (Kruskal-Wallis),Event relationship,Contributing to WordPress,34,5,84.78,1.6888134487558842e-17,***,"Never attended, not interested","Attend, multiple times a year",1.24
+ordinal (Kruskal-Wallis),Participation change,"Right now, how do you feel overall about the WordPress open source project?",28,5,84.22,2.2174239915099242e-17,***,Significantly decreased,Significantly increased,1.61
+ordinal (Kruskal-Wallis),Contributor identity,The WordPress community,34,5,82.61,4.86868153717906e-17,***,Strongly disagree,Strongly agree,1.1
+ordinal (Kruskal-Wallis),Contribution type,Participation in the WordPress community,38,4,78.01,8.180252452556597e-17,***,No contribution work,Community and code work,0.82
+ordinal (Kruskal-Wallis),Event relationship,AI in WordPress,34,5,79.18,2.602031419653647e-16,***,"Never attended, not interested","Attend, multiple times a year",1.55
+ordinal (Kruskal-Wallis),Contributor identity,"Right now, how do you generally feel about AI in WordPress?",68,5,78.82,3.0903939622822354e-16,***,Strongly disagree,Strongly agree,1.38
+ordinal (Kruskal-Wallis),Contribution type,The WordPress community,34,4,73.66,7.013107238681265e-16,***,No contribution work,Community and code work,0.79
+ordinal (Kruskal-Wallis),Community membership,"Right now, how do you generally feel about AI in the tech industry?",67,5,76.23,1.0933808006198868e-15,***,Strongly disagree,Strongly agree,1.51
+ordinal (Kruskal-Wallis),Contribution type,"Right now, how do you generally feel about AI in WordPress?",68,4,70.94,2.6813201622174343e-15,***,No contribution work,Community and code work,1.01
+ordinal (Kruskal-Wallis),Event relationship,How do you feel about the future of the WordPress open source project?,31,5,73.98,3.2713245676487713e-15,***,Stopped attending,"Attend, multiple times a year",1.0
+ordinal (Kruskal-Wallis),Participation level,"Right now, how do you generally feel about AI in the tech industry?",67,6,76.61,4.289076981278205e-15,***,Do not participate / Not applicable,Moderately active participation,1.76
+ordinal (Kruskal-Wallis),Community membership,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,5,71.43,1.1322889767514171e-14,***,Strongly disagree,Strongly agree,1.74
+ordinal (Kruskal-Wallis),Participation level,AI in WordPress,34,6,73.8,1.653495973700598e-14,***,Do not participate / Not applicable,Very active participation,1.93
+ordinal (Kruskal-Wallis),Community membership,AI in WordPress,34,5,70.4,1.8674442538884623e-14,***,Strongly disagree,Strongly agree,1.86
+ordinal (Kruskal-Wallis),Income depends on WordPress,I consider myself to be a member of the WordPress community.,22,3,62.73,2.3903036215894768e-14,***,No,Yes,0.89
+ordinal (Kruskal-Wallis),Community membership,Community development/engagement,57,5,68.73,4.200070546342608e-14,***,Strongly disagree,Strongly agree,1.21
+ordinal (Kruskal-Wallis),Participation level,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,6,71.73,4.470505510522976e-14,***,Do not participate / Not applicable,Very active participation,1.8
+ordinal (Kruskal-Wallis),Participation change,How do you feel about the future of the WordPress open source project?,31,5,67.92,6.239017813249903e-14,***,Significantly decreased,Significantly increased,1.6
+categorical (chi-square),Income depends on WordPress,How would you describe your current level of community participation in the WordPress open,36,3,82.95,1.3201004096629713e-13,***,,,
+ordinal (Kruskal-Wallis),Uses AI at work,WordPress events and meetups,34,2,54.53,1.534075755979123e-13,***,Does not use AI,Uses AI,1.04
+ordinal (Kruskal-Wallis),Participation level,Community development/engagement,57,6,68.39,2.2159377360319638e-13,***,Do not participate / Not applicable,Very active participation,1.5
+ordinal (Kruskal-Wallis),Contributor identity,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,5,60.98,1.8095788045098074e-12,***,Strongly disagree,Strongly agree,1.35
+ordinal (Kruskal-Wallis),Event relationship,Open source in AI,62,5,60.23,2.599266788230676e-12,***,"Never attended, not interested","Attend, multiple times a year",1.54
+ordinal (Kruskal-Wallis),Contributor identity,"Right now, how do you generally feel about AI in the tech industry?",67,5,59.57,3.5675948609628174e-12,***,Strongly disagree,Strongly agree,1.35
+ordinal (Kruskal-Wallis),Contribution type,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,4,55.68,4.912013256454279e-12,***,No contribution work,Community and code work,1.11
+ordinal (Kruskal-Wallis),Uses AI at work,I consider myself to be a member of the WordPress community.,22,2,46.72,8.208730347028863e-12,***,Does not use AI,Uses AI,0.76
+ordinal (Kruskal-Wallis),Contributor identity,Community development/engagement,57,5,56.3,1.7336605535662664e-11,***,Strongly disagree,Strongly agree,0.98
+categorical (chi-square),Participation level,Are you currently using AI in your work?,65,6,58.58,2.3871700218314845e-11,***,,,
+categorical (chi-square),Uses AI at work,How would you describe your current level of community participation in the WordPress open,36,2,58.58,2.3871700218314926e-11,***,,,
+ordinal (Kruskal-Wallis),Income depends on WordPress,I consider myself to be a contributor to the WordPress open source project.,19,3,48.67,2.6998550471790292e-11,***,No,Yes,1.02
+categorical (chi-square),Participation change,Has your sentiment toward the WordPress open source project changed over the past 24 month,29,5,52.94,8.753278230152046e-11,***,,,
+ordinal (Kruskal-Wallis),Participation level,Open source in AI,62,6,55.8,8.945881425611736e-11,***,Do not participate / Not applicable,Very active participation,1.79
+ordinal (Kruskal-Wallis),Contribution type,Community development/engagement,57,4,49.68,9.363090919698012e-11,***,No contribution work,Community and code work,0.75
+categorical (chi-square),Contributor identity,Has your level of community participation in the WordPress open source project changed in ,37,5,81.33,9.556444297196062e-11,***,,,
+ordinal (Kruskal-Wallis),Uses AI at work,Networking opportunities,57,2,40.78,1.7031012652656267e-10,***,Does not use AI,Uses AI,0.78
+ordinal (Kruskal-Wallis),Uses AI at work,I consider myself to be a contributor to the WordPress open source project.,19,2,40.69,1.7832666591521892e-10,***,Does not use AI,Uses AI,0.93
+ordinal (Kruskal-Wallis),Uses AI at work,Enterprise/scale issues,34,2,39.76,2.8769190878243035e-10,***,Does not use AI,Uses AI,0.8
+categorical (chi-square),Contribution type,Are you currently using AI in your work?,65,4,47.12,3.27090379894567e-10,***,,,
+categorical (chi-square),Uses AI at work,"Which best describes your participation in unofficial, WordPress-adjacent in-person events",53,2,52.91,3.5074371589944334e-10,***,,,
+ordinal (Kruskal-Wallis),Uses AI at work,How do you feel about the future of the WordPress open source project?,31,2,38.78,4.748574783615438e-10,***,Does not use AI,Uses AI,0.69
+ordinal (Kruskal-Wallis),Community membership,How do you feel about the future of the WordPress open source project?,31,5,49.37,4.886482950842827e-10,***,Strongly disagree,Strongly agree,1.34
+categorical (chi-square),Income depends on WordPress,Are you or have you ever been paid for any of your time spent participating in the WordPre,15,3,49.05,5.712950765517467e-10,***,,,
+ordinal (Kruskal-Wallis),Tenure (combined),I consider myself to be a member of the WordPress community.,22,5,49.02,5.77542773016558e-10,***,1-2 years,15+ years,1.56
+ordinal (Kruskal-Wallis),Contribution type,"Right now, how do you generally feel about AI in the tech industry?",67,4,45.63,6.809938685545571e-10,***,No contribution work,Community and code work,0.94
+ordinal (Kruskal-Wallis),Participation level,How do you feel about the future of the WordPress open source project?,31,6,51.47,6.917502336393461e-10,***,Inactive,Very active participation,1.23
+categorical (chi-square),Community membership,Are you currently using AI in your work?,65,5,48.4,7.806922770124736e-10,***,,,
+ordinal (Kruskal-Wallis),Participation change,I consider myself to be a contributor to the WordPress open source project.,19,5,46.73,1.7323161178502514e-09,***,No change / About the same,Significantly increased,1.68
+categorical (chi-square),Contributor identity,Are you currently using AI in your work?,65,5,46.66,1.793460978604725e-09,***,,,
+ordinal (Kruskal-Wallis),Contributor identity,AI in WordPress,34,5,45.86,2.6314541943804453e-09,***,Strongly disagree,Strongly agree,1.31
+ordinal (Kruskal-Wallis),Community membership,Open source in AI,62,5,44.64,4.723495488673115e-09,***,Strongly disagree,Strongly agree,1.43
+categorical (chi-square),Community membership,"With regard to AI's current impact on your work or income, which of the following are true",71,5,63.43,5.314177949621968e-09,***,,,
+ordinal (Kruskal-Wallis),Contribution type,Networking opportunities,57,4,41.22,5.862862613958816e-09,***,No contribution work,Community and code work,0.72
+ordinal (Kruskal-Wallis),Income depends on WordPress,Attending in-person WordPress-related events is important to me.,50,3,37.44,7.405280075317759e-09,***,No,Yes,0.91
+ordinal (Kruskal-Wallis),Community membership,Networking opportunities,57,5,43.49,8.204033087527358e-09,***,Strongly disagree,Strongly agree,1.13
+ordinal (Kruskal-Wallis),Pay status,I consider myself to be a contributor to the WordPress open source project.,19,3,36.13,1.4238059877935534e-08,***,Unpaid,Paid directly,0.85
+categorical (chi-square),Income depends on WordPress,Which best describes your participation in official WordPress open source project events (,51,3,56.06,1.9989720646011243e-08,***,,,
+ordinal (Kruskal-Wallis),Contributor identity,How do you feel about the future of the WordPress open source project?,31,5,40.83,2.9154524028242063e-08,***,Strongly disagree,Strongly agree,0.86
+ordinal (Kruskal-Wallis),Income depends on WordPress,WordPress events and meetups,34,3,34.61,3.054856582034593e-08,***,No,Yes,0.77
+ordinal (Kruskal-Wallis),Event relationship,"Right now, how do you feel overall about the WordPress open source project?",28,5,40.59,3.266559181109434e-08,***,Stopped attending,"Attend, multiple times a year",0.88
+categorical (chi-square),Income depends on WordPress,Are you currently using AI in your work?,65,3,33.8,4.567289948894817e-08,***,,,
+categorical (chi-square),Participation change,Problems with project leadership or governance,46,5,58.21,4.781230132761186e-08,***,,,
+ordinal (Kruskal-Wallis),Uses AI at work,Participation in the WordPress community,38,2,29.68,5.084533853968276e-08,***,Does not use AI,Uses AI,0.52
+categorical (chi-square),Contribution type,Has your level of community participation in the WordPress open source project changed in ,37,4,57.78,5.7176298768451e-08,***,,,
+ordinal (Kruskal-Wallis),Contribution type,AI in WordPress,34,4,35.79,8.287426846533929e-08,***,No contribution work,Community and code work,0.91
+ordinal (Kruskal-Wallis),Community membership,"Right now, how do you feel overall about the WordPress open source project?",28,5,38.21,1.0127180829208716e-07,***,Strongly disagree,Strongly agree,1.19
+ordinal (Kruskal-Wallis),Participation change,I consider myself to be a member of the WordPress community.,22,5,38.1,1.066494116225811e-07,***,No change / About the same,Significantly increased,1.22
+categorical (chi-square),Event relationship,"With regard to AI's current impact on your work or income, which of the following are true",71,5,55.94,1.2250521049665085e-07,***,,,
+ordinal (Kruskal-Wallis),Gender,Feeling welcome/included,38,4,34.47,1.5767201006434872e-07,***,Prefer not to answer,Female,1.21
+ordinal (Kruskal-Wallis),Participation level,"Right now, how do you feel overall about the WordPress open source project?",28,6,39.6,1.8001401370634944e-07,***,Inactive,Very active participation,1.29
+ordinal (Kruskal-Wallis),Income depends on WordPress,"Right now, how do you generally feel about AI in WordPress?",68,3,30.77,2.0811246728080294e-07,***,No,Yes,0.72
+ordinal (Kruskal-Wallis),Income depends on WordPress,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,3,30.69,2.16125767921761e-07,***,No,Yes,0.84
+ordinal (Kruskal-Wallis),Uses AI at work,The WordPress community,34,2,26.76,2.307389348892428e-07,***,Does not use AI,Uses AI,0.42
+categorical (chi-square),Contributor identity,Are you or have you ever been paid for any of your time spent participating in the WordPre,15,5,45.74,2.657864492557632e-07,***,,,
+categorical (chi-square),Event relationship,"With regard to AI's future impact on your work or income, which of the following are true ",73,5,53.74,3.046046593223651e-07,***,,,
+ordinal (Kruskal-Wallis),Contributor identity,Networking opportunities,57,5,35.2,4.2328519130517517e-07,***,Disagree,Strongly agree,0.87
+ordinal (Kruskal-Wallis),Uses AI at work,Community development/engagement,57,2,25.35,4.784721575775693e-07,***,Does not use AI,Uses AI,0.55
+ordinal (Kruskal-Wallis),Contributor identity,Open source in AI,62,5,34.83,5.037956800860915e-07,***,Disagree,Strongly agree,1.3
+ordinal (Kruskal-Wallis),Income depends on WordPress,The WordPress community,34,3,29.0,5.052611342586655e-07,***,No,Yes,0.53
+ordinal (Kruskal-Wallis),Participation level,Networking opportunities,57,6,36.76,6.688146176125067e-07,***,Do not participate / Not applicable,Very active participation,1.05
+categorical (chi-square),Experienced hostility personally,Has your level of community participation in the WordPress open source project changed in ,37,2,34.0,7.461488442953267e-07,***,,,
+ordinal (Kruskal-Wallis),Participation change,Attending in-person WordPress-related events is important to me.,50,5,33.04,1.1745844428630053e-06,***,No change / About the same,Significantly increased,1.47
+categorical (chi-square),Experienced hostility personally,Other (please describe),9,2,29.97,1.4015338792510854e-06,***,,,
+ordinal (Kruskal-Wallis),Uses AI at work,Meeting professional development requirements,57,2,23.15,1.4961717366630372e-06,***,Does not use AI,Uses AI,0.59
+ordinal (Kruskal-Wallis),Income depends on WordPress,Networking opportunities,57,3,26.77,1.5367228689097333e-06,***,No,Yes,0.62
+ordinal (Kruskal-Wallis),Event relationship,Impact of my participation on my professional or personal life,38,5,32.05,1.867177463011699e-06,***,"Never attended, not interested","Attend, multiple times a year",0.67
+categorical (chi-square),Participation change,Dismissive or condescending responses to contributions or questions,46,5,49.26,1.8801346169673173e-06,***,,,
+categorical (chi-square),Contribution type,"With regard to AI's current impact on your work or income, which of the following are true",71,4,43.27,1.92567738531449e-06,***,,,
+ordinal (Kruskal-Wallis),Gender,"Right now, how do you generally feel about AI in the tech industry?",67,4,29.09,2.142663522715243e-06,***,Non-binary,Male,1.22
+ordinal (Kruskal-Wallis),Location,Participating in a language other than English,38,2,22.28,2.35503051299753e-06,***,US,Non-US,0.61
+ordinal (Kruskal-Wallis),Community membership,WordPress open source software,34,5,30.93,3.160876114996433e-06,***,Strongly disagree,Strongly agree,0.91
+ordinal (Kruskal-Wallis),Gender,WordPress events and meetups,34,4,28.11,3.438534148753216e-06,***,Prefer not to answer,Female,1.5
+ordinal (Kruskal-Wallis),Income depends on WordPress,"Right now, how do you generally feel about AI in the tech industry?",67,3,25.08,3.58356765095519e-06,***,No,Yes,0.74
+ordinal (Kruskal-Wallis),Participation change,Networking opportunities,57,5,30.5,3.880026421807692e-06,***,No change / About the same,Significantly increased,1.19
+ordinal (Kruskal-Wallis),Contribution type,Open source in AI,62,4,27.58,4.450045925204094e-06,***,No contribution work,Community and code work,0.81
+ordinal (Kruskal-Wallis),Gender,Participation in the WordPress community,38,4,27.26,5.1902207038029755e-06,***,Prefer not to answer,Female,1.08
+ordinal (Kruskal-Wallis),Uses AI at work,"Right now, how do you feel overall about the WordPress open source project?",28,2,20.75,5.227815998361601e-06,***,Does not use AI,Uses AI,0.53
+ordinal (Kruskal-Wallis),Event relationship,Enterprise/scale issues,34,5,29.55,6.0299744484315865e-06,***,"Never attended, not interested","Attend, annually or occasionally",0.71
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,"Right now, how do you generally feel about AI in WordPress?",68,2,20.46,6.073720122781653e-06,***,Yes,No,0.51
+ordinal (Kruskal-Wallis),Gender,Attending in-person WordPress-related events is important to me.,50,4,26.42,7.790589349152725e-06,***,Prefer not to answer,Female,1.47
+ordinal (Kruskal-Wallis),Tenure (combined),I consider myself to be a contributor to the WordPress open source project.,19,5,28.94,8.03903616470911e-06,***,1-2 years,15+ years,1.49
+categorical (chi-square),Community membership,"With regard to AI's future impact on your work or income, which of the following are true ",73,5,45.28,9.240626678039463e-06,***,,,
+ordinal (Kruskal-Wallis),Participation change,AI in WordPress,34,5,28.3,1.0846332343034544e-05,***,Significantly decreased,Significantly increased,2.06
+ordinal (Kruskal-Wallis),Contribution type,How do you feel about the future of the WordPress open source project?,31,4,24.88,1.6388851237303447e-05,***,No contribution work,Community and code work,0.56
+ordinal (Kruskal-Wallis),Gender,"Right now, how do you generally feel about AI in WordPress?",68,4,24.49,1.9749721526322386e-05,***,Prefer not to answer,Female,0.94
+categorical (chi-square),Event relationship,Dismissive or condescending responses to contributions or questions,46,5,43.18,2.1075787493063703e-05,***,,,
+categorical (chi-square),Contributor identity,"With regard to AI's current impact on your work or income, which of the following are true",71,5,43.0,2.2615878012076424e-05,***,,,
+ordinal (Kruskal-Wallis),Participation change,"Right now, how do you generally feel about AI in WordPress?",68,5,26.51,2.5015360956343943e-05,***,Significantly decreased,Significantly increased,1.24
+ordinal (Kruskal-Wallis),Gender,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,4,23.98,2.5188745625729748e-05,***,Prefer not to answer,Male,1.06
+ordinal (Kruskal-Wallis),Uses AI at work,"Business issues (mergers & acquisitions, product ecosystem, private equity investment, etc",34,2,17.56,2.7833133342793224e-05,***,Does not use AI,Uses AI,0.54
+categorical (chi-square),Participation level,Are you or have you ever been paid for any of your time spent participating in the WordPre,15,6,38.61,2.975478782801435e-05,***,,,
+categorical (chi-square),Pay status,How would you describe your current level of community participation in the WordPress open,36,3,38.61,2.9754787828014455e-05,***,,,
+ordinal (Kruskal-Wallis),Pay status,I consider myself to be a member of the WordPress community.,22,3,20.82,3.0150261860384153e-05,***,Unpaid,Paid indirectly,0.46
+ordinal (Kruskal-Wallis),Uses AI at work,Financial incentives/restraints,38,2,17.23,3.313447277439598e-05,***,Does not use AI,Uses AI,0.5
+ordinal (Kruskal-Wallis),Community membership,Participating in a language other than English,38,5,25.83,3.427301275218392e-05,***,Disagree,Strongly agree,1.15
+ordinal (Kruskal-Wallis),Participation change,Participation in the WordPress community,38,5,25.77,3.521509460936243e-05,***,No change / About the same,Significantly increased,1.0
+ordinal (Kruskal-Wallis),Income depends on WordPress,Community development/engagement,57,3,20.5,3.534474593051646e-05,***,No,Yes,0.47
+ordinal (Kruskal-Wallis),Experienced hostility personally,I consider myself to be a contributor to the WordPress open source project.,19,2,16.96,3.8153416337091354e-05,***,Did not experience,Experienced,0.54
+ordinal (Kruskal-Wallis),Work role,Networking opportunities,57,6,27.89,3.825853946823799e-05,***,Other/Non-working,Owner/Exec,1.38
+categorical (chi-square),Contribution type,Are you or have you ever been paid for any of your time spent participating in the WordPre,15,4,29.82,4.2478699328490125e-05,***,,,
+ordinal (Kruskal-Wallis),Contributor identity,WordPress open source software,34,5,25.26,4.45353728108588e-05,***,Strongly disagree,Strongly agree,0.46
+categorical (chi-square),Income depends on WordPress,"With regard to AI's future impact on your work or income, which of the following are true ",73,3,29.59,4.7033412149971766e-05,***,,,
+ordinal (Kruskal-Wallis),Experienced hostility personally,Feeling welcome/included,38,2,16.39,5.145951800534245e-05,***,Did not experience,Experienced,0.4
+ordinal (Kruskal-Wallis),Participation change,WordPress events and meetups,34,5,24.85,5.388118357622781e-05,***,No change / About the same,Significantly increased,1.14
+ordinal (Kruskal-Wallis),Event relationship,Particular speakers / keynotes,57,5,24.74,5.6619752938943386e-05,***,"Never attended, not interested","Never attended, would like to",0.65
+ordinal (Kruskal-Wallis),Experienced hostility personally,I consider myself to be a member of the WordPress community.,22,2,16.18,5.761596915286749e-05,***,Did not experience,Experienced,0.42
+categorical (chi-square),Community membership,Are you or have you ever been paid for any of your time spent participating in the WordPre,15,5,33.06,6.015783852635482e-05,***,,,
+ordinal (Kruskal-Wallis),Participation change,Open source in AI,62,5,24.53,6.26247898961108e-05,***,No change / About the same,Significantly increased,1.57
+ordinal (Kruskal-Wallis),Gender,Community development/engagement,57,4,22.07,6.317792835350526e-05,***,Prefer not to answer,Female,0.97
+ordinal (Kruskal-Wallis),Participation change,Project governance/policies,38,5,24.5,6.338556172598513e-05,***,Increased,Decreased,0.51
+ordinal (Kruskal-Wallis),Participation change,Community development/engagement,57,5,24.41,6.623396625151954e-05,***,No change / About the same,Significantly increased,1.09
+ordinal (Kruskal-Wallis),Work role,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,6,26.66,6.6320809797349e-05,***,Other/Non-working,Owner/Exec,1.31
+ordinal (Kruskal-Wallis),Contributor identity,Impact of my contributions to the project,38,5,24.33,6.874255026067513e-05,***,Strongly disagree,Strongly agree,0.66
+categorical (chi-square),Contributes to open source elsewhere,Have you attended any other open source or tech-related in-person conferences or events in,55,2,15.75,7.243752635838836e-05,***,,,
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,AI in WordPress,34,2,15.73,7.317653156363704e-05,***,Yes,No,0.56
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,How do you feel about the future of the WordPress open source project?,31,2,15.72,7.345357933899174e-05,***,Yes,No,0.37
+ordinal (Kruskal-Wallis),Income depends on WordPress,AI in WordPress,34,3,18.8,8.260525057796887e-05,***,No,Yes,0.64
+ordinal (Kruskal-Wallis),Gender,Networking opportunities,57,4,21.43,8.573476264543506e-05,***,Prefer not to answer,Female,0.99
+categorical (chi-square),Age,Do you contribute to open source projects other than the WordPress open source project?,63,5,46.31,8.704769508810946e-05,***,,,
+ordinal (Kruskal-Wallis),Experienced hostility personally,"Right now, how do you feel overall about the WordPress open source project?",28,2,15.38,8.804271129824991e-05,***,Experienced,Did not experience,0.42
+categorical (chi-square),Contributor identity,"With regard to AI's future impact on your work or income, which of the following are true ",73,5,39.39,9.085288608303296e-05,***,,,
+categorical (chi-square),Uses AI at work,Do you contribute to open source projects other than the WordPress open source project?,63,2,23.72,9.096752552897983e-05,***,,,
+ordinal (Kruskal-Wallis),Contributor identity,Open source values,34,5,23.64,9.450680960521754e-05,***,Neutral,Strongly agree,0.51
+ordinal (Kruskal-Wallis),Community membership,Impact of my contributions to the project,38,5,23.6,9.594058351218615e-05,***,Strongly disagree,Strongly agree,1.01
+ordinal (Kruskal-Wallis),Uses AI at work,Contributing to WordPress,34,2,15.19,9.730152006433823e-05,***,Does not use AI,Uses AI,0.46
+categorical (chi-square),Volunteers outside WordPress and open source,Have you attended any other open source or tech-related in-person conferences or events in,55,2,15.18,9.763627953061869e-05,***,,,
+categorical (chi-square),Participation change,Are you currently using AI in your work?,65,5,23.53,9.924771744059824e-05,***,,,
+categorical (chi-square),Uses AI at work,Has your level of community participation in the WordPress open source project changed in ,37,2,23.53,9.924771744059824e-05,***,,,
+ordinal (Kruskal-Wallis),Participation change,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,5,23.38,0.00010614810357678386,***,No change / About the same,Significantly increased,1.5
+ordinal (Kruskal-Wallis),Gender,Mentorship or guidance,38,4,20.73,0.00011966094294905802,***,Prefer not to answer,Female,0.86
+categorical (chi-square),Experienced hostility personally,Has your sentiment toward the WordPress open source project changed over the past 24 month,29,2,14.75,0.0001229939066425312,***,,,
+ordinal (Kruskal-Wallis),Uses AI at work,Open source values (whatever that means to you)required,62,2,14.65,0.00012960797843668986,***,Uses AI,Does not use AI,0.32
+ordinal (Kruskal-Wallis),Uses AI at work,Events with larger attendance,57,2,14.63,0.00013062097223543194,***,Does not use AI,Uses AI,0.4
+ordinal (Kruskal-Wallis),Gender,Contributing to WordPress,34,4,20.42,0.00013913737488118112,***,Prefer not to answer,Male,0.89
+categorical (chi-square),Location,Which best describes your participation in official WordPress open source project events (,51,2,24.98,0.0001406781436430262,***,,,
+ordinal (Kruskal-Wallis),Event relationship,Events with larger attendance,57,5,22.75,0.00014214871941793105,***,"Never attended, not interested","Attend, annually or occasionally",0.55
+categorical (chi-square),Income depends on WordPress,Problems with project leadership or governance,46,3,27.03,0.00014285881133228152,***,,,
+categorical (chi-square),Income depends on WordPress,Hostility or rudeness,46,3,27.01,0.00014441670429726327,***,,,
+ordinal (Kruskal-Wallis),Gender,A regional/destination location,57,4,20.33,0.00014482551556493795,***,Prefer not to answer,Female,1.0
+ordinal (Kruskal-Wallis),Event relationship,A regional/destination location,57,5,22.61,0.00015115369746926838,***,"Never attended, not interested","Never attended, would like to",0.87
+categorical (chi-square),Participation level,"With regard to AI's current impact on your work or income, which of the following are true",71,6,43.04,0.00015498881756885875,***,,,
+ordinal (Kruskal-Wallis),Income depends on WordPress,Participation in the WordPress community,38,3,17.4,0.00016687827839325707,***,No,Yes,0.39
+ordinal (Kruskal-Wallis),Participation level,Impact of my contributions to the project,38,6,24.56,0.00016913663685165744,***,Observational only,Very active participation,0.8
+ordinal (Kruskal-Wallis),Participation change,Contributing to WordPress,34,5,22.18,0.00018480095810168744,***,No change / About the same,Significantly increased,1.17
+ordinal (Kruskal-Wallis),Tenure (combined),WordPress events and meetups,34,5,22.15,0.0001868554405238172,***,1-2 years,15+ years,1.56
+ordinal (Kruskal-Wallis),Work role,"Right now, how do you generally feel about AI in the tech industry?",67,6,24.09,0.00020886182229572093,***,Other/Non-working,Owner/Exec,1.18
+categorical (chi-square),Contributes to open source elsewhere,What is your gender?,2,2,21.86,0.0002139228512322764,***,,,
+ordinal (Kruskal-Wallis),Contributor identity,Cost of ticket,57,5,21.84,0.00021573573617620482,***,Strongly agree,Disagree,0.69
+ordinal (Kruskal-Wallis),Community membership,Enterprise/scale issues,34,5,21.82,0.00021799504631038762,***,Strongly disagree,Strongly agree,1.06
+ordinal (Kruskal-Wallis),Uses AI at work,Open source software,62,2,13.56,0.00023061970376309288,***,Uses AI,Does not use AI,0.27
+ordinal (Kruskal-Wallis),Event relationship,Meeting professional development requirements,57,5,21.65,0.00023490818779679974,***,"Never attended, not interested","Attend, annually or occasionally",0.7
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,"Right now, how do you feel overall about the WordPress open source project?",28,2,13.52,0.00023576220270945392,***,Yes,No,0.39
+ordinal (Kruskal-Wallis),Uses AI at work,The sustainability of open source projects,62,2,13.5,0.0002383745380223474,***,Uses AI,Does not use AI,0.26
+ordinal (Kruskal-Wallis),Experienced hostility personally,How do you feel about the future of the WordPress open source project?,31,2,13.44,0.0002462434360781381,***,Experienced,Did not experience,0.38
+ordinal (Kruskal-Wallis),Contribution type,Feeling welcome/included,38,4,19.21,0.0002474668820931205,***,Code / project work only,Community work only,0.54
+ordinal (Kruskal-Wallis),Event relationship,Cost of ticket,57,5,21.52,0.00025019477043242643,***,"Attend, multiple times a year","Never attended, would like to",0.85
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,Open source values (whatever that means to you)required,62,2,13.27,0.0002692416737582238,***,No,Yes,0.28
+categorical (chi-square),Pay status,Has your level of community participation in the WordPress open source project changed in ,37,3,29.31,0.00027994675368274067,***,,,
+categorical (chi-square),Participation change,Are you or have you ever been paid for any of your time spent participating in the WordPre,15,5,29.31,0.0002799467536827408,***,,,
+ordinal (Kruskal-Wallis),Gender,How do you feel about the future of the WordPress open source project?,31,4,18.87,0.0002911755945602732,***,Prefer not to answer,Non-binary,1.09
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,"Right now, how do you generally feel about AI in the tech industry?",67,2,13.11,0.0002932840631354281,***,Yes,No,0.48
+categorical (chi-square),Location,Language or content that made me or others feel unwelcome or excluded,46,2,18.79,0.00030216707488080777,***,,,
+ordinal (Kruskal-Wallis),Contribution type,Cost of ticket,57,4,18.79,0.000302632213081539,***,Code / project work only,No contribution work,0.6
+ordinal (Kruskal-Wallis),Income depends on WordPress,Impact of my participation on my professional or personal life,38,3,16.19,0.0003055790695698812,***,Partially,Yes,0.4
+ordinal (Kruskal-Wallis),Contribution type,Events with smaller attendance,57,4,18.74,0.0003099450527006332,***,Community and code work,No contribution work,0.49
+ordinal (Kruskal-Wallis),Gender,I consider myself to be a member of the WordPress community.,22,4,18.66,0.0003217626910444748,***,Prefer not to answer,Female,1.04
+ordinal (Kruskal-Wallis),Event relationship,Financial incentives/restraints,38,5,20.91,0.00032945436198118154,***,"Never attended, not interested",Stopped attending,0.61
+ordinal (Kruskal-Wallis),Gender,I consider myself to be a contributor to the WordPress open source project.,19,4,18.51,0.00034529552129780735,***,Prefer not to answer,Male,1.02
+categorical (chi-square),Gender,Are you currently using AI in your work?,65,4,18.37,0.0003692705944465376,***,,,
+ordinal (Kruskal-Wallis),Participation change,Understanding how to participate,38,5,20.58,0.0003839043963020399,***,Significantly decreased,Significantly increased,1.09
+ordinal (Kruskal-Wallis),Participation change,Impact of my contributions to the project,38,5,20.46,0.0004048391159536239,***,Decreased,Significantly increased,1.19
+ordinal (Kruskal-Wallis),Event relationship,Topics of sessions / panels,57,5,20.2,0.0004562992492247442,***,"Attend, multiple times a year",Stopped attending,0.54
+ordinal (Kruskal-Wallis),Gender,The WordPress community,34,4,17.92,0.0004579396871242089,***,Prefer not to answer,Non-binary,0.98
+categorical (chi-square),Contributes to open source elsewhere,What is your age?,1,2,22.26,0.0004666514657256251,***,,,
+categorical (chi-square),Income depends on WordPress,Conflict or ongoing interpersonal tension between community members,46,3,24.19,0.00048137724014338934,***,,,
+ordinal (Kruskal-Wallis),Event relationship,WordPress leadership,34,5,20.05,0.000487491121109763,***,"Never attended, not interested","Never attended, would like to",0.72
+categorical (chi-square),Income depends on WordPress,"With regard to AI's current impact on your work or income, which of the following are true",71,3,24.15,0.0004894175231722499,***,,,
+categorical (chi-square),Experienced hostility personally,How would you describe your current level of community participation in the WordPress open,36,2,22.12,0.0004961960994649584,***,,,
+ordinal (Kruskal-Wallis),Participation change,"Right now, how do you generally feel about AI in the tech industry?",67,5,19.94,0.0005132428731673942,***,No change / About the same,Significantly increased,1.29
+categorical (chi-square),Pay status,Are you currently using AI in your work?,65,3,14.99,0.0005563610338821505,***,,,
+categorical (chi-square),Uses AI at work,Are you or have you ever been paid for any of your time spent participating in the WordPre,15,2,14.99,0.0005563610338821505,***,,,
+categorical (chi-square),Event relationship,How has your sentiment toward the WordPress open source project changed over the past 24 m,30,5,19.6,0.0005979774096343085,***,,,
+ordinal (Kruskal-Wallis),Income depends on WordPress,Financial incentives/restraints,38,3,14.76,0.0006224074643147776,***,No,Yes,0.49
+ordinal (Kruskal-Wallis),Uses AI at work,Impact of my participation on my professional or personal life,38,2,11.7,0.0006252536893524086,***,Does not use AI,Uses AI,0.34
+ordinal (Kruskal-Wallis),Participation level,WordPress open source software,34,6,21.52,0.000647083592690638,***,Do not participate / Not applicable,Very active participation,0.79
+ordinal (Kruskal-Wallis),Contributor identity,Topics of sessions / panels,57,5,19.39,0.0006584233089007604,***,Strongly agree,Disagree,0.54
+ordinal (Kruskal-Wallis),Income depends on WordPress,Contributing to WordPress,34,3,14.61,0.0006738341941445496,***,No,Yes,0.45
+ordinal (Kruskal-Wallis),Experienced hostility personally,Impact of my contributions to the project,38,2,11.56,0.0006755104730254271,***,Did not experience,Experienced,0.29
+ordinal (Kruskal-Wallis),Tenure (combined),Attending in-person WordPress-related events is important to me.,50,5,19.19,0.0007204729295652651,***,1-2 years,6-10 years,1.61
+categorical (chi-square),Contribution type,"With regard to AI's future impact on your work or income, which of the following are true ",73,4,28.53,0.0007781716438994441,***,,,
+ordinal (Kruskal-Wallis),Location,Meeting professional development requirements,57,2,11.23,0.0008055513508833887,***,US,Non-US,0.37
+ordinal (Kruskal-Wallis),Contributor identity,"Right now, how do you feel overall about the WordPress open source project?",28,5,18.88,0.0008301835872974574,***,Strongly disagree,Strongly agree,0.69
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,Open source values (whatever that means to you)required,62,2,11.05,0.0008858392024829328,***,No,Yes,0.24
+categorical (chi-square),Location,Hostility or rudeness,46,2,16.48,0.0009059544889088411,***,,,
+categorical (chi-square),Income depends on WordPress,Has your level of community participation in the WordPress open source project changed in ,37,3,26.27,0.000942328001615477,***,,,
+ordinal (Kruskal-Wallis),Uses AI at work,Cost of ticket,57,2,10.93,0.0009447922786241636,***,Uses AI,Does not use AI,0.39
+categorical (chi-square),Event relationship,Are you or have you ever been paid for any of your time spent participating in the WordPre,15,5,26.26,0.000946236823801714,***,,,
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,2,10.84,0.000992432635090108,***,Yes,No,0.45
+ordinal (Kruskal-Wallis),Community membership,"Business issues (mergers & acquisitions, product ecosystem, private equity investment, etc",34,5,18.48,0.0009933922865689464,***,Strongly disagree,Strongly agree,1.29
+ordinal (Kruskal-Wallis),Pay status,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,3,13.8,0.0010082523897670694,**,Unpaid,Paid directly,0.59
+ordinal (Kruskal-Wallis),Contribution type,Impact of my participation on my professional or personal life,38,4,16.2,0.001030086039374598,**,No contribution work,Community work only,0.42
+ordinal (Kruskal-Wallis),Event relationship,Feeling welcome/included,38,5,18.37,0.001042495060331833,**,"Never attended, not interested","Attend, multiple times a year",0.53
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,AI in WordPress,34,2,10.6,0.0011321514692240527,**,Yes,No,0.45
+ordinal (Kruskal-Wallis),Community membership,Feeling welcome/included,38,5,18.19,0.0011347561075188853,**,Disagree,Strongly agree,0.54
+ordinal (Kruskal-Wallis),Work role,"Cost of attendance (travel, housing, etc.)",57,6,20.2,0.0011469822946523303,**,Other/Non-working,Employee+Freelance,0.85
+ordinal (Kruskal-Wallis),Community membership,Events with larger attendance,57,5,18.14,0.0011564868857039826,**,Strongly disagree,Strongly agree,0.66
+ordinal (Kruskal-Wallis),Participation level,Cost of ticket,57,6,20.16,0.001163879766516025,**,Very active participation,Observational only,0.67
+categorical (chi-square),Income depends on WordPress,Name-calling or personal attacks,46,3,22.09,0.001164480854817356,**,,,
+ordinal (Kruskal-Wallis),Location,A regional/destination location,57,2,10.48,0.001205719958992209,**,US,Non-US,0.37
+ordinal (Kruskal-Wallis),Participation change,Project leadership,38,5,17.95,0.0012648767024846354,**,No change / About the same,Decreased,0.47
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,WordPress events and meetups,34,2,10.34,0.0013001593160838687,**,Yes,No,0.43
+categorical (chi-square),Volunteers outside WordPress and open source,Are you currently using AI in your work?,65,2,10.34,0.0013006478894093806,**,,,
+ordinal (Kruskal-Wallis),Gender,Understanding how to participate,38,4,15.68,0.0013159037788966755,**,Prefer not to answer,Female,0.82
+ordinal (Kruskal-Wallis),Work role,Financial incentives/restraints,38,6,19.77,0.001382335409366711,**,Employee only,Owner/Exec,0.56
+categorical (chi-square),Age,Are you or have you ever been paid for any of your time spent participating in the WordPre,15,5,25.19,0.0014429995258022756,**,,,
+ordinal (Kruskal-Wallis),Contribution type,Impact of my contributions to the project,38,4,15.4,0.0015043114498430787,**,No contribution work,Community and code work,0.39
+ordinal (Kruskal-Wallis),Gender,"Right now, how do you feel overall about the WordPress open source project?",28,4,15.35,0.0015426984079592366,**,Prefer not to answer,Non-binary,1.07
+ordinal (Kruskal-Wallis),Contributor identity,Open source in WordPress,62,5,17.49,0.0015502517941047263,**,Strongly disagree,Strongly agree,0.47
+categorical (chi-square),Uses AI at work,"Do you contribute to or volunteer for organizations, projects or causes other than WordPre",64,2,17.41,0.001610801122395468,**,,,
+ordinal (Kruskal-Wallis),Work role,Working asynchronously,38,6,19.26,0.0017200204432134688,**,Other/Non-working,Employee+Freelance,0.61
+categorical (chi-square),Pay status,What is your age?,1,3,28.12,0.0017296204226994794,**,,,
+ordinal (Kruskal-Wallis),Event relationship,Events with smaller attendance,57,5,17.2,0.0017663393617069654,**,"Attend, multiple times a year","Never attended, would like to",0.46
+categorical (chi-square),Contributes to open source elsewhere,Problems with project leadership or governance,46,2,15.04,0.0017826809825908943,**,,,
+ordinal (Kruskal-Wallis),Participation level,Participating in a language other than English,38,6,19.02,0.0019059259109008788,**,Do not participate / Not applicable,Very active participation,0.97
+ordinal (Kruskal-Wallis),Contributor identity,Participating in a language other than English,38,5,17.03,0.0019059851934972469,**,Strongly disagree,Strongly agree,0.82
+ordinal (Kruskal-Wallis),Gender,AI in WordPress,34,4,14.89,0.0019159236678816015,**,Prefer not to answer,Female,0.91
+ordinal (Kruskal-Wallis),Pay status,Contributing to WordPress,34,3,12.41,0.0020175638199194214,**,Unpaid,Paid indirectly,0.45
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,Mentorship or guidance,38,2,9.49,0.002069319306335314,**,Yes,No,0.32
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,Attending in-person WordPress-related events is important to me.,50,2,9.37,0.0022038724156178287,**,Yes,No,0.44
+ordinal (Kruskal-Wallis),Gender,Particular speakers / keynotes,57,4,14.59,0.002204709198631013,**,Prefer not to answer,Female,0.87
+ordinal (Kruskal-Wallis),Experienced hostility personally,Project leadership,38,2,9.18,0.0024512862804464157,**,Did not experience,Experienced,0.29
+ordinal (Kruskal-Wallis),Experienced hostility personally,WordPress leadership,34,2,9.06,0.002616582646209894,**,Did not experience,Experienced,0.25
+categorical (chi-square),Work role,Are you currently using AI in your work?,65,6,18.08,0.0028423539854514827,**,,,
+ordinal (Kruskal-Wallis),Location,"Right now, how do you generally feel about open source software?",59,2,8.88,0.0028808338910354474,**,US,Non-US,0.24
+categorical (chi-square),Work role,Are you or have you ever been paid for any of your time spent participating in the WordPre,15,6,26.67,0.0029356428226154987,**,,,
+ordinal (Kruskal-Wallis),Participation level,Feeling welcome/included,38,6,18.0,0.0029409398521369444,**,Do not participate / Not applicable,Very active participation,0.82
+ordinal (Kruskal-Wallis),Participation level,Enterprise/scale issues,34,6,17.96,0.002996285291009519,**,Do not participate / Not applicable,Moderately active participation,0.77
+ordinal (Kruskal-Wallis),Uses AI at work,WordPress leadership,34,2,8.78,0.003052834458614305,**,Does not use AI,Uses AI,0.28
+ordinal (Kruskal-Wallis),Event relationship,Project governance/policies,38,5,15.93,0.0031144671236459464,**,"Attend, multiple times a year",Stopped attending,0.55
+categorical (chi-square),Experienced hostility personally,Which best describes your participation in official WordPress open source project events (,51,2,17.73,0.003308029613034606,**,,,
+ordinal (Kruskal-Wallis),Experienced hostility personally,WordPress governance,34,2,8.59,0.003374397702860046,**,Did not experience,Experienced,0.26
+categorical (chi-square),Location,Harassment or targeted negative behavior,46,2,13.65,0.003424458798264915,**,,,
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,How do you feel about the future of the WordPress open source project?,31,2,8.53,0.003495682032850603,**,Yes,No,0.27
+categorical (chi-square),Contributor identity,Do you contribute to open source projects other than the WordPress open source project?,63,5,35.27,0.0036531155282033506,**,,,
+ordinal (Kruskal-Wallis),Pay status,WordPress events and meetups,34,3,11.22,0.003664249113422082,**,Unpaid,Paid indirectly,0.47
+ordinal (Kruskal-Wallis),Participation change,WordPress governance,34,5,15.52,0.0037365916340314324,**,Significantly increased,Decreased,0.54
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,"Right now, how do you generally feel about AI in the tech industry?",67,2,8.38,0.0037903867729220564,**,Yes,No,0.38
+ordinal (Kruskal-Wallis),Work role,Personal capacity,38,6,17.4,0.003803474221757237,**,Other/Non-working,Employee+Owner,0.9
+ordinal (Kruskal-Wallis),Work role,Enterprise/scale issues,34,6,17.36,0.003864844554730624,**,Other/Non-working,Employee+Owner,1.0
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,Attending in-person WordPress-related events is important to me.,50,2,8.31,0.003946614648527586,**,Yes,No,0.39
+ordinal (Kruskal-Wallis),Gender,WordPress leadership,34,4,13.34,0.0039531453385184484,**,Prefer not to answer,Female,0.94
+ordinal (Kruskal-Wallis),Tenure (combined),Community development/engagement,57,5,15.14,0.00442220411764128,**,1-2 years,6-10 years,1.03
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,Open source values,34,2,8.09,0.0044554336283282505,**,No,Yes,0.22
+ordinal (Kruskal-Wallis),Work role,Topics of sessions / panels,57,6,17.01,0.004475381832945645,**,Other/Non-working,Employee only,0.92
+ordinal (Kruskal-Wallis),Experienced hostility personally,Participation in the WordPress community,38,2,8.0,0.004679968153069533,**,Did not experience,Experienced,0.24
+ordinal (Kruskal-Wallis),Uses AI at work,"Soft skill development (business development, personal development, etc.)",57,2,7.77,0.005312166324431379,**,Does not use AI,Uses AI,0.3
+ordinal (Kruskal-Wallis),Contribution type,Enterprise/scale issues,34,4,12.67,0.005408168146494842,**,No contribution work,Code / project work only,0.43
+categorical (chi-square),Income depends on WordPress,Dismissive or condescending responses to contributions or questions,46,3,18.16,0.005843694822760436,**,,,
+ordinal (Kruskal-Wallis),Age,Personal capacity,38,5,14.5,0.0058584012566527364,**,55-64,35-44,0.41
+ordinal (Kruskal-Wallis),Pay status,Impact of my participation on my professional or personal life,38,3,10.26,0.005903375951633572,**,Unpaid,Paid directly,0.34
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,Open source software,62,2,7.45,0.006350429432582721,**,No,Yes,0.16
+ordinal (Kruskal-Wallis),Participation level,"Business issues (mergers & acquisitions, product ecosystem, private equity investment, etc",34,6,16.17,0.006362159400317179,**,Inactive,Very active participation,0.71
+categorical (chi-square),Participation change,Has your sentiment toward open source software changed over the past 24 months?,60,5,14.25,0.006537192866819016,**,,,
+ordinal (Kruskal-Wallis),Participation level,Events with smaller attendance,57,6,16.08,0.006607004109837861,**,Very active participation,Do not participate / Not applicable,0.63
+ordinal (Kruskal-Wallis),Community membership,"Right now, how do you generally feel about open source software?",59,5,14.18,0.006735848891141049,**,Neutral,Strongly agree,0.4
+ordinal (Kruskal-Wallis),Participation level,Events with larger attendance,57,6,16.01,0.006810132330093342,**,Do not participate / Not applicable,Moderately active participation,0.67
+ordinal (Kruskal-Wallis),Event relationship,"Cost of attendance (travel, housing, etc.)",57,5,14.06,0.007101616271253841,**,"Attend, multiple times a year","Never attended, would like to",0.46
+ordinal (Kruskal-Wallis),Gender,Meeting professional development requirements,57,4,12.05,0.007207680730146762,**,Non-binary,Male,0.76
+ordinal (Kruskal-Wallis),Participation level,Open source in WordPress,62,6,15.83,0.00735873648765252,**,Do not participate / Not applicable,Very active participation,0.88
+ordinal (Kruskal-Wallis),Tenure (combined),Events with larger attendance,57,5,13.93,0.007514317766552426,**,1-2 years,10-15 years,1.11
+categorical (chi-square),Volunteers outside WordPress and open source,Problems with project leadership or governance,46,2,11.95,0.007541686741784705,**,,,
+ordinal (Kruskal-Wallis),Income depends on WordPress,Personal capacity,38,3,9.71,0.0078058504806011045,**,Partially,Yes,0.26
+categorical (chi-square),Contributes to open source elsewhere,Are you currently using AI in your work?,65,2,7.06,0.007891535914960734,**,,,
+ordinal (Kruskal-Wallis),Work role,I consider myself to be a member of the WordPress community.,22,6,15.66,0.00789164037030696,**,Other/Non-working,Owner/Exec,0.81
+categorical (chi-square),Event relationship,Have you attended any other open source or tech-related in-person conferences or events in,55,5,13.79,0.008001831030247698,**,,,
+ordinal (Kruskal-Wallis),Tenure (combined),"Right now, how do you generally feel about AI in WordPress?",68,5,13.79,0.008007844169981623,**,1-2 years,15+ years,1.09
+ordinal (Kruskal-Wallis),Gender,Impact of my participation on my professional or personal life,38,4,11.82,0.008040649587317893,**,Prefer not to answer,Female,0.65
+ordinal (Kruskal-Wallis),Event relationship,Participating in a language other than English,38,5,13.76,0.008105414139627733,**,"Never attended, would like to","Attend, multiple times a year",0.74
+ordinal (Kruskal-Wallis),Pay status,Networking opportunities,57,3,9.6,0.00823896793119065,**,Unpaid,Paid directly,0.39
+categorical (chi-square),Experienced hostility personally,Has your sentiment toward open source software changed over the past 24 months?,60,2,6.97,0.008269979712624668,**,,,
+ordinal (Kruskal-Wallis),Participation level,Impact of my participation on my professional or personal life,38,6,15.54,0.008304145531773818,**,Inactive,Very active participation,0.79
+ordinal (Kruskal-Wallis),Contribution type,"Right now, how do you feel overall about the WordPress open source project?",28,4,11.71,0.008432550003606484,**,No contribution work,Community and code work,0.42
+ordinal (Kruskal-Wallis),Location,Open source values,34,2,6.9,0.008608000790590688,**,US,Non-US,0.18
+ordinal (Kruskal-Wallis),Participation change,The WordPress community,34,5,13.6,0.008693906169162952,**,Significantly decreased,Significantly increased,0.53
+categorical (chi-square),Location,"Which best describes your participation in unofficial, WordPress-adjacent in-person events",53,2,15.41,0.008732129203969334,**,,,
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,"Right now, how do you generally feel about open source software?",59,2,6.85,0.008877602116347232,**,No,Yes,0.14
+ordinal (Kruskal-Wallis),Contributor identity,Events with smaller attendance,57,5,13.52,0.008995170608958113,**,Strongly agree,Disagree,0.49
+ordinal (Kruskal-Wallis),Uses AI at work,Impact of my contributions to the project,38,2,6.81,0.009069159219448626,**,Does not use AI,Uses AI,0.28
+categorical (chi-square),Experienced hostility personally,May we publicly cite and/or publish your free-written comments?,76,2,9.4,0.009090253423994889,**,,,
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,"Soft skill development (business development, personal development, etc.)",57,2,6.8,0.009114220970996281,**,Yes,No,0.27
+ordinal (Kruskal-Wallis),Tenure (combined),"Right now, how do you generally feel about AI in the tech industry?",67,5,13.49,0.009119244535516567,**,1-2 years,6-10 years,1.02
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,"Right now, how do you generally feel about AI in WordPress?",68,2,6.79,0.00917675474674911,**,Yes,No,0.27
+ordinal (Kruskal-Wallis),Community membership,Open source in WordPress,62,5,13.46,0.009237676128778467,**,Strongly disagree,Strongly agree,0.87
+ordinal (Kruskal-Wallis),Gender,Open source in AI,62,4,11.43,0.009623578193085486,**,Prefer not to answer,Female,1.02
+ordinal (Kruskal-Wallis),Income depends on WordPress,WordPress open source software,34,3,9.25,0.009820830673623262,**,No,Yes,0.25
+ordinal (Kruskal-Wallis),Gender,"Cost of attendance (travel, housing, etc.)",57,4,11.36,0.009952903185379813,**,Prefer not to answer,Female,0.55
+ordinal (Kruskal-Wallis),Experienced hostility personally,The WordPress community,34,2,6.63,0.010029188123477504,*,Did not experience,Experienced,0.23
+ordinal (Kruskal-Wallis),Gender,Enterprise/scale issues,34,4,11.32,0.0101321208268877,*,Prefer not to answer,Female,0.77
+ordinal (Kruskal-Wallis),Event relationship,Impact of my contributions to the project,38,5,13.24,0.010145090479229532,*,"Never attended, would like to","Attend, multiple times a year",0.47
+ordinal (Kruskal-Wallis),Income depends on WordPress,Enterprise/scale issues,34,3,9.16,0.010258732149107191,*,No,Yes,0.4
+ordinal (Kruskal-Wallis),Gender,"Right now, how do you generally feel about open source software?",59,4,11.28,0.010317904289175447,*,Female,Non-binary,0.44
+ordinal (Kruskal-Wallis),Location,Contributing to WordPress,34,2,6.44,0.01114548127933617,*,US,Non-US,0.29
+categorical (chi-square),Contribution type,Do you contribute to open source projects other than the WordPress open source project?,63,4,25.87,0.011198057513384608,*,,,
+categorical (chi-square),Income depends on WordPress,What is your age?,1,3,22.81,0.01148662183189391,*,,,
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,Impact of my participation on my professional or personal life,38,2,6.37,0.011630044692873162,*,Yes,No,0.25
+categorical (chi-square),Event relationship,Hostility or rudeness,46,5,25.63,0.01210624015630936,*,,,
+ordinal (Kruskal-Wallis),Tenure (combined),Participating in a language other than English,38,5,12.82,0.012177198239519028,*,1-2 years,6-10 years,1.15
+ordinal (Kruskal-Wallis),Contribution type,WordPress leadership,34,4,10.91,0.01222678605710583,*,Code / project work only,Community work only,0.34
+ordinal (Kruskal-Wallis),Event relationship,WordPress open source software,34,5,12.8,0.012306292687050756,*,"Never attended, not interested","Attend, multiple times a year",0.31
+ordinal (Kruskal-Wallis),Contributor identity,Feeling welcome/included,38,5,12.72,0.012730779326125114,*,Strongly disagree,Strongly agree,0.39
+ordinal (Kruskal-Wallis),Income depends on WordPress,Events with larger attendance,57,3,8.71,0.012822745382384306,*,No,Partially,0.32
+ordinal (Kruskal-Wallis),Pay status,Attending in-person WordPress-related events is important to me.,50,3,8.7,0.012928434718107526,*,Unpaid,Paid directly,0.43
+ordinal (Kruskal-Wallis),Experienced hostility personally,Project governance/policies,38,2,6.15,0.013138658896391342,*,Did not experience,Experienced,0.25
+categorical (chi-square),Location,Other (please describe),9,2,10.75,0.013181382693853553,*,,,
+ordinal (Kruskal-Wallis),Income depends on WordPress,How do you feel about the future of the WordPress open source project?,31,3,8.65,0.013230353086943737,*,Partially,Yes,0.34
+categorical (chi-square),Event relationship,"Do you contribute to or volunteer for organizations, projects or causes other than WordPre",64,5,31.0,0.013461357471788563,*,,,
+categorical (chi-square),Income depends on WordPress,Language or content that made me or others feel unwelcome or excluded,46,3,15.96,0.013958724926044842,*,,,
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,I consider myself to be a contributor to the WordPress open source project.,19,2,6.04,0.013963967436637989,*,No,Yes,0.32
+ordinal (Kruskal-Wallis),Experienced hostility personally,"Advocacy on behalf of web standards (accessibility, privacy, etc.)",38,2,6.02,0.014140515315398764,*,Did not experience,Experienced,0.2
+ordinal (Kruskal-Wallis),Age,Impact of my participation on my professional or personal life,38,5,12.47,0.014173256916047306,*,55-64,45-54,0.4
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,The sustainability of open source projects,62,2,5.98,0.014478937856006518,*,No,Yes,0.13
+ordinal (Kruskal-Wallis),Location,"Right now, how do you feel overall about the WordPress open source project?",28,2,5.87,0.01537289098649396,*,US,Non-US,0.26
+ordinal (Kruskal-Wallis),Pay status,"Right now, how do you generally feel about AI in WordPress?",68,3,8.32,0.01561500442294571,*,Unpaid,Paid directly,0.37
+ordinal (Kruskal-Wallis),Tenure (combined),Contributing to WordPress,34,5,12.22,0.015804763034469486,*,3-6 years,15+ years,0.63
+categorical (chi-square),Uses AI at work,Has your sentiment toward the WordPress open source project changed over the past 24 month,29,2,5.8,0.015983623083369824,*,,,
+ordinal (Kruskal-Wallis),Income depends on WordPress,"Business issues (mergers & acquisitions, product ecosystem, private equity investment, etc",34,3,8.23,0.01631863804080597,*,Partially,Yes,0.37
+ordinal (Kruskal-Wallis),Event relationship,Working asynchronously,38,5,12.11,0.016531126024989767,*,"Never attended, not interested","Attend, annually or occasionally",0.52
+ordinal (Kruskal-Wallis),Income depends on WordPress,"Soft skill development (business development, personal development, etc.)",57,3,8.2,0.016599726240958814,*,No,Partially,0.34
+ordinal (Kruskal-Wallis),Tenure (combined),Participation in the WordPress community,38,5,12.04,0.017043835781581907,*,3-6 years,10-15 years,0.45
+categorical (chi-square),Income depends on WordPress,Harassment or targeted negative behavior,46,3,15.43,0.017140847680343154,*,,,
+ordinal (Kruskal-Wallis),Gender,Cost of ticket,57,4,10.14,0.017381131929019206,*,Male,Non-binary,0.54
+ordinal (Kruskal-Wallis),Contributor identity,Enterprise/scale issues,34,5,11.96,0.01767304226119133,*,Strongly disagree,Agree,0.51
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,"Right now, how do you generally feel about AI in web development (vibe coding, agentic dev",69,2,5.62,0.01772386309594517,*,Yes,No,0.33
+ordinal (Kruskal-Wallis),Gender,Open source values,34,4,10.08,0.017916125757359378,*,Prefer not to answer,Non-binary,0.7
+ordinal (Kruskal-Wallis),Location,Attending in-person WordPress-related events is important to me.,50,2,5.57,0.018317161853925443,*,US,Non-US,0.31
+ordinal (Kruskal-Wallis),Community membership,Open source software,62,5,11.86,0.018394004114414338,*,Strongly disagree,Strongly agree,0.47
+categorical (chi-square),Contributes to open source elsewhere,Hostility or rudeness,46,2,9.93,0.01915089462593576,*,,,
+ordinal (Kruskal-Wallis),Community membership,Working asynchronously,38,5,11.64,0.020280818180032915,*,Strongly disagree,Strongly agree,0.51
+categorical (chi-square),Pay status,What size is the company you work for?,6,3,14.95,0.020662634391264586,*,,,
+categorical (chi-square),Location,Are you or have you ever been paid for any of your time spent participating in the WordPre,15,2,7.72,0.02109554146345449,*,,,
+ordinal (Kruskal-Wallis),Location,Open source values (whatever that means to you)required,62,2,5.29,0.02146117683576761,*,US,Non-US,0.17
+ordinal (Kruskal-Wallis),Work role,Cost of ticket,57,6,13.21,0.021524859077023506,*,Owner/Exec,Freelancer only,0.54
+ordinal (Kruskal-Wallis),Pay status,AI in WordPress,34,3,7.66,0.02169467127979541,*,Unpaid,Paid directly,0.45
+ordinal (Kruskal-Wallis),Experienced hostility personally,Project roadmap,38,2,5.27,0.02171041105652793,*,Did not experience,Experienced,0.24
+ordinal (Kruskal-Wallis),Contribution type,Open source values,34,4,9.65,0.021831619245802222,*,Community work only,Community and code work,0.32
+ordinal (Kruskal-Wallis),Income depends on WordPress,"Right now, how do you feel overall about the WordPress open source project?",28,3,7.62,0.022160468294694098,*,Partially,Yes,0.38
+ordinal (Kruskal-Wallis),Gender,Personal capacity,38,4,9.6,0.02229336767698758,*,Prefer not to answer,Non-binary,0.72
+ordinal (Kruskal-Wallis),Participation level,Collaboration with the greater open source ecosystem,34,6,13.12,0.02232381918383207,*,Do not participate / Not applicable,Inactive,0.74
+ordinal (Kruskal-Wallis),Participation level,Topics of sessions / panels,57,6,13.1,0.022484644591030282,*,Very active participation,Observational only,0.5
+ordinal (Kruskal-Wallis),Income depends on WordPress,Impact of my contributions to the project,38,3,7.51,0.023396658925232055,*,No,Yes,0.3
+categorical (chi-square),Event relationship,Problems with project leadership or governance,46,5,23.55,0.02341180232180348,*,,,
+ordinal (Kruskal-Wallis),Contribution type,Financial incentives/restraints,38,4,9.49,0.023474117848986512,*,No contribution work,Community work only,0.41
+ordinal (Kruskal-Wallis),Uses AI at work,Project governance/policies,38,2,5.13,0.02356381663700299,*,Uses AI,Does not use AI,0.27
+categorical (chi-square),Location,Dismissive or condescending responses to contributions or questions,46,2,9.36,0.024838511449529376,*,,,
+ordinal (Kruskal-Wallis),Income depends on WordPress,WordPress leadership,34,3,7.39,0.024860891593885062,*,No,Yes,0.23
+categorical (chi-square),Uses AI at work,Has your sentiment toward open source software changed over the past 24 months?,60,2,5.03,0.024866076411836604,*,,,
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,Participation in the WordPress community,38,2,5.01,0.025129463704051877,*,Yes,No,0.24
+ordinal (Kruskal-Wallis),Pay status,Events with larger attendance,57,3,7.31,0.025897050254192675,*,Unpaid,Paid directly,0.3
+ordinal (Kruskal-Wallis),Location,"Business issues (mergers & acquisitions, product ecosystem, private equity investment, etc",34,2,4.96,0.026000904573008465,*,Non-US,US,0.27
+ordinal (Kruskal-Wallis),Tenure (combined),The WordPress community,34,5,11.04,0.026159770806283907,*,1-2 years,15+ years,0.65
+ordinal (Kruskal-Wallis),Event relationship,WordPress governance,34,5,11.03,0.026234439158656128,*,"Never attended, not interested","Never attended, would like to",0.48
+ordinal (Kruskal-Wallis),Location,Project leadership,38,2,4.91,0.026628372785994062,*,Non-US,US,0.19
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,"Right now, how do you feel overall about the WordPress open source project?",28,2,4.91,0.02669546595528793,*,Yes,No,0.24
+categorical (chi-square),Volunteers outside WordPress and open source,Which best describes your participation in official WordPress open source project events (,51,2,12.65,0.026884702602065293,*,,,
+ordinal (Kruskal-Wallis),Participation change,Mentorship or guidance,38,5,10.94,0.027247317248551034,*,Significantly decreased,Significantly increased,0.8
+ordinal (Kruskal-Wallis),Pay status,"Right now, how do you generally feel about AI in the tech industry?",67,3,7.15,0.028034164831601968,*,Unpaid,Paid directly,0.42
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,Collaboration with the greater open source ecosystem,34,2,4.82,0.028063062370792896,*,No,Yes,0.17
+categorical (chi-square),Pay status,"With regard to AI's current impact on your work or income, which of the following are true",71,3,14.14,0.028133729128276466,*,,,
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,Financial incentives/restraints,38,2,4.8,0.02853826814577066,*,Yes,No,0.24
+ordinal (Kruskal-Wallis),Gender,"Soft skill development (business development, personal development, etc.)",57,4,9.05,0.02859532147854068,*,Prefer not to answer,Female,0.65
+ordinal (Kruskal-Wallis),Location,The WordPress community,34,2,4.78,0.028733601677907006,*,US,Non-US,0.18
+ordinal (Kruskal-Wallis),Community membership,Cost of ticket,57,5,10.81,0.028792344073624302,*,Strongly agree,Strongly disagree,0.52
+categorical (chi-square),Participation change,"With regard to AI's future impact on your work or income, which of the following are true ",73,5,22.85,0.028986330393166088,*,,,
+ordinal (Kruskal-Wallis),Work role,AI in WordPress,34,6,12.46,0.02905091741333041,*,Other/Non-working,Owner/Exec,0.77
+ordinal (Kruskal-Wallis),Contributor identity,"Hard skill development (technical instruction, workshops, etc.)",57,5,10.77,0.029218371197536157,*,Strongly agree,Disagree,0.41
+ordinal (Kruskal-Wallis),Work role,Participating in a language other than English,38,6,12.4,0.029678682912781026,*,Employee+Owner,Freelancer only,1.02
+ordinal (Kruskal-Wallis),Pay status,Enterprise/scale issues,34,3,7.02,0.029877103090942162,*,Unpaid,Paid indirectly,0.31
+ordinal (Kruskal-Wallis),Participation change,WordPress leadership,34,5,10.7,0.030113803494126953,*,Significantly increased,Decreased,0.4
+ordinal (Kruskal-Wallis),Experienced hostility personally,Attending in-person WordPress-related events is important to me.,50,2,4.7,0.030163881126939712,*,Did not experience,Experienced,0.3
+ordinal (Kruskal-Wallis),Location,WordPress events and meetups,34,2,4.69,0.03037047539139326,*,US,Non-US,0.27
+ordinal (Kruskal-Wallis),Contributor identity,Collaboration with the greater open source ecosystem,34,5,10.59,0.03155422172520908,*,Strongly disagree,Strongly agree,0.51
+categorical (chi-square),Location,What is your age?,1,2,12.16,0.03261616853159416,*,,,
+ordinal (Kruskal-Wallis),Gender,Participating in a language other than English,38,4,8.76,0.03266229625125054,*,Prefer not to answer,Female,0.69
+categorical (chi-square),Participation change,"With regard to AI's current impact on your work or income, which of the following are true",71,5,22.46,0.03266270229745568,*,,,
+ordinal (Kruskal-Wallis),Gender,"Advocacy on behalf of web standards (accessibility, privacy, etc.)",38,4,8.71,0.033390081685363705,*,Prefer not to answer,Non-binary,0.66
+categorical (chi-square),Tenure (combined),Are you or have you ever been paid for any of your time spent participating in the WordPre,15,5,16.69,0.03349565797537001,*,,,
+categorical (chi-square),Event relationship,Has your sentiment toward the WordPress open source project changed over the past 24 month,29,5,10.43,0.03381969926463553,*,,,
+ordinal (Kruskal-Wallis),Event relationship,Project leadership,38,5,10.41,0.03413039730662442,*,"Attend, multiple times a year",Stopped attending,0.43
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,Open source in AI,62,2,4.47,0.034515801896439435,*,Yes,No,0.37
+ordinal (Kruskal-Wallis),Work role,"Right now, how do you generally feel about AI in WordPress?",68,6,12.02,0.03451701808686922,*,Other/Non-working,Owner/Exec,0.88
+categorical (chi-square),Location,What size is the company you work for?,6,2,8.61,0.03499158604180375,*,,,
+ordinal (Kruskal-Wallis),Uses AI at work,Open source in WordPress,62,2,4.38,0.03634514413849737,*,Uses AI,Does not use AI,0.16
+ordinal (Kruskal-Wallis),Experienced hostility personally,Contributing to WordPress,34,2,4.37,0.036553481906534194,*,Did not experience,Experienced,0.18
+ordinal (Kruskal-Wallis),Uses AI at work,Events with smaller attendance,57,2,4.36,0.036867402166504366,*,Uses AI,Does not use AI,0.22
+ordinal (Kruskal-Wallis),Age,Working asynchronously,38,5,10.21,0.03700627246775694,*,55-64,35-44,0.43
+categorical (chi-square),Contribution type,Hostility or rudeness,46,4,17.8,0.03761352888490829,*,,,
+ordinal (Kruskal-Wallis),Uses AI at work,Feeling welcome/included,38,2,4.29,0.03839545670171924,*,Does not use AI,Uses AI,0.21
+categorical (chi-square),Location,Conflict or ongoing interpersonal tension between community members,46,2,8.4,0.03842283041292499,*,,,
+ordinal (Kruskal-Wallis),Participation change,Feeling welcome/included,38,5,10.1,0.038849440978113964,*,No change / About the same,Significantly increased,0.5
+ordinal (Kruskal-Wallis),Uses AI at work,"Advocacy on behalf of web standards (accessibility, privacy, etc.)",38,2,4.27,0.03889285130443644,*,Uses AI,Does not use AI,0.19
+ordinal (Kruskal-Wallis),Location,Participation in the WordPress community,38,2,4.26,0.03898243362818091,*,US,Non-US,0.26
+ordinal (Kruskal-Wallis),Gender,"Business issues (mergers & acquisitions, product ecosystem, private equity investment, etc",34,4,8.29,0.04031051888700799,*,Prefer not to answer,Female,0.66
+ordinal (Kruskal-Wallis),Uses AI at work,Personal capacity,38,2,4.2,0.0403328878148341,*,Does not use AI,Uses AI,0.18
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,Enterprise/scale issues,34,2,4.19,0.0406846192084544,*,Yes,No,0.24
+ordinal (Kruskal-Wallis),Work role,"Soft skill development (business development, personal development, etc.)",57,6,11.55,0.04150829309206209,*,Other/Non-working,Employee+Owner,0.86
+ordinal (Kruskal-Wallis),Participation level,Mentorship or guidance,38,6,11.54,0.04159901391437732,*,Occasional participation,Moderately active participation,0.45
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,Understanding how to participate,38,2,4.15,0.04166116011352639,*,Yes,No,0.23
+ordinal (Kruskal-Wallis),Event relationship,"Advocacy on behalf of web standards (accessibility, privacy, etc.)",38,5,9.92,0.04176219776942925,*,"Attend, multiple times a year",Stopped attending,0.36
+categorical (chi-square),Contribution type,Have you attended any other open source or tech-related in-person conferences or events in,55,4,8.21,0.04183086940016604,*,,,
+ordinal (Kruskal-Wallis),Community membership,A regional/destination location,57,5,9.92,0.04187261951784936,*,Strongly disagree,Strongly agree,0.69
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,WordPress leadership,34,2,4.11,0.042518607176550226,*,Yes,No,0.27
+ordinal (Kruskal-Wallis),Participation change,Financial incentives/restraints,38,5,9.84,0.04326981577433598,*,No change / About the same,Significantly increased,0.81
+ordinal (Kruskal-Wallis),Event relationship,"Right now, how do you generally feel about open source software?",59,5,9.79,0.04409449451973617,*,Stopped attending,"Attend, multiple times a year",0.33
+ordinal (Kruskal-Wallis),Contributor identity,Financial incentives/restraints,38,5,9.77,0.044410594061918156,*,Strongly disagree,Neutral,0.53
+categorical (chi-square),Volunteers outside WordPress and open source,Hostility or rudeness,46,2,8.08,0.04448184782996006,*,,,
+ordinal (Kruskal-Wallis),Work role,WordPress leadership,34,6,11.37,0.0445739035447342,*,Other/Non-working,Employee+Freelance,0.75
+categorical (chi-square),Contributes to open source elsewhere,Has your level of community participation in the WordPress open source project changed in ,37,2,9.76,0.0447209285322152,*,,,
+ordinal (Kruskal-Wallis),Contributes to open source elsewhere,"Business issues (mergers & acquisitions, product ecosystem, private equity investment, etc",34,2,4.03,0.04478493842226853,*,Yes,No,0.24
+ordinal (Kruskal-Wallis),Location,Open source software,62,2,4.0,0.04546362864731813,*,US,Non-US,0.13
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,"Business issues (mergers & acquisitions, product ecosystem, private equity investment, etc",34,2,3.99,0.04578648397558226,*,Yes,No,0.24
+ordinal (Kruskal-Wallis),Location,Enterprise/scale issues,34,2,3.98,0.04594526721675748,*,Non-US,US,0.21
+ordinal (Kruskal-Wallis),Pay status,Impact of my contributions to the project,38,3,6.16,0.04598178532321245,*,Unpaid,Paid directly,0.25
+ordinal (Kruskal-Wallis),Event relationship,A location local to you,57,5,9.67,0.04641133149078891,*,"Attend, multiple times a year","Never attended, would like to",0.61
+ordinal (Kruskal-Wallis),Pay status,The WordPress community,34,3,6.14,0.04645749563476554,*,Unpaid,Paid indirectly,0.22
+ordinal (Kruskal-Wallis),Work role,Community development/engagement,57,6,11.16,0.04823125570711494,*,Other/Non-working,Employee+Freelance,0.77
+categorical (chi-square),Contributes to open source elsewhere,"With regard to AI's current impact on your work or income, which of the following are true",71,2,7.88,0.04858676552418948,*,,,
+ordinal (Kruskal-Wallis),Volunteers outside WordPress and open source,Open source software,62,2,3.86,0.049339400053840084,*,No,Yes,0.14
+categorical (chi-square),Location,What is your gender?,2,2,7.82,0.04994319319869202,*,,,
